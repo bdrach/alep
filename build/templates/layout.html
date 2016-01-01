@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset=utf-8>
+    <title>{% block title %}{% endblock %} | Advanced Level Experimental Physics</title>
+    <link rel="stylesheet" href="{{root_dir}}static/style.css" type="text/css">
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        displayAlign: "left",
+        displayIndent: "50px",
+      });
+    </script>
+    <script type="text/javascript"
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+    </script>
+  </head>
+  <body>
+    <div class=container>
+      <div class=header>
+        <div class=site-title>
+          <a href="{{root_dir}}index.html">Advanced Level Experimental Physics</a>
+        </div>
+        {% if False %}
+          <div class=pdf_link>
+            <a href={{pdf_link}}>PDF</a>
+          </div>
+        {% endif %}
+      </div>
+      <div class=body>
+        {% block body %}{% endblock %}
+      </div>
+      <div class=footer>
+        <p>&copy; {{year}} <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> by Bob Drach and Norman Price
+        <p> <a href="{{root_dir}}about.html"> About </a>
+      </div>
+    </div>
+  </body>
+</html>

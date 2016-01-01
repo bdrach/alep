@@ -1,0 +1,93 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic,300,300italic&subset=latin,latin-ext);
+
+/* Inspired by css from Armin Ronacher <lucumr.pocoo.org> */
+
+/* general */
+body    { font: 17px/25px 'Merriweather', serif;
+          margin: 0; padding: 0; font-weight: 400; color: black; }
+a       { color: #20529b; font-weight: 400; }
+a:hover { color: #041548; }
+
+/* headlines */
+h1, h2, h3, h4, h5, h6      { font-family: 'Merriweather', serif;
+                              font-weight: 400; color: #082c62 }
+h1 a                        { text-decoration: none; }
+h1 a:hover                  { text-decoration: underline; }
+h1                          { margin: 35px 0 25px 0; font-size: 38px; line-height: 38px; }
+h1 em                       { color: black; font-size: 32px; display: block;
+                              margin-left: 25px; margin-top: -15px; }
+
+/* layout */
+div.container               { max-width: 880px; margin: 30px auto; padding: 0 40px; }
+div.header                  { margin-bottom: 45px; width: 100%; }
+div.site-title              { padding: 15px 0px 13px 25px; font-size: 24px;  margin-bottom: 0;
+                              background-color: #082c62; }
+div.site-title a            { text-decoration: none; color: white; line-height: 1.4;}
+div.site-title a:hover      { text-decoration: none; color: #ccc; }
+div.body                    { clear: both; margin: 0 30px; line-height: 1.6; }
+div.footer                  { margin-top: 55px; font-size: 16px;
+                              text-align: right; color: #7b8894; }
+div.footer p                { margin: 0; }
+div.footer a                { color: #7b8894; }
+
+/* PDF link */
+div.pdf_link                 {float: right; font-size: 12px; margin: 0; padding: 0px 3px; 
+                                color: white; line-height: 1.5; }
+div.pdf_link a               {text-decoration: none; font-weight: bold}
+
+/* index preamble */
+/* div.preamble              { float: right; text-align: right; } */
+div.preamble a                  { text-decoration:  none; }
+div.preamble ul                 { margin: 0; padding: 0; list-style: none; line-height: 1.45; }
+div.preamble ul li              { /* display: inline; */ padding: 0; margin: 12px 5px; font-size: 20px; }
+
+/* margins */
+p, div.line-block, ul, ol, pre,
+    table                       { margin: 15px 0 15px 0; }
+dt                              { margin: 25px 0 16px 0; padding: 0; }
+dd                              { margin: 16px 0 25px 40px; padding: 0; }
+ul ol, ol ul, ul ul, ol ol      { margin: 10px 0; padding: 0 0 0 40px; }
+h1 + p.date                     { margin-top: -25px; font-style: italic; }
+
+/* tables */
+table                           { border: 1px solid #ddd; border-collapse: collapse;
+                                    background: #fafafa; }
+td, th                          { padding: 2px 12px; border: 1px solid #ddd; }
+
+/* footnotes */
+table.footnote                  { margin: 25px 0; background: transparent; border: none; }
+table.footnote + table.footnote { margin-top: -35px; }
+table.footnote td               { border: none; padding: 9px 0 0 0; font-size: 15px; }
+table.footnote td.label         { padding-right: 10px; }
+table.footnote td p             { margin: 0; }
+table.footnote td p + p         { margin-top: 15px; }
+
+/* index */
+div.lab_index ul               { list-style: none; line-height: 1.45; margin: 0; padding: 0; }
+div.lab_index ul li            { padding-bottom: 12px; }
+
+div.lab_index div.info,
+div.lab_index div.id,
+div.lab_index div.info p       { display: block; line-height: 30px; 
+                                 margin: 0; padding: 0; }
+
+ul.exam_questions div.info     { margin-left: 130px; font-size: 20px;}
+ul.labs div.info               { margin-left: 60px; font-size: 20px;}
+
+ul.labs div.id                 { width: 50px; }
+ul.exam_questions div.id       { width: 120px; }
+
+div.lab_index div.id           { float: left; text-align: right; color: #41474C;}
+div.lab_index div.info a       { color: #20529b; text-decoration: none }
+div.lab_index div.info a:hover { color: #041548; text-decoration: none }
+
+/* images */
+img {max-width: 100%; max-height: 500px; display: block; margin: 20px auto 20px auto; }
+ol.arabic {list-style-type: decimal; }
+ol.arabic li {margin: 15px 0 15px 0; }
+ol.loweralpha {list-style-type: lower-alpha; }
+ol.loweralpha li {margin: 13px 0 13px 0; }
+ol.lowerroman {list-style-type: lower-roman; }
+ol.lowerroman li {margin: 10px 0 13px 0; }
+div.section p { margin: 7px 0 7px 0; }

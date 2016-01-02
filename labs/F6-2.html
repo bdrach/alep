@@ -1,0 +1,169 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset=utf-8>
+    <title>Mutual Inductance - Transformers | Advanced Level Experimental Physics</title>
+    <link rel="stylesheet" href="/static/style.css" type="text/css">
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        displayAlign: "left",
+        displayIndent: "50px",
+      });
+    </script>
+    <script type="text/javascript"
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+    </script>
+  </head>
+  <body>
+    <div class=container>
+      <div class=header>
+        <div class=site-title>
+          <a href="/index.html">Advanced Level Experimental Physics</a>
+        </div>
+        
+      </div>
+      <div class=body>
+        
+  <div class="document" id="f6-2-mutual-inductance-transformers">
+<h1 class="title">F6-2: Mutual Inductance - Transformers</h1>
+<p><em>NB: Students are advised to perform experiment F6-1 Self Inductance before
+attempting F6-2.</em></p>
+<div class="section" id="apparatus">
+<h1>Apparatus</h1>
+<p>Coils 300 turns &amp; 150 turns; wire for 20 turn &amp; 10 turn coils; 2 iron
+C-cores; C-core clip; 10<span class="math">\(\Omega\)</span> and 5<span class="math">\(\Omega\)</span>
+resistors; CRO (oscilloscope); AC power supply; connecting leads (5
+short).</p>
+<p><em>NB: This experiment requires mains electricity.</em></p>
+</div>
+<div class="section" id="procedure">
+<h1>Procedure</h1>
+<ol class="arabic">
+<li><p class="first">Construct the following:</p>
+<p><img alt="F6-2.1" src="/static/images/55.png" /></p>
+</li>
+</ol>
+<ol class="loweralpha">
+<li><p class="first">Using <span class="math">\(N_p\)</span> = 150 turns, <span class="math">\(N_s\)</span> = 10 turns. Measure and
+set <span class="math">\(V_{in} = V_p = 4\)</span>V peak. Measure <span class="math">\(V_s\)</span> peak.
+Calculate <span class="math">\(\frac{V_p}{V_s}\)</span> and <span class="math">\(\frac{N_p}{N_s}\)</span> and
+compare their values.</p>
+</li>
+<li><p class="first">Repeat a) with the following numbers of turns:</p>
+<p><img alt="F6-2.2" src="/static/images/57.png" /></p>
+</li>
+<li><p class="first">Keeping <span class="math">\(N_p = 150\)</span> turns and <span class="math">\(N_s = 300\)</span> turns, reduce
+<span class="math">\(V_{in} = V_p\)</span> to 2V peak. Measure <span class="math">\(V_s\)</span> peak, and
+calculate and compare <span class="math">\(\frac{V_p}{V_s}\)</span> and
+<span class="math">\(\frac{N_p}{N_s}\)</span>.</p>
+</li>
+<li><p class="first">Remove the clip from the iron cores, and remove one C-core. Place two coils,
+one on each arm of a single C-core. Again use <span class="math">\(N_p = 150\)</span> turns and
+<span class="math">\(N_s = 300\)</span> turns. Set <span class="math">\(V_{in} = V_p = 4\)</span>V peak.
+Measure <span class="math">\(V_s\)</span>.</p>
+</li>
+</ol>
+<ol class="arabic" start="2">
+<li><p class="first">Construct the following with <span class="math">\(N_p = 300\)</span> turns,
+<span class="math">\(N_s = 150\)</span> turns, and an extra test coil of 10 turns as shown:</p>
+<p><img alt="F6-2.3" src="/static/images/58.png" /></p>
+</li>
+</ol>
+<ol class="loweralpha simple">
+<li>Connect the CRO to measure <span class="math">\(V_p\)</span> peak, and set <span class="math">\(V_{in}\)</span>
+so that <span class="math">\(V_p = 4\)</span>V peak.</li>
+<li>Measure <span class="math">\(V_R\)</span> peak, and thus calculate <span class="math">\(I_p\)</span> peak, the
+current in the primary circuit.</li>
+<li>Measure <span class="math">\(V_T\)</span> peak, across the 10 turn test coil.</li>
+<li>Connect a 5<span class="math">\(\Omega\)</span> resistor between <strong>A</strong> and <strong>B</strong>, across
+the 150 turn secondary coil. Connect the CRO to measure <span class="math">\(V_p\)</span>
+and adjust <span class="math">\(V_{in}\)</span> so that <span class="math">\(V_p = 4\)</span>V peak.</li>
+<li>Measure <span class="math">\(V_R\)</span> peak, and thus calculate <span class="math">\(I_p\)</span> peak.</li>
+<li>Measure <span class="math">\(V_T\)</span> peak again. This should be about the same size as
+the value measured in procedure 2 c) above.</li>
+</ol>
+</div>
+<div class="section" id="theory">
+<h1>Theory</h1>
+<ol class="arabic">
+<li><p class="first">Flux <span class="math">\(\Phi\)</span> and induced emf <span class="math">\(E\)</span> are related by the
+following:</p>
+<div class="math">
+\begin{align*}
+E_p &amp;= -N_p \frac{d \Phi_s}{dt} \qquad \qquad \textbf{---- equation A} \\
+E_s &amp;= -N_s \frac{d \Phi_p}{dt} \qquad \qquad \textbf{---- equation B}
+\end{align*}
+</div>
+<p>The unit of flux is the weber - Wb.  When <span class="math">\(\Phi_s\)</span> (the flux through the secondary coil)
+<span class="math">\(=\Phi_p\)</span> (the flux through the primary coil), then:</p>
+<blockquote>
+<div class="math">
+\begin{equation*}
+\frac{d \Phi_s}{dt} = \frac{d \Phi_p}{dt}
+\end{equation*}
+</div>
+</blockquote>
+<p>therefore:</p>
+<div class="math">
+\begin{equation*}
+\frac{E_s}{N_s} = \frac{E_p}{N_p}
+\end{equation*}
+</div>
+<p>thus:</p>
+<div class="math">
+\begin{equation*}
+\frac{E_p}{E_s} = \frac{N_p}{N_s}
+\end{equation*}
+</div>
+<p>If the resistances of the primary coil and the secondary coil are
+both low and the currents flowing through them are not too large,
+then:</p>
+<div class="math">
+\begin{equation*}
+V_p \approx E_p \quad \text{and} \quad V_s \approx E_s
+\end{equation*}
+</div>
+</li>
+<li><p class="first">The 10 turn coil is used to detect if the flux <span class="math">\(\Phi\)</span> in the
+iron core changes in the experiment. If
+<span class="math">\(\Phi = \Phi_{peak} \sin \omega t\)</span>, then equation 1B can be
+used to show that <span class="math">\(V_T\)</span> peak <span class="math">\(\propto \Phi_{peak}\)</span>,
+provided that <span class="math">\(\omega\)</span> is constant.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="analysis">
+<h1>Analysis</h1>
+<ol class="arabic simple">
+<li>Why, in experiment 1a) to 1c), are the two calculated ratios not
+exactly equal (hint: use the theory, and the fact that the primary
+coil has some resistance)?</li>
+<li>Use the theory to explain the result of procedure 1 d).</li>
+<li>According to Lenz's Law, the induced current in the secondary coil in
+the procedure 2 d) is in such a direction so as to <strong>reduce</strong>
+the flux in the core. However procedure 2 f) shows that the flux remains
+approximately constant. How is this possible (hint: consider the
+primary coil)?</li>
+<li>Give an explanation in terms of power flow for the change in
+<span class="math">\(I_p\)</span> produced as a result of connecting the 5<span class="math">\(\Omega\)</span>
+resistor to the secondary coil.</li>
+<li><ol class="first loweralpha">
+<li>These coils are simple electrical transformers.  What are the causes of
+power loss in a transformer, and how can they be minimised?</li>
+<li>All electricity supply companies use transformers in their power
+distribution systems. Explain, giving reasons, how they are used.</li>
+</ol>
+</li>
+</ol>
+</div>
+</div>
+
+
+      </div>
+      <div class=footer>
+        <p>&copy; 2016 <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> by Bob Drach and Norman Price
+        <p> <a href="/about.html"> About </a>
+      </div>
+    </div>
+  </body>
+</html>

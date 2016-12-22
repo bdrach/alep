@@ -91,7 +91,9 @@ class TopLevelPageConverter(Converter):
     def run(self):
         for entry in os.listdir(self.source_dir):
             source_entry = os.path.join(self.source_dir, entry)
-            if not os.path.isfile(source_entry) or not source_entry.endswith('.rst'):
+            if not source_entry.endswith('.rst'):
+                if os.path.isfile(source_entry):
+                    shutil.copy(source_entry, self.dest_dir)
                 continue
             rst, header = self.read_rst(source_entry)
             html_body = self.rst_to_html(rst)
@@ -151,11 +153,11 @@ class LabConverter(Converter):
 
 
 class RstToHtml:
-    def __init__(self, source_rst_dir, templates_dir, dest_dir, local):
+    def __init__(self, source_rst_dir, templates_dir, dest_dir, local, root="/"):
         jinja_env = Environment(loader=FileSystemLoader(templates_dir))
         content_page_template = jinja_env.get_template('content_page.html')
         index_template = jinja_env.get_template('index.html')
-        root_dir = os.path.join(os.getcwd(), dest_dir) if local else '/'
+        root_dir = os.path.join(os.getcwd(), dest_dir) if local else root
 
         self.home_converter = TopLevelPageConverter(source_rst_dir, dest_dir,
                                                     root_dir, content_page_template)
@@ -174,6 +176,8 @@ if __name__ == '__main__':
     parser.add_argument('dest', help='desired location of generated site')
     parser.add_argument('--local', help='use absolute directory paths',
                         action="store_true")
+    parser.add_argument('--root', help='use absolute directory paths',
+                        nargs=1, default=["/"])
     args = parser.parse_args()
-    converter = RstToHtml(args.source, args.templates, args.dest, args.local)
+    converter = RstToHtml(args.source, args.templates, args.dest, args.local, args.root[0])
     converter.run()

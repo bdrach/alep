@@ -1,9 +1,9 @@
 # This is the makefile for building the ALEP website.
 
-RST = draft/
+RST = markup/
+STATIC = $(RST)/static/
 TEMPLATES = build/templates/
-STATIC = draft/static/
-PDF_OUTPUT = draft/static/pdfs/
+PDF_OUTPUT = $(STATIC)/pdfs/
 DEST = _html/
 
 GITHUB_REPO_URL = "https://github.com/bdrach/alep.git"
@@ -27,10 +27,9 @@ server: clean directories
 
 upload: server
 	git checkout gh-pages
-	rm -rf alep-website
-	rm -rf alep-website/labs/ alep-website/static/ *.html
+	rm -rf labs/ static/ *.html CNAME favicon.ico
 	cp -r _html/* ./
-	git add labs/* alep-website/* *.html
+	git add labs/* static/* *.html CNAME favicon.ico
 	git commit -a -m "Site Update"
 	git push
 	git checkout master

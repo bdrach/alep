@@ -30,8 +30,8 @@ upload: server
 	rm -rf labs/ static/ *.html CNAME favicon.ico
 	cp -r _html/* ./
 	git add labs/* static/* *.html CNAME favicon.ico
-	git commit -a -m "Site Update"
-	git push
+	git commit -a -m "Site Update" || git checkout master
+	git push || git checkout master
 	git checkout master
 
 show:

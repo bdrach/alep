@@ -15,7 +15,7 @@ License <http://creativecommons.org/licenses/by/4.0/>`_.
 
 Find the Github project at https://github.com/bdrach/alep.  The project folder
 includes all the text in a markup language so you can edit and compile it
-into a format of your choice.  There is also a folder containing a version 
-compiled in html -- which is also published on a website hosted at GitHub (will
-provide a url -- tbd). Finally, you can find the text compiled as .pdf files
-if you want to print or work with the text in this format.
+into a format of your choice.  The gh-pages branch contains the version compiled
+into html for this website.  To make changes, clone the github repository,
+edit the markup, and submit a pull request to the alep repository.
+

@@ -41,18 +41,21 @@ together with the error. Calculate the % error.
 Then:
 
 .. math::
-   \text{upthrust} &= \text{weight of liquid displaced} \\ 
-   mg - m_a g &= \rho_w  \times \text{slide volume} \times g \\ 
-   \text{slide volume} &= \frac{m - m_a}{\rho_w} 
+   \text{upthrust} &= \text{weight of liquid displaced}   \\
+   mg - m_a g &= \rho_w g \ [\text{slide volume}]
+
+where:
+
+.. math::
+   \text{slide volume} = \frac{m - m_a}{\rho_w} \\
+    \rho_w = \text{density of water}
 
 .. %ALTERNATIVE NOTATION SAMPLE FOR ABOVE LINE mg - m_a g &= \rho_w g (\text{slide volume}) \\ 
-
-(where :math:`\rho_w` = density of water)
 
 Then calculate the slide thickness :math:`d` since:
 
 .. math::
-   w \times l \times d = \text{slide volume}
+   l w d = \text{slide volume}
 
 When you have completed the above, arrange the estimates of slide
 thickness in order (most accurate first).

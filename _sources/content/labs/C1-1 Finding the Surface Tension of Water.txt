@@ -1,0 +1,127 @@
+:title: Finding the Surface Tension of Water
+:id: C1-1
+:description: While the initial challenge here is to observe the force ofsurface tension, student is challenged to create hypotheses about differentmaterials, temperatures, and dynamics at the molecular level.
+:type: lab
+
+C1-1: Finding the Surface Tension of Water
+==========================================
+
+Apparatus
+---------
+
+Beam balance with two boxes of masses; tweezers; 2 X 50g masses with
+hooks; microscope slide with copper wire to support it; wide 1 L beaker;
+1 L beaker of clean water; Vernier calipers;
+magnifying glass; thermometer (:math:`0-100^0`\ C)
+
+|C1-1.1| 
+
+For cleaning slide: teat pipette; small beaker; dilute alkali; dilute acid; 
+distilled water.
+
+Procedure
+---------
+
+1. Attach the copper wire to the slide as shown. Clean the lower half of
+   the slide by running liquid from the pipette over it into an empty
+   beaker: first alkali, then acid, then distilled water.
+
+2. Assemble the apparatus as above using the empty, clean 1L beaker.
+
+3. Raise the beam, using knob K, and carefully add masses m using the
+   tweezers, until it is perfectly balanced. Note the total mass
+   :math:`m_1`.
+
+4. From now on, leave the beam raised, do not lower it. Carefully pour
+   water into the beaker until the water surface touches the whole
+   bottom edge of the slide.
+
+5. Add more masses to m, little by little, until the slide just breaks
+   away from the surface. Note the total mass in the scale pan now
+   :math:`m_2`.
+
+6. Reduce m until the slide touches the surface again. then repeat
+   section 5. Repeat again to get three readings of :math:`m_2` . Note
+   the readings and average them.
+
+7. Use the Vernier calipers to measure the length (:math:`l`) and
+   thickness (:math:`d`) of the slide. Measure the temperature of the
+   water. Record these readings.
+
+|C1-1.2| 
+
+Observations
+------------
+
+| initial mass, :math:`m_1` : \_\_\_\_ g
+|
+| 3 readings of :math:`m_2` :  \_\_\_\_ g,  \_\_\_\_ g,  \_\_\_\_ g
+|
+| average :math:`m_2` :  \_\_\_\_ g
+|
+
+**Slide**
+
+| *length* (:math:`l`): \_\_\_\_ m 
+|
+| *thickness* (:math:`d`): \_\_\_\_ m 
+
+**Water**
+
+|  *temperature*: \_\_\_\_ °C
+
+Theory
+------
+
+The surface tension pulling force of the water exerted on the slide
+is proportional to the length of the line of contact between the water and
+the slide. Therefore:
+
+:math:`\text{Surface tension force}=\gamma \times \text{perimeter of the slide}` 
+
+In the experiment, the surface tension force is in equilibruim with the mass added to the beam balance, hence: 
+
+:math:`\text{Surface tension force}=\text{the upward force exerted by the beam on the slide}`. 
+
+This is true at the point just before the slide leaves the water.
+
+Force exerted by the beam :math:`= (m_2 - m_1)g` 
+
+Where: :math:`g=9.8` NKg :math:`^{-1}`  
+
+The slide perimeter :math:`= 2l + 2d`
+
+Thus: :math:`(m_2 - m_1)g = \gamma (2l + 2d)`
+
+:math:`\gamma` (Greek: gamma) is a constant called the surface tension
+of water. 
+
+Analysis
+--------
+
+1. Use your readings to find the surface tension of water
+   :math:`\gamma`, stating the temperature at which it was measured.
+
+2. Use a method of dimensions to find the unit of :math:`\gamma`.
+
+3. Draw a diagram to show the molecular forces acting on: 
+
+   a) the slide
+   b) the water
+
+4. What effect on :math:`\gamma` would the following have?
+
+   a) Raising the water temperature 
+   b) Mixing impurities into the water
+
+5. If the slide is greasy, how will this affect:
+
+   a) The angle of contact of the water? 
+   b) The downward force on the slide?
+
+6. Use your value of :math:`\gamma` to calculate the capillary rise up a
+   glass tube of internal diameter 0.2mm, if the angle of contact of the
+   water on the glass is assumed to be 0°.
+
+.. |C1-1.1| image:: /images/17.png
+.. |C1-1.2| image:: /images/18.png

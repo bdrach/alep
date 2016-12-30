@@ -1,0 +1,39 @@
+/* Images */
+img {max-width: 100%; max-height: 400px; display: block; margin: 20px auto 20px auto; }
+
+/* Lists */
+div.body ul { list-style: none; }
+div.sphinxsidebar ul { list-style: none; }
+div.sphinxsidebar ul ul { list-style: none; }
+
+
+/* Search Bar */
+div.sphinxsidebar #searchbox input[type="text"] {
+    width: 130px;
+}
+div.sphinxsidebar #searchbox input[type="submit"] {
+    margin-left: 5px;
+}
+
+/* Headers */
+div.body h1, h2, h3, h4, h5, h6 { color: #082c62; }
+div.body h1 { font-size: 190%; }
+div.body h2 { font-size: 150%; }
+div.sphinxsidebar h3 a  { color: #082c62; }
+div.sphinxsidebar h3 { color: #082c62; }
+div.sphinxsidebar h4 a  { color: #082c62; }
+div.sphinxsidebar h4 { color: #082c62; }
+
+/* Paragraph Text */
+div.body p, div.body dd, div.body li { line-height: 1.5em; }
+
+/* Links */
+a.reference { color: #20529b; text-decoration: none; border-bottom: none; }
+div.sphinxsidebar a { 
+    color: #20529b;
+    /* color: #444; */
+    text-decoration: none; border-bottom: none; }
+
+/* Fix sidebar position */
+div.sphinxsidebarwrapper { position: fixed; width: 200px; }
+

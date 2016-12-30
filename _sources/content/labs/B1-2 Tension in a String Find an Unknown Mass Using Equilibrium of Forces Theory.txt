@@ -3,8 +3,8 @@
 :description: When forces are in equilibrium, the sum of force vectors actingon an object will net to zero.  In this case of two forces, one force can becalculated using the magnitude and direction of the opposing force. 
 :type: lab
 
-B1-2: Tension in a String: Find an Unknown Mass Using Equilibrium of Forces Theory.
-===================================================================================
+B1-2: Tension in a String: Find an Unknown Mass Using Equilibrium of Forces Theory
+==================================================================================
 
 Apparatus
 ---------

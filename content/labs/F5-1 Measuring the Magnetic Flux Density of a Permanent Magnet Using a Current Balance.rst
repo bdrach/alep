@@ -1,7 +1,5 @@
-:title: Measuring the Magnetic Flux Density of a Permanent Magnet Using a Current Balance
-:id: F5-1
-:description: This measurement of the force on a wire passing through a magneticfield demonstrates how the field affects a moving charge and how the right handrule predicts the direction of the force vector.
-:type: lab
+.. meta::
+  :description: This measurement of the force on a wire passing through a magnetic field demonstrates how the field affects a moving charge and how the right hand rule predicts the direction of the force vector.
 
 F5-1: Measuring the Magnetic Flux Density of a Permanent Magnet Using a Current Balance
 =======================================================================================

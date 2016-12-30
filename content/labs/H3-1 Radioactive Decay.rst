@@ -1,7 +1,5 @@
-:title: Radioactive Decay
-:id: H3-1
-:description: A statistical sample models atomic processes to illustrate thehalf-life of a radioactive isotope. The steps described suggest theconservation of mass, charge, and energy in decay reactions.
-:type: lab
+.. meta::
+  :description: A statistical sample models atomic processes to illustrate the half-life of a radioactive isotope. The steps described suggest the conservation of mass, charge, and energy in decay reactions.
 
 H3-1: Radioactive Decay
 =======================

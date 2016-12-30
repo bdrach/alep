@@ -1,7 +1,5 @@
-:title: Charging Capacitors
-:id: F1-2
-:description: An electrical circuit having a resistor, a capacitor, anda power supply (RC circuit) is used to observe current and potential differencefor capacitors wired alone, in series, and in parallel. 
-:type: lab
+.. meta::
+  :description: An electrical circuit having a resistor, a capacitor, and a power supply (RC circuit) is used to observe current and potential differencefor capacitors wired alone, in series, and in parallel. 
 
 F1-2: Charging Capacitors
 =========================

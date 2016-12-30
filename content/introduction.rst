@@ -1,7 +1,5 @@
-------
-:title: "Introduction"
-:type: preamble
-------
+.. meta::
+  :description: Introduction to Advanced Level Experimental Physics
 
 Introduction
 ================================================================

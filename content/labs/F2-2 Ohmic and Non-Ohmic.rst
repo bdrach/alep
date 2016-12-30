@@ -1,7 +1,5 @@
-:title: Ohmic and Non-Ohmic Conductors
-:id: F2-2
-:description: Many conductors behave consistent with Ohm's Law, :math:`V=IR'.Other materials may conduct current in only one direction, or otherwise varyfrom Ohm's law.  Exploiting these known varriances can be quite useful.
-:type: lab
+.. meta::
+  :description: Many conductors behave consistent with Ohm's Law, :math:`V=IR'. Other materials may conduct current in only one direction, or otherwise vary from Ohm's law.  Exploiting these known varriances can be quite useful.
 
 F2-2: Ohmic and Non-Ohmic Conductors
 ====================================

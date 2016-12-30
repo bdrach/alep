@@ -1,7 +1,5 @@
-:title: Mutual Inductance - Transformers
-:id: F6-2
-:description: This exercise gives hands-on experience about the behavior oftransformers relative to voltage, current, and energy loss when theelectromagnetic flux from one coil induces a current in an adjacent coil.
-:type: lab
+.. meta::
+  :description: This exercise gives hands-on experience about the behavior of transformers relative to voltage, current, and energy loss when the electromagnetic flux from one coil induces a current in an adjacent coil.
 
 F6-2: Mutual Inductance - Transformers
 ======================================

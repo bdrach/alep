@@ -1,7 +1,5 @@
-:title: Coefficient of Restitution
-:id: B1-1
-:description: Kinetic energy is transferred when one material collides intoanother.  The efficiency of kinetic energy transfer is a property of thematerial and can be measured with this experimental technique.  
-:type: lab
+.. meta::
+  :description: Kinetic energy is transferred when one material collides into another.  The efficiency of kinetic energy transfer is a property of the material and can be measured with this experimental technique.  
 
 B1-1: Coefficient of Restitution
 ================================

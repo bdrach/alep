@@ -1,7 +1,5 @@
-------
-:title: "Technicians' Notes"
-:type: preamble
-------
+.. meta::
+  :description: Technicians' Notes
 
 Technicians' Notes
 ==================

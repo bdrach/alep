@@ -1,7 +1,5 @@
-:title: Physical Properties of Solid Materials
-:id: C3-3
-:description: In some labs we dig deeply into mathematical descriptions ofa physical property of a material.  Here the focus is on observation andbuilding both vocabulary and experience applicable to practical investigations.
-:type: lab
+.. meta::
+  :description: In some labs we dig deeply into mathematical descriptions ofa physical property of a material.  Here the focus is on observation and building both vocabulary and experience applicable to practical investigations.
 
 C3-3: Physical Properties of Solid Materials
 ============================================

@@ -1,7 +1,5 @@
-:title: Determining :math:`g` Using a Compound Pendulum
-:id: B5-1
-:description: Simple to construct and conduct, this experiment finds theacceleration due to local gravity and centrifugal acceleration while also showingthe moment of inertia of the compound pendulum about its axis of rotation.
-:type: lab
+.. meta::
+  :description: Simple to construct and conduct, this experiment finds the acceleration due to local gravity and centrifugal acceleration while also showing the moment of inertia of the compound pendulum about its axis of rotation.
 
 B5-1: Determining :math:`g` Using a Compound Pendulum
 =====================================================

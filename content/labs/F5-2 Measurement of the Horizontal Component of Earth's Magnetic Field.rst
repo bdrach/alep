@@ -1,7 +1,5 @@
-:title: Measurement of the Horizontal Component of Earth's Magnetic Field
-:id: F5-2
-:description: The magnetic field within a coil of wires perpendicular to thehorizontal component of the Earth's magnetic field, vector addition, and anequation describing the field in the coils determine the magnitude of each field.
-:type: lab
+.. meta::
+  :description: The magnetic field within a coil of wires perpendicular to the horizontal component of the Earth's magnetic field, vector addition, and an equation describing the field in the coils determine the magnitude of each field.
 
 F5-2: Measurement of the Horizontal Component of Earth's Magnetic Field
 =======================================================================

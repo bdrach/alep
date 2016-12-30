@@ -1,7 +1,5 @@
-:title: Finding :math:`g` Using a Loaded Test Tube
-:id: B5-3
-:description: Another example of harmonic motion, where students observe material properties, conservation of energy, and apply angular dynamics with trigonometry to describe the behavior of a physical system.
-:type: lab
+.. meta::
+  :description: Another example of harmonic motion, where students observe material properties, conservation of energy, and apply angular dynamics with trigonometry to describe the behavior of a physical system.
 
 B5-3: Finding :math:`g` Using a Loaded Test Tube
 ================================================

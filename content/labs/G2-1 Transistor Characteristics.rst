@@ -1,7 +1,5 @@
-:title: Transistor Characteristics
-:id: G2-1
-:description: The transistor acts as a current amplifier where the collectorcurrent depends on the size of the smaller base current.  This lab shows howtransfer characteristics and output characteric changes with potential difference.
-:type: lab
+.. meta::
+  :description: The transistor acts as a current amplifier where the collector current depends on the size of the smaller base current.  This lab shows how transfer characteristics and output characteric changes with potential difference.
 
 G2-1: Transistor Characteristics
 ================================

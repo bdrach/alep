@@ -3,12 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. meta::
+  :description: This book contains experiments for learning concepts of Advanced Level Experimental Physics
+  :keywords: Bob Drach, Norman Price, Ruvma Boys' Secondary School, Songea, Tanzania, Advanced Level Experimental Physics, Experimental Physics, Physics, A-Level, Peace Corps
+
 Welcome to ALEP
 ===============
 
 This website is based off of *Advanced Level Experimental Physics*, a textbook
 written by Bob Drach and Norman Price during their time teaching together at the
-Ruvuma Boy's Secondary School in Songea, Tanzania.   
+Ruvuma Boys' Secondary School in Songea, Tanzania.   
 
 The first edition was published in 1987.  With the help of Max Drach,
 we published the current edition as a `Github project

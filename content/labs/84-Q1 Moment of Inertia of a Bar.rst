@@ -1,7 +1,5 @@
-:title: Moment of Inertia of a Bar
-:id: 84-Q1
-:description: The aim of this experiment is to determine the moment of inertiaof a wooden bar acting as a bifilar pendulum.
-:type: exam_question
+.. meta::
+  :description: The aim of this experiment is to determine the moment of inertia of a wooden bar acting as a bifilar pendulum.
 
 84-Q1: Moment of Inertia of a Bar
 =================================

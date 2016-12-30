@@ -1,7 +1,5 @@
-:title: Self Inductance in AC Circuits
-:id: F6-1
-:description: An inductor in a simple LR circuit reveals relationships betweenresistance, current, peak voltage, and the influence of a magnetic core.  Withan AC current applied, the system acts as an electronic harmonic oscillator. 
-:type: lab
+.. meta::
+  :description: An inductor in a simple LR circuit reveals relationships between resistance, current, peak voltage, and the influence of a magnetic core.  Withan AC current applied, the system acts as an electronic harmonic oscillator. 
 
 F6-1: Self Inductance in AC Circuits
 ====================================

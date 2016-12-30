@@ -1,7 +1,5 @@
-:title: Measurements and Accuracy
-:id: A1-1
-:description: An introduction to methods of measurement including apractical application of Archimedes principle to explore significant digitsand varying degrees of accuracy.
-:type: lab
+.. meta::
+  :description: An introduction to methods of measurement including apractical application of Archimedes principle to explore significant digits and varying degrees of accuracy.
 
 A1-1: Measurements and Accuracy
 ===============================

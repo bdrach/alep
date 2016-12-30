@@ -1,7 +1,5 @@
-:title: Investigating Electric Fields
-:id: F1-1
-:description: This is an introduction to lines of force, electrical potentialenergy, and work required to move a charge through an electric field.
-:type: lab
+.. meta::
+  :description: This is an introduction to lines of force, electrical potential energy, and work required to move a charge through an electric field.
 
 F1-1: Investigating Electric Fields
 ===================================

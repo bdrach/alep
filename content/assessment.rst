@@ -1,7 +1,5 @@
-------
-:title: "Assessment"
-:type: preamble
-------
+.. meta::
+  :description: Assessing student work
 
 Assessment of Students' Written Work
 ====================================

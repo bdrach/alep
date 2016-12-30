@@ -21,8 +21,11 @@ div.body h1 { font-size: 190%; }
 div.body h2 { font-size: 150%; }
 div.sphinxsidebar h3 a  { color: #082c62; }
 div.sphinxsidebar h3 { color: #082c62; }
+div.sphinxsidebar h3 a:hover  { text-decoration: underline; }
 div.sphinxsidebar h4 a  { color: #082c62; }
+div.sphinxsidebar h4 a:hover  { text-decoration: underline; }
 div.sphinxsidebar h4 { color: #082c62; }
+
 
 /* Paragraph Text */
 div.body p, div.body dd, div.body li { line-height: 1.5em; }
@@ -33,6 +36,14 @@ div.sphinxsidebar a {
     color: #20529b;
     /* color: #444; */
     text-decoration: none; border-bottom: none; }
+a.reference:hover {
+    border-bottom: 1px solid #082c62;
+}
+#homelink {
+  font-weight: bold; 
+  margin-bottom: 15px;
+}
+
 
 /* Fix sidebar position */
 div.sphinxsidebarwrapper { position: fixed; width: 200px; }

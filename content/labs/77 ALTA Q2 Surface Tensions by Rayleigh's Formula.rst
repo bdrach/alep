@@ -1,10 +1,8 @@
-:title: Surface Tensions by Rayleigh's Formula
-:id: 77 ALT A-Q2
-:description: You are required to determine the surface tensions ofliquid A and of liquid B.
-:type: exam_question
+.. meta::
+  :description: You are required to determine the surface tensions of liquid A and of liquid B.
 
-77 ALT A-Q2: Surface Tensions by Rayleigh's Formula.
-====================================================
+77 ALT A-Q2: Surface Tensions by Rayleigh's Formula
+===================================================
 
 Time :math:`1 \frac{1}{2}` hr.
 

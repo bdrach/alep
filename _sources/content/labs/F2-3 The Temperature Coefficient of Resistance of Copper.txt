@@ -7,9 +7,9 @@ F2-3: The Temperature Coefficient of Resistance of Copper
 Apparatus
 ---------
 
-Metre bridge board; clamp and stand; 1.5V cell; galvanometer; jockey;
-standard resistor 10\ :math:`\Omega`; copper wire & thermometer in a
-test tube; 1L beaker of water; bunsen burner (or other heat source); 8
+Metre bridge board; clamp and stand; :math:`1.5\text{V}` cell; galvanometer; jockey;
+standard resistor :math:`10\Omega`; copper wire & thermometer in a
+test tube; :math:`1\text{L}` beaker of water; bunsen burner (or other heat source); 8
 connecting leads (5 long, 3 short); 1 sheet of graph paper.
 
 |F2-3.1| 
@@ -20,14 +20,14 @@ Procedure
 1. Set up the apparatus as above, connecting the battery last. Check
    carefully that all connections are secure. Do not begin heating yet. Find 
    the balance point length :math:`L` where the galvanometer reads zero. 
-   Disconnect the battery. Read the temperature :math:`\theta`.
+   Disconnect the battery. Read the temperature :math:`\Theta`.
 
-2. Begin heating the water. At temperatures approximately 30, 35, 40,
-   45,... up to 90°C, reconnect the battery, find :math:`L`, and read
-   :math:`\theta` (to the nearest 0.1°C). Disconnect the battery between
+2. Begin heating the water. At temperatures approximately :math:`30, 35, 40,
+   45,... \text{ up to } 90\text{°C}`, reconnect the battery, find :math:`L`, and read
+   :math:`\Theta` (to the nearest :math:`0.1\text{°C}`). Disconnect the battery between
    readings.
 
-3. Tabulate the readings of :math:`L` and :math:`\theta`.
+3. Tabulate the readings of :math:`L` and :math:`\Theta`.
 
 Theory
 ------
@@ -43,9 +43,9 @@ Theory
 
    .. math::
       
-      R_{\theta} &= R_0 (1+ \alpha \theta + \beta \theta^2) \\ 
+      R_{\Theta} &= R_0 (1+ \alpha \Theta + \beta \Theta^2) \\ 
       \\  
-      \text{Where: } R_{\theta} &= R \text{ at } \theta \text{°C} \\  
+      \text{Where: } R_{\Theta} &= R \text{ at } \Theta \text{°C} \\  
       R_0 &= R \text{ at } 0 \text{°C} \\ 
       \alpha \text{ } & \text{and } \beta \text{ are constants}
       
@@ -66,18 +66,20 @@ Theory
    And therefore in this experiment when the units of L are cm: 
 
    .. math::
-      R_{\theta} = 10 \left( \frac{L}{100-L} \right) \label{eqn2} \tag{equation 2}
+      R_{\Theta} = 10 \left( \frac{L}{100-L} \right) \label{eqn2} \tag{equation 2}
       
 
 Analysis
 --------
 
-1. For each value of :math:`L`, calculate a value of :math:`R_\theta`
+1. For each value of :math:`L`, calculate a value of :math:`R_\Theta`
    using the above formula (:math:`\ref{eqn2}`).
 
-2. Plot a graph of :math:`R_\theta` vs. :math:`\theta`\ °C. Find the
-   gradient and the y-intercept. NB: it is not necessary for the
-   :math:`R_\theta` axis to extend down to zero).
+2. Plot a graph of :math:`R_\Theta` vs. :math:`\Theta`\ °C. Find the
+   gradient and the y-intercept. 
+   
+   *NB: it is not necessary for the* :math:`R_\Theta` *axis to extend down to
+   zero.*
 
 3. Use the formula given in 1 of the theory, together with the gradient
    and y-intercept only, to calculate :math:`\alpha`, the temperature
@@ -89,16 +91,16 @@ Questions
 1. Use :math:`\ref{eqn1}` above to prove :math:`\ref{eqn2}`.
 
 2. Calculate the expected resistance of the copper wire when its
-   temperature is 300°C.
+   temperature is :math:`300\text{°C}`.
 
 3. If copper has a **resistivity** of
    :math:`1.7 \times 10^{-8}\Omega\text{m}` at 293K, find the
-   **resistance** of a sample of copper length 5cm, uniform
+   **resistance** of a sample of copper length :math:`5\text{cm}`, uniform
    cross-sectional area :math:`10^{-6} \text{m}^2`, at: 
 
-   a) 0°C
+   a) :math:`0\text{°C}`
 
-   b) 100°C.
+   b) :math:`100\text{°C}`
 
 .. |F2-3.1| image:: /images/41.png
 .. |F2-3.2| image:: /images/42.png

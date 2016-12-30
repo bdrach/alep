@@ -7,9 +7,9 @@ G2-1: Transistor Characteristics
 Apparatus
 ---------
 
-3V battery; 9V battery; 2 rheostats (high resistance); resistor :math:`\text{R}_2`
-(approx. 50 k\ :math:`\Omega`); voltmeter (0-5 Vdc); ammeter
-(:math:`\approx 50 \mu`\ A *fsd*); ammeter (:math:`\approx` 3 mA *fsd*);
+:math:`3\text{V}` battery; :math:`9\text{V}` battery; 2 rheostats (high resistance); resistor :math:`\text{R}_2`
+(approx. 50 k\ :math:`\Omega`); voltmeter (:math:`0-5\text{Vdc}`); ammeter
+(:math:`\approx 50 \mu\text{A}` *fsd*); ammeter (:math:`\approx 3 \text{mA}` *fsd*);
 transistor (pnp); connecting leads (12 short); 2 sheets graph paper.
 
     |G2-1.1| 
@@ -34,7 +34,7 @@ circuit.
 1: Procedure
 -----------------------
 
-1. Set :math:`V_{CE}` to 4V using rheostat :math:`\text{R}_3`. Ensure that this
+1. Set :math:`V_{CE}` to :math:`4\text{V}` using rheostat :math:`\text{R}_3`. Ensure that this
    remains constant (adjust :math:`\text{R}_3` again later as necessary).
 
 2. Set :math:`I_B` to 0 using :math:`\text{R}_1`. Read and note :math:`I_B` and
@@ -70,7 +70,7 @@ characteristic' of the transistor.
 
 1. Set :math:`I_B = 0` using :math:`\text{R}_1`. Starting with
    :math:`V_{CE} = 0`, and little by little increasing :math:`V_{CE}` up
-   to 5V, take a set of readings of :math:`I_C` and :math:`V_{CE}` and
+   to :math:`5\text{V}`, take a set of readings of :math:`I_C` and :math:`V_{CE}` and
    note the value of :math:`I_B = 0`.
 
 2. Increase :math:`I_B` to :math:`10 \mu`\ A, and obtain another set
@@ -91,13 +91,13 @@ Questions
 ---------
 
 1. When :math:`I_B = 0`, :math:`I_C` should be zero for all
-   :math:`V_{CE}`. However all transistors have some 'leakage current.'
+   :math:`V_{CE}`. However all transistors have some *leakage current*.
    What is the value of the leakage current :math:`I_C` when
    :math:`V_{CE} = 4`\ V?
 
 2. What is the approximate minimum :math:`V_{CE}` so that a variation in
    :math:`I_B` between :math:`0` and :math:`30 \mu A` produces a large 
-   change in :math:`\ I\_C`? (In practice the supply voltage is usually set 
+   change in :math:`I_C`? (In practice the supply voltage is usually set 
    between this value and a certain maximum. The maximum depends on 
    the 'breakdown voltage' of the junctions).
 

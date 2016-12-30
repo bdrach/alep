@@ -33,20 +33,20 @@ Procedure
 
 4. Burn some Sodium salt in the candle flame using the wire loop. Move
    the telescope to place the cross-wires on the bright yellow (Sodium)
-   lines. Read the angle on one of the vernier scales :math:`\Theta_1`.
+   lines. Read the angle on one of the vernier scales :math:`\theta_1`.
 
 5. Move the telescope towards :math:`C`. Repeat step 4., reading the
-   angle from the **same** vernier scale :math:`\Theta_2`.
+   angle from the **same** vernier scale :math:`\theta_2`.
 
 Observations
 ------------
 
-In the below diagram, you are to measure :math:`\Theta` both above and below the 
+In the below diagram, you are to measure :math:`\theta` both above and below the 
 central bright line :math:`C`.
 
-:math:`\Theta_1 =` \_\_\_\_° \_\_\_\_'  
+:math:`\theta_1 =` \_\_\_\_° \_\_\_\_'  
 
-:math:`\Theta_2 =` \_\_\_\_° \_\_\_\_'  
+:math:`\theta_2 =` \_\_\_\_° \_\_\_\_'  
 
 |E3-1.2| 
 
@@ -59,15 +59,15 @@ In the above diagram:
    C &= \text{central bright line} \\  
    F &= \text{first order spectra} \text{ (}n=1 \text{)} \\  
    S &= \text{second order spectra} \text{ (}n=2 \text{)} \\  
-   \Theta &= \text{angle of } \text{ } F \text{ } \text{from} \text{ } C 
+   \theta &= \text{angle of } \text{ } F \text{ } \text{from} \text{ } C 
 
 From the readings: 
 
 .. math::
-   \qquad \Theta = \frac{\Theta_2 - \Theta_1}{2}
+   \qquad \theta = \frac{\theta_2 - \theta_1}{2}
 
-Take care to calculate :math:`\Theta` correctly if your vernier scale
-moved through 0° when moving from :math:`\Theta_1` to :math:`\Theta_2` .
+Take care to calculate :math:`\theta` correctly if your vernier scale
+moved through :math:`0\text{°}` when moving from :math:`\theta_1` to :math:`\theta_2` .
  
 The spectrometer apparatus takes advantage of the fact that the wavelength (
 :math:`\lambda`) of Sodium light is diffracted from a straight path by the 
@@ -76,7 +76,7 @@ size of the grating, the wavelength of light, and the angle of diffraction
 follows a known equation.  Then: 
 
 .. math::
-   \qquad \lambda = \frac{d \sin \Theta}{n}
+   \qquad \lambda = \frac{d \sin \theta}{n}
 
 Analysis
 --------
@@ -93,18 +93,18 @@ Questions
 1. Why did you see the Sodium spectrum **and** a continuous spectrum?
 
 2. Calculate the energy of a photon of yellow light from hot sodium.  
-   (:math:`h 6.6 \times 10^-34 ` Js; :math:`c = 3 \times 10^8 `
-   ms\ :math:`^-1`).
+   :math:`(h = 6.6 \times 10^{-34}  \text{Js};` :math:`c = 3 \times 10^8
+   \text{ms}^{-1})`.
 
-3. An electric Sodium lamp rated at 40W is approximately 20% efficient
+3. An electric Sodium lamp rated at :math:`40\text{W}` is approximately :math:`20\%` efficient
    in producing visible light. Assuming that all the light produced is
    at the wavelength you calculated above, how many photons per second
    are given out by the lamp?
 
 4. Draw a diagram to illustrate the change in energy state of a Sodium
    atom when emitting a photon of yellow light. If the lower energy
-   state is :math:`x` eV, what is the upper energy state in eV? 
-   (:math:`e = 1.6 \times 10^-19` C).
+   state is :math:`x \text{ eV}`, what is the upper energy state in eV? 
+   (:math:`e = 1.6 \times 10^{-19} \text{C}`).
 
 .. |E3-1.1| image:: /images/29.png
 .. |E3-1.2| image:: /images/30.png

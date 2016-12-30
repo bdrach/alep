@@ -7,12 +7,16 @@ F2-2: Ohmic and Non-Ohmic Conductors
 Apparatus
 ---------
 
-3V battery; galvanometer with shunt for 0.3-0-0.3 A; voltmeter (0-3Vdc);
+:math:`3\text{V}` battery; galvanometer with shunt for :math:`0.3-0-0.3\text{A}`; voltmeter (:math:`0-3\text{Vdc}`);
 resistance box; switch; block with crocodile clips to hold component; 7
 connecting leads; 1 sheet graph paper.
 
-**Components under test:**  A. Resistance wire   B. 6V bulb in holder   C.
-Copper Sulphate solution with copper electrodes   D. Semiconductor diode
+**Components under test:**  
+
+A. Resistance wire  
+B. :math:`6\text{V}` bulb in holder   
+C. Copper Sulphate solution with copper electrodes   
+D. Semiconductor diode
 
 |F2-2.1| 
 
@@ -21,10 +25,10 @@ Procedure
 
 1. Set up the circuit as above, using component A.
 
-2. Set the resistance box to 5\ :math:`\Omega`, close the switch, and
+2. Set the resistance box to :math:`5\Omega`, close the switch, and
    read :math:`V` and :math:`I`.
 
-3. Increase the resistance box resistance to 10, 20, 50\ :math:`\Omega`,
+3. Increase the resistance box resistance to :math:`10, 20, 50\Omega`,
    and then :math:`\infty\Omega`, in each case reading :math:`V` and
    :math:`I`. Tabulate the readings of :math:`V` and :math:`I`.
 
@@ -61,9 +65,9 @@ Questions
 
 3. Why does a tungsten-filament bulb have such a low efficiency?
 
-4. Find the resistance of the shunt in parallel with the galvanometer if
-   the galvanometer alone has a full-scale deflection of 3mA, and an
-   internal resistance of 10\ :math:`\Omega`.
+4. Find the resistance of the shunt in parallel with the galvanometer if the
+   galvanometer alone has a full-scale deflection of :math:`3\text{mA}`, and
+   an internal resistance of :math:`10\Omega`.
 
 .. |F2-2.1| image:: /images/39.png
 .. |F2-2.2| image:: /images/40.png

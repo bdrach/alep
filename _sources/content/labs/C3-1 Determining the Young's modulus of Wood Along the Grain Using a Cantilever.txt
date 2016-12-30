@@ -7,7 +7,7 @@ C3-1: Determining the Young's Modulus of Wood Along the Grain Using a Cantilever
 Apparatus
 ---------
 
-Wooden metre rule; 100g mass; elastic band; G-clamp; block of wood;
+Wooden metre rule; :math:`100\text{g}` mass; elastic band; G-clamp; block of wood;
 vernier calipers; stopwatch; graph paper  
 
 |C3-1.1| 
@@ -19,9 +19,9 @@ Procedure
    definite length, :math:`L`, projecting from the edge of the bench.
 
 2. Start the metre rule vibrating vertically and find the periodic time,
-   :math:`T`, for one complete oscillation. Do this by timing 20
-   oscillations and dividing by 20. Find :math:`T` for the following
-   lengths -- :math:`L`: 0.5, 0.6, 0.7, 0.75, 0.8, and 0.9m. Tabulate your
+   :math:`T`, for one complete oscillation. Do this by timing :math:`20`
+   oscillations and dividing by :math:`20`. Find :math:`T` for the following
+   lengths :math:`L: 0.5, 0.6, 0.7, 0.75, 0.8, \text{ and } 0.9\text{m}`. Tabulate your
    readings of :math:`L` and :math:`T`.
 
 3. Using the callipers, measure the dimensions :math:`b` and :math:`d`
@@ -34,13 +34,17 @@ Procedure
 Observations
 ------------
 
-:math:`M =` mass at end of the metre rule = \_\_\_\_ kg
+:math:`M =` mass at end of the metre rule = ________ kg
 
-6 readings for :math:`b`: \_\_\_\_, \_\_\_\_, \_\_\_\_, \_\_\_\_,
-\_\_\_\_, \_\_\_\_ Avg.: \_\_\_\_ m
+6 readings for :math:`b`: ______, ______, ______, ______,
+______, ______ 
 
-6 readings for :math:`d`: \_\_\_\_, \_\_\_\_, \_\_\_\_, \_\_\_\_,
-\_\_\_\_, \_\_\_\_ Avg.: \_\_\_\_ m
+  Average :math:`b` : ________ m
+
+6 readings for :math:`d`: ______, ______, ______, ______,
+______, ______ 
+
+  Average :math:`d` : ________ m
 
 Tabulate:
 
@@ -72,9 +76,12 @@ motion. The equation describes an oscillation with
 
 .. math::
     
-   T=\frac{2 \pi}{\omega} = 2 \pi \sqrt{\frac{M}{k}} \qquad
-   \text{Therefore: }
-   \quad T^2 =\frac{4 \pi ^2 M}{k}=\frac{16 \pi ^2 M}{b d^3 E}L^3 
+   T=\frac{2 \pi}{\omega} = 2 \pi \sqrt{\frac{M}{k}}
+
+Therefore:
+
+.. math::
+   T^2 =\frac{4 \pi ^2 M}{k}=\frac{16 \pi ^2 M}{b d^3 E}L^3 
    
 
 Analysis
@@ -87,12 +94,12 @@ Analysis
    gradient of your graph determine :math:`E`, the Young's modulus of
    the wood **along** the grain.
 
-3. The Young's modulus **across** the grain is about 0.5GPa. Compare
+3. The Young's modulus **across** the grain is about :math:`0.5\text{GPa}`. Compare
    this with your value of :math:`E` from (2.) and give a reason for the
    difference.
 
 4. Calculate the longitudinal tension that would stretch the metre rule
-   by 0.1mm. Use the dimensions of the rule, your calculated value for
+   by :math:`0.1\text{mm}`. Use the dimensions of the rule, your calculated value for
    :math:`E`, and the relation:
    :math:`E = \frac{\text{stress}}{\text{strain}}`
 

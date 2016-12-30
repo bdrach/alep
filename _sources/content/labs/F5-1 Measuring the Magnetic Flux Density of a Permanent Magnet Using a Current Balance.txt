@@ -8,10 +8,10 @@ Apparatus
 ---------
 
 Magnets mounted on a soft iron core; rectangular copper wire coil;
-mounted razor blades; plastic dampening stick; 5 connecting wires; 1.5V
-dry cell; key switch; 15\ :math:`\Omega` rheostat; ammeter with 0 to
-0.3mA scale; metre stick; callipers; triple beam balance; 5m of ticker
-tape; about 0.4m piece of extra ticker tape; tweezers; scissors.
+mounted razor blades; plastic dampening stick; 5 connecting wires; :math:`1.5\text{V}`
+dry cell; key switch; :math:`15\Omega` rheostat; ammeter with :math:`0` to
+:math:`0.3\text{m}` scale; metre stick; callipers; triple beam balance; :math:`5\text{m}` of ticker
+tape; about :math:`0.4\text{m}` piece of extra ticker tape; tweezers; scissors.
 
 |F5-1.1| 
 
@@ -26,16 +26,16 @@ Procedure
    edge effects, this is the length of the magnetic field the current
    passes through.
 
-3. Measure and record the mass of 5m of ticker tape. Use this to
+3. Measure and record the mass of :math:`5\text{m}` of ticker tape. Use this to
    determine the linear density :math:`\mu` of the tape.
 
-4. Place the key in the switch and allow 0.05mA of current to pass
+4. Place the key in the switch and allow :math:`0.05\text{m}`. of current to pass
    through the circuit by adjusting the rheostat. The end of the coil
    between the magnets should deflect down. If the end of the coil
    between the magnet deflects up, reverse the direction of the dry cell
    in the circuit to make the end of the coil between the magnets
    deflect down. From the short extra piece of ticker tape, cut lengths
-   of tape 0 to 4cm long, fold them in half, and using the tweezers
+   of tape :math:`0` to :math:`4\text{cm}` long, fold them in half, and using the tweezers
    place them on the end of the coil opposite the magnets. Add or remove
    tape until the coil is again level.
 
@@ -44,17 +44,16 @@ Procedure
    pieces of tape. Measure the lenth of this tape and using :math:`\mu`,
    determine the weight of the pieces of tape.
 
-6. Repeat steps 4 and 5 above for currents 0.10, 0.15, 0.20, 0.25, and
-   0.30mA. Calculate your results.
+6. Repeat steps 4 and 5 above for currents :math:`0.10, 0.15, 0.20, 0.25, \text{ and } 0.30\text{mA}`. Calculate your results.
 
 Observations
 ------------
 
-| :math:`L` = length of magnet = \_\_\_\_\_ m  
+| :math:`L` = length of magnet = ________ m  
 |  
-| :math:`M` = mass of 5m of ticker tape = \_\_\_\_\_ kg  
+| :math:`M` = mass of :math:`5\text{m}` of ticker tape = ________ kg  
 |  
-| :math:`\mu` : linear density of ticker tape = \_\_\_\_\_ kg m\ :math:`^{-1}`
+| :math:`\mu` = linear density of ticker tape = ________ kg m\ :math:`^{-1}`
 
 Tabulate:  
 

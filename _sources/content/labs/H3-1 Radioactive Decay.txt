@@ -8,7 +8,7 @@ Apparatus
 ---------
 
 About 200 small cubes, marked :math:`\odot` and :math:`\otimes` on two
-faces; two trays; 2 x 500ml beakers; periodic table of the elements; 2
+faces; two trays; 2 x :math:`500\text{ml}` beakers; periodic table of the elements; 2
 sheets graph paper.
 
 Introduction

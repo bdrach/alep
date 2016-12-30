@@ -39,17 +39,18 @@ Procedure
 Observations
 ------------
 
-:math:`AB` before heating = \_\_\_\_ m, :math:`AB` after heating =
-\_\_\_\_ m
+:math:`AB` before heating = ________ m
 
-:math:`\Delta L` = change in length = \_\_\_\_ m
+:math:`AB` after heating = ________ m
 
-:math:`L_0` = length of sample between screws 1 and 2 = \_\_\_\_ m  
+:math:`\Delta L` = change in length = ________ m
 
-:math:`\Theta_T` = room temperature = \_\_\_\_\ :math:`^0` C
+:math:`L_0` = length of sample between screws 1 and 2 = ________ m  
+
+:math:`\Theta_T` = room temperature = ________ °C
 
 :math:`\Delta \Theta` = change in temperature of the sample =
-\_\_\_\_\ :math:`^0` C  
+________ °C
 
 Theory
 ------

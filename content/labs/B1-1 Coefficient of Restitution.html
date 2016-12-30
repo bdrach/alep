@@ -48,24 +48,25 @@
 <h1>B1-1: Coefficient of Restitution<a class="headerlink" href="#b1-1-coefficient-of-restitution" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="apparatus">
 <h2>Apparatus<a class="headerlink" href="#apparatus" title="Permalink to this headline">¶</a></h2>
-<p>2 wooden rods (about 200m long); wooden lath (about 25cm long);&nbsp;2
-elastic bands; 2 pendulum bobs (1 large, 1 small); thin Cu wire;&nbsp;2
-0.5m rulers; stand; 2 bosses &amp; clamps; G-clamp; triple beam balance.</p>
+<p>2 wooden rods (about <span class="math">\(200\text{m}\)</span> long); wooden lath (about
+<span class="math">\(25\text{cm}\)</span> long);&nbsp;2 elastic bands; 2 pendulum bobs (1 large,
+1 small); thin Cu wire;&nbsp;2 <span class="math">\(0.5\text{m}\)</span> rulers; stand; 2 bosses
+&amp; clamps; G-clamp; triple beam balance.</p>
 <p><img alt="B1-1.1" src="../../_images/4.png" /></p>
 </div>
 <div class="section" id="procedure">
 <h2>Procedure<a class="headerlink" href="#procedure" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic simple">
-<li>Assemble the apparatus as above, ensuring that the lath and 0.5m
-ruler are horizontal. Make sure that the centres of the pendulum bobs
-are on the same level, and that the bobs just touch.</li>
+<li>Assemble the apparatus as above, ensuring that the lath and
+<span class="math">\(0.5\text{m}\)</span> ruler are horizontal. Make sure that the centres of
+the pendulum bobs are on the same level, and that the bobs just touch.</li>
 <li>Pull bob A to the left and let it swing to collide with bob B to
 check the operation of the apparatus.</li>
 <li>With the bobs at rest, read values <span class="math">\(a_2\)</span> and <span class="math">\(b_1\)</span> on the
-0.5m ruler. (Position your eye carefully to avoid parallax). Measure
+<span class="math">\(0.5\text{m}\)</span> ruler. (Position your eye carefully to avoid parallax). Measure
 length <span class="math">\(d\)</span>.</li>
-<li>Move bob A to the left until it touches the 0.5m ruler. Read value
-<span class="math">\(a_1\)</span>.</li>
+<li>Move bob A to the left until it touches the <span class="math">\(0.5\text{m}\)</span> ruler.
+Read value <span class="math">\(a_1\)</span>.</li>
 <li>Release bob A, and note the furthest position that it reaches on the
 right <em>after</em> the collision (this is <span class="math">\(a_3\)</span>).</li>
 <li>Repeat 4 and 5 to get five readings of <span class="math">\(a_3\)</span> to average.</li>
@@ -86,33 +87,40 @@ using the beam balance.</li>
 <p>It can be shown that a pendulum, length <span class="math">\(L\)</span>, moving through an
 angle <span class="math">\(\theta\)</span> has a velocity change of:</p>
 <div class="math">
-\[v = \sqrt{2gL(1-\cos\theta)} \qquad \qquad \textbf{---- equation 1}\]</div>
+\[v = \sqrt{2\text{g}`.(1-\cos\theta)} \label{eqn1} \tag{equation 1}\]</div>
 <ol class="arabic">
 <li><p class="first">In the experiment there is a collision, and momentum is conserved:</p>
 <div class="math">
-\[\begin{split}\sum(\text{momentum before collision}) &amp;= \sum(\text{momentum after collision})\\
+\[\begin{split}\sum\big(\text{momentum before collision}\big) &amp;= \sum\big(\text{momentum after collision}\big)\\
 m_A v_A + m_B v_B &amp;= m_A v_A' + m_B v_B'\end{split}\]</div>
 <p>where <span class="math">\(v_A\)</span>, <span class="math">\(v_B\)</span>, <span class="math">\(v_{A^{'}}\)</span>, <span class="math">\(v_{B^{'}}\)</span> are
 the velocities of bobs A and B before and after the collision
 respectively. However in the experiment <span class="math">\(v_B = 0\)</span>. Thus:</p>
 <div class="math">
 \[\frac{m_A}{m_B} = \frac{v_{B^{'}}}{v_A - v_{A^{'}}}\]</div>
-<p>Calculating velocities using equation 1, and substituting:</p>
+<p>Calculating velocities using <span class="math">\(\ref{eqn1}\)</span>, and substituting:</p>
 <div class="math">
-\[\frac{m_A}{m_B} = \frac{\sqrt{2gL(1-\cos\theta_{B^{'}})}}{\sqrt{2gL(1-\cos\theta_A)}-\sqrt{2gL(1-\cos\theta_{A^{'}})}}\]</div>
+\[\frac{m_A}{m_B} = \frac{\sqrt{2\text{g}`.(1-\cos\theta_{B^{'}})}}{\sqrt{2\text{g}`.(1-\cos\theta_A)}-\sqrt{2\text{g}`.(1-\cos\theta_{A^{'}})}}\]</div>
 <p>Thus:</p>
 <div class="math">
-\[\frac{m_A}{m_B} = \frac{\sqrt{(1-\cos\theta_{B^{'}})}}{\sqrt{(1-\cos\theta_A)}-\sqrt{(1-\cos\theta_{A^{'}})}}\]</div>
+\[\frac{m_A}{m_B} = \frac{\sqrt{(1-\cos\theta_{B^{'}})}}{\sqrt{(1-\cos\theta_A)}-\sqrt{(1-\cos\theta_{A^{'}})}} \label{eqn2} \tag{equation 2}\]</div>
 <p>This equation can be used to calculate the ratio of the masses of the bobs.</p>
 </li>
-<li><p class="first">To find the coefficient of restitution, <span class="math">\(\qquad e\)</span> :</p>
-<div class="math">
-\[\text{By definition}\qquad e = - \frac{\text{relative velocity after the collision}}{\text{relative velocity before the collision}}\]</div>
-<p>Using equation 1 for these velocities:</p>
-<div class="math">
-\[e = \frac{\sqrt{1-\cos\theta_{B'}}-\sqrt{1-\cos\theta_{A'}}}{\sqrt{1-\cos\theta_{A}}}\]</div>
+<li><p class="first">To find the coefficient of restitution, <span class="math">\(e\)</span> :</p>
 </li>
 </ol>
+<blockquote>
+<div><p>By definition:</p>
+<blockquote>
+<div><div class="math">
+\[\qquad e = - \frac{\big(\text{relative velocity after the collision}\big)}{\big(\text{relative velocity before the collision}\big)}\]</div>
+</div></blockquote>
+<p>Using <span class="math">\(\ref{eqn1}\)</span> for these velocities:</p>
+<blockquote>
+<div><div class="math">
+\[e = \frac{\sqrt{1-\cos\theta_{B'}}-\sqrt{1-\cos\theta_{A'}}}{\sqrt{1-\cos\theta_{A}}} \label{eqn3} \tag{equation 3}\]</div>
+</div></blockquote>
+</div></blockquote>
 </div>
 <div class="section" id="analysis">
 <h2>Analysis<a class="headerlink" href="#analysis" title="Permalink to this headline">¶</a></h2>
@@ -122,26 +130,26 @@ respectively. However in the experiment <span class="math">\(v_B = 0\)</span>. T
 <p><img alt="B1-1.3" src="../../_images/6.png" /></p>
 </li>
 <li><p class="first">Substitute the values of <span class="math">\(\theta_A\)</span>, <span class="math">\(\theta_{A}'\)</span>,
-<span class="math">\(\theta_{B}'\)</span> calculated in the above table into equation 2 to
-calculate the ratio of the masses of the two pendulum bobs. Check the
-accuracy of the method using the readings of mass obtained directly
-using the beam balance. Comment on the differences in these ways of
-measuring mass, using either the ballistic balance (collision
-method), or the beam balance.</p>
+<span class="math">\(\theta_{B}'\)</span> calculated in the above table into
+<span class="math">\(\ref{eqn2}\)</span> to calculate the ratio of the masses of the two
+pendulum bobs. Check the accuracy of the method using the readings of
+mass obtained directly using the beam balance. Comment on the
+differences in these ways of measuring mass, using either the ballistic
+balance (collision method), or the beam balance.</p>
 </li>
 <li><p class="first">Substitute the values of <span class="math">\(\theta_A\)</span>, <span class="math">\(\theta_{A}'\)</span>,
-<span class="math">\(\theta_{B}'\)</span> from the above table into equation 3 to calculate
+<span class="math">\(\theta_{B}'\)</span> from the above table into <span class="math">\(\ref{eqn3}\)</span> to calculate
 the coefficient of restitution for these pendulum bobs.&nbsp;Comment on
 the elasticity of the collision in your experiment if:</p>
 <div class="math">
-\[\begin{split}e=&amp;1 \qquad \text{collision is perfectly elastic} \\
-e=&amp;0 \qquad \text{collision is completely inelastic}\end{split}\]</div>
+\[\begin{split}e &amp;= 1 \qquad \text{collision is perfectly elastic} \\
+e &amp;= 0 \qquad \text{collision is completely inelastic}\end{split}\]</div>
 <p>Give simple examples to illustrate the energy changes that occur in collisions where:</p>
 <blockquote>
 <div><ol class="lowerroman simple">
 <li><span class="math">\(e = 1\)</span></li>
 <li><span class="math">\(e = 0\)</span></li>
-<li><span class="math">\(e = \text{the value in your experiment}\)</span></li>
+<li><span class="math">\(e = \big(\text{the value in your experiment}\big)\)</span></li>
 </ol>
 </div></blockquote>
 </li>

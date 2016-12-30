@@ -45,7 +45,7 @@ using Lord Rayleigh's formula:  
 
 where **g** is the acceleration due to gravity, which may be taken as
 9.8 ms\ :math:`^{-2}`, calculate :math:`\gamma_a`. You may assume that the
-density of the liquid A is 1.0g cm\ :math:`^{-3}`. (10 marks)
+density of the liquid A is :math:`1.0\text{g}` cm\ :math:`^{-3}`. (10 marks)
 
 Now empty the entire apparatus and refill it with the liquid **B**.
 Adjust the rate of flow as before. Collect 20 drops of the liquid **B**

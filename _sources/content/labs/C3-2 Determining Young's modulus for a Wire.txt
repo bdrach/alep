@@ -7,9 +7,9 @@ C3-2: Determining Young's Modulus for a Wire
 Apparatus
 ---------
 
-Mounted vernier scale; mounted pully; about 8m copper wire of diameter
-about 0.3mm; 3 G-clamps; six 100g masses with loops to hang from an
-S-hook; 0.5m of wire with an S-hook at one end; wooden block or metal
+Mounted vernier scale; mounted pully; about :math:`8\text{m}` copper wire of diameter
+about :math:`0.3\text{mm}`; 3 G-clamps; six :math:`100\text{g}` masses with loops to hang from an
+S-hook; :math:`0.5\text{m}` of wire with an S-hook at one end; wooden block or metal
 strip to protect wire from G-clamp; metre rule; micrometer; magnifying
 glass; graph paper
 
@@ -26,29 +26,32 @@ Procedure
 
 2. Gently add the masses to the S-hook, one at a time, until all masses
    are on the hook. One at a time, take the masses off the hook until
-   only one 100g mass remains on the S-hook. Repeat this process once.
+   only one :math:`100\text{g}` mass remains on the S-hook. Repeat this process once.
    This will assure your wires are straight and tight.
 
 3. Measure and record the length of the wire from clamp to vernier.
    Measure and record the diameter of your wire in 6 different places.
 
-4. Starting with 100g, add loads in increments of 100g to the wire up to
-   600g total load. Take the loads off 100g at a time until only 100g
+4. Starting with :math:`100\text{g}`  add loads in increments of
+   :math:`100\text{g}` to the wire up to :math:`600\text{g}` total load. Take
+   the loads off :math:`100\text{g}` at a time until only :math:`100\text{g}`
    remains on the S-hook. Load and unload the wire a second time in this
-   manner. Each time you add or take off 100g, record the vernier scale
-   reading. Tabulate your results. Find the extension, :math:`L`, by
-   subtracting the mean reading when load :math:`= 0.1`\ kg from
-   the mean reading at other loans.
+   manner. Each time you add or take off :math:`100\text{g}`  record the
+   vernier scale reading. Tabulate your results. Find the extension,
+   :math:`L`, by subtracting the mean reading when load :math:`= 0.1`\ kg
+   from the mean reading at other loans.
 
 Observations
 ------------
 
-:math:`L = \text{length of the wire} =` \_\_\_\_\_ m  
+:math:`L = \text{length of the wire} =` ________ m  
 
-:math:`6 \text{ readings of diameter}`: \_\_\_\_\_, \_\_\_\_\_, \_\_\_\_\_,
-\_\_\_\_\_, \_\_\_\_\_, \_\_\_\_\_ Avg.: \_\_\_\_\_ m  
+:math:`6 \text{ readings of diameter}`: ______, ______, ______,
+______, ______, ______ 
 
-:math:`r = \text{radius} =` \_\_\_\_\_ m  
+  Average: ________ m  
+
+:math:`r = \text{radius} =` ________ m  
 
 Tabulate:
 
@@ -57,7 +60,7 @@ Tabulate:
 Theory
 ------
 
-stress :math:`=\frac{\text{force}}{\text{area}}=\frac{\text{load}}{\pi r^2}=\frac{\text{mass} \times g}{\pi r^2}`
+stress :math:`=\frac{\text{force}}{\text{area}}=\frac{\text{load}}{\pi r^2}=\frac{(\text{mass}) g}{\pi r^2}`
  
 
 strain :math:`=\frac{\Delta L}{L}`  

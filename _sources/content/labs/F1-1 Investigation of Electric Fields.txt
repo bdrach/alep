@@ -7,10 +7,10 @@ F1-1: Investigating Electric Fields
 Apparatus
 ---------
 
-Glass plate with graph paper on the underside; probe; electrodes;
-electrode support; 100ml copper sulphate solution; syringe; spirit
-level; 4 connecting leads; voltmeter (0-5 & 0-15Vdc); 6V battery; 2
-sheets graph paper.
+Glass plate with graph paper on the underside; probe; electrodes; electrode
+support; :math:`100\text{ml}` copper sulphate solution; syringe; spirit level; 4
+connecting leads; voltmeter (:math:`0-5` & :math:`0-15\text{Vdc}`);
+:math:`6\text{V}` battery; 2 sheets graph paper.
 
 |F1-1.1| 
 
@@ -30,17 +30,17 @@ Procedure
 
 4. Holding the probe vertically, touch the tip onto the copper sulphate
    solution between the electrodes. Move the probe until a point is
-   found where :math:`V =` 1 V. Read the :math:`X` and :math:`Y`
+   found where :math:`V =` :math:`1\text{V}`. Read the :math:`X` and :math:`Y`
    coordinates. Mark this point on your graph paper.
 
-5. Find another point about 2cm from the first, where :math:`V =` 1 V.
+5. Find another point about :math:`2\text{cm}` from the first, where :math:`V =` :math:`1\text{V}`.
    Mark this point on the graph paper. Continue this process until
    either the line of points forms a closed loop or goes off the area of
    the solution.
 
-6. Join the points with a **smooth** curve and label it +1V.
+6. Join the points with a **smooth** curve and label it :math:`+1\text{V}`.
 
-7. Repeat 4, 5, and 6 with :math:`V =` 2V, 3V, and 4V.
+7. Repeat 4, 5, and 6 with :math:`V = 2\text{V}, 3\text{V}, \text{ and } 4\text{V}`.
 
 8. Touch the probe onto each electrode in turn, read V, and mark these
    values on the graph paper beside the electrodes.
@@ -91,11 +91,11 @@ Analysis
    potential difference between points :math:`A`\ (9,15) and
    :math:`B`\ (8,10).
 
-3. Calculate the work done if a charge of +2C moves from point :math:`A`
+3. Calculate the work done if a charge of :math:`+2\text{C}` moves from point :math:`A`
    to point :math:`B`. Describe the energy change if the charge is acted
    on by no forces other than that exerted by the electric field.
 
-4. How much work is done if the +2C charge moves along an equipotential
+4. How much work is done if the :math:`+2\text{C}` charge moves along an equipotential
    line?
 
 5. Look at the pattern of lines of force from steps 1 to 8. What formula
@@ -107,7 +107,7 @@ Analysis
    find the force on a charge between the electrodes (in terms of p.d.
    between the electrodes, distance between electrodes, and the charge)?
 
-7. Calculate the work done if a -4C charge moves between the electrodes
+7. Calculate the work done if a :math:`-4\text{C}` charge moves between the electrodes
    (from the + to the - electrode), in both of the fields studied.
 
 .. |F1-1.1| image:: /images/31.png

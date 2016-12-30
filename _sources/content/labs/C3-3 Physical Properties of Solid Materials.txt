@@ -7,10 +7,10 @@ C3-3: Physical Properties of Solid Materials
 Apparatus
 ---------
 
-A large selection of different solid materials; 1.5V cell; ammeter
-(0-1A); voltmeter (0-3V); 5 connecting leads; magnet; compass needle;
-triple beam balance; overflow can; 1L and 100ml measuring cylinders
-filled with water; small beaker; optical pin; 0.5m ruler; Physics
+A large selection of different solid materials; :math:`1.5\text{V}` cell; ammeter
+(:math:`0-1\text{A}`); voltmeter (:math:`0-3\text{V}`); 5 connecting leads; magnet; compass needle;
+triple beam balance; overflow can; :math:`1\text{L}` and :math:`100\text{ml}` measuring cylinders
+filled with water; small beaker; optical pin; :math:`0.5\text{m}` ruler; Physics
 reference books; eye protection glasses.
 
 PRECAUTIONS
@@ -18,7 +18,7 @@ PRECAUTIONS
 
 1. Some materials shatter if stressed. Take care to protect your eyes!
 
-2. Do not damage samples in the box marked 'DO NOT DAMAGE.' Any other
+2. Do not damage samples in the box marked DO NOT DAMAGE. Any other
    materials can be bent or damaged if you wish.
 
 Procedure

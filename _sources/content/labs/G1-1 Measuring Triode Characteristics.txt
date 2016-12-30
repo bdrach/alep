@@ -7,9 +7,9 @@ G1-1: Measuring Triode Characteristics
 Apparatus
 ---------
 
-DC power supply 0-800V; voltmeter 0-800V; cathode heater circuit (in
+DC power supply :math:`0-800\text{V}`; voltmeter :math:`0-800\text{V}`; cathode heater circuit (in
 power supply); planar triode (e.g.: TEL 521); 6 dry cells as grid voltage
-source; sensitive ammeter 0.01-0.8mA; 9 connecting wires; 2 sheets of
+source; sensitive ammeter :math:`0.01-0.8\text{m}`.; 9 connecting wires; 2 sheets of
 graph paper.
 
 |G1-1.1| 
@@ -22,12 +22,12 @@ Procedure
    change circuit connections. Failure to do this may cause injury or
    damage to the equipment.
 
-2. Set the grid voltage at -9V (six dry cells in series). Set the
+2. Set the grid voltage at :math:`-9\text{V}` (six dry cells in series). Set the
    power supply dial at zero. Turn on the power supply and slowly
    increase the anode potential by turning the power supply dial until
-   the voltmeter shows 100V. Record anode potential, :math:`V_a`, and
-   anode current, :math:`I_a`, for :math:`V_a` = 100, 200, 300, 400,
-   500, and 600V.  
+   the voltmeter shows 100\text{V}`. Record anode potential, :math:`V_a`, and
+   anode current, :math:`I_a`, for :math:`V_a = 100, 200, 300, 400,
+   500, \text{ and } 600\text{V}`.  
 
    NOTE the ammeter while you increase the anode potential. If the
    ammeter goes off scale, STOP increasing the potential difference and
@@ -35,30 +35,32 @@ Procedure
 
    Turn the power supply off.
 
-3. Change the grid potential, :math:`V_g`, to -6V then repeat procedure (2).
+3. Change the grid potential, :math:`V_g`, to :math:`-6\text{V}` then repeat procedure (2).
 
-4. Change :math:`V_g` to - 4.5V and repeat procedure 2.
+4. Change :math:`V_g` to :math:`-4.5\text{V}` and repeat procedure 2.
 
-5. change :math:`V_g` to -3V and repeat procedure 2.
+5. change :math:`V_g` to :math:`-3\text{V}` and repeat procedure 2.
 
-6. Change :math:`V_g` to -1.5V and repeat procedure 2.
+6. Change :math:`V_g` to :math:`-1.5\text{V}` and repeat procedure 2.
 
 7. Make 5 more data tables of :math:`V_g` and :math:`I_a`, with
    :math:`V_a` constant. Use the data from the procedure above for
-   :math:`V_a` = 100, 200, 300, 400, and 500V.
+   :math:`V_a = 100, 200, 300, 400, \text{ and } 500\text{V}`.
 
 Observations
 ------------
 
 Tabulate:
  
-| :math:`I_a` and :math:`V_a` for each of the 5 values of :math:`V_g` constant: 
-| *note* :math:`V_g` *in volts for each table* 
+:math:`I_a` and :math:`V_a` for each of the 5 values of :math:`V_g` constant: 
+
+:math:`V_g` = ______ V
 
 |G1-1.2| 
 
-| :math:`I_a` and :math:`V_g` for the first 5 values of :math:`V_a` constant:  
-| *note* :math:`V_a` *in volts for each table*   
+:math:`I_a` and :math:`V_g` for the first 5 values of :math:`V_a` constant:  
+
+:math:`V_a` = ______ V
 
 |G1-1.3| 
 
@@ -84,8 +86,12 @@ The amplification factor, :math:`\mu`, can be found by comparing
 graphs:  
 
 .. math::
-   \mu &= \frac{\delta V_a}{\delta V_g} \text{  over the same interval } I_a \\    
-   \text{or: } \mu &= g_m R_a
+   \mu = \frac{\delta V_a}{\delta V_g} \tag{  over the same interval $I_a$ }
+
+or:
+
+.. math::
+   \mu = g_m R_a
 
 Analysis
 --------

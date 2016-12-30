@@ -9,8 +9,8 @@ Apparatus
 
 |B5-3.1| 
 
-A wide test tube with a millimetre scale inside; a deep 1000ml beaker;
-some lead shot; two 2g masses; two 5g masses; triple beam balance;
+A wide test tube with a millimetre scale inside; a deep :math:`1000\text{ml}` beaker;
+some lead shot; two :math:`2\text{g}` masses; two :math:`5\text{g}` masses; triple beam balance;
 stopwatch; water or other liquid; graph paper
 
 Procedure
@@ -18,7 +18,7 @@ Procedure
 
 1. Use the triple beam balance to find the mass of the test tube filled
    with some lead shot. Add or subtract lead shot to make the total mass
-   50g.
+   :math:`50\text{g}`.
 
 2. Place the tube in the liquid filled beaker. The tube should float
    vertically. If it does not, add more lead shot until the tube floats
@@ -27,11 +27,11 @@ Procedure
    measured on the scale inside the tube. At this point the total
    additional load is 0.
 
-3. One at a time add the additional loads of 2g and 5g to the tube.
+3. One at a time add the additional loads of :math:`2\text{g}` and :math:`5\text{g}` to the tube.
    After adding each mass record the liquid level on the scale inside
    the tube and record the total additional load.
 
-4. Take out the 2g and 5g masses. Lift the tube 1.5cm above its
+4. Take out the :math:`2\text{g}` and :math:`5\text{g}` masses. Lift the tube 1.5\text{cm}` above its
    equilibrium position then drop it to start it oscillating. Measure
    the time for 5 oscillations. This is easiest if you start the
    stopwatch at the top of the oscillation and count "zero" when you
@@ -41,19 +41,19 @@ Procedure
 Observations
 ------------
 
-:math:`M` = mass of the tube + lead shot :math:`=` \_\_\_\_ kg
+:math:`M` = mass of the tube + lead shot :math:`=` ________ kg
 
 Tabulate:
 
 |B5-3.2| 
 
 | 6 measurements of time for 5 oscillations:  
-| 1. \_\_\_\_  2. \_\_\_\_  3. \_\_\_\_  4. \_\_\_\_  5. \_\_\_\_  6. \_\_\_\_ 
+| 1. ______  2. ______  3. ______  4. ______  5. ______  6. ______ 
 |
-| Average time of 5 oscillations: \_\_\_\_\_ s  
+|   Average time of 5 oscillations: ________ s  
 
 Period of oscillation
-:math:`= T = \frac{\text{Avg. time for 5 oscillations}}{5}=` \_\_\_\_\_
+:math:`= T = \frac{\left(\text{Avg. time for 5 oscillations}\right)}{5}=` ________
 s
 
 Theory

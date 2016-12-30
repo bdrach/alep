@@ -66,18 +66,28 @@ The impedance of this combination of :math:`r` and :math:`L` is given
 by:
 
 .. math::
-   Z &= \sqrt{r^2 + \omega ^2 L^2}  \qquad \qquad \textbf{---- equation 1}\\
-   \text{where: } \qquad Z &= \frac{V_2 \text{ rms}}{I \text{ rms}} = \frac{V_2 \text{ peak}}{I \text{ peak}} \qquad \qquad \textbf{---- equation 2}\\
-   \text{and: } \qquad \omega &= 2 \pi f
+   Z = \sqrt{r^2 + \omega ^2 L^2} \label{eqn1} \tag{equation 1}
+
+where:
+
+.. math::
+   \qquad Z = \frac{V_2 \text{ rms}}{I \text{ rms}} = \frac{V_2 \text{ peak}}{I \text{ peak}} \label{eqn2} \tag{equation 2}
+
+and: 
+
+.. math::
+   \qquad \omega = 2 \pi f
 
 It is also possible to calculate :math:`L` using data about the coil and
 its core:
 
 .. math::
-   L &= \frac{ \mu_0 \mu_r N^2 A}{l}  \qquad \qquad \textbf{---- equation 3}\\
+   L = \frac{ \mu_0 \mu_r N^2 A}{l}  \label{eqn3} \tag{equation 3}
+
+where:
 
 .. math::
-   \text{where: } \qquad \mu_0 &= 4 \pi \times 10^{-7} \text{Hm} ^{-1} \\
+   \mu_0 &= 4 \pi \times 10^{-7} \text{Hm} ^{-1} \\
    \mu_r &= \text{relative permeability of the iron} \\
    N &= \text{number of coil turns} \\
    A &= \text{core cross-sectional area} \\
@@ -89,12 +99,12 @@ Analysis
 1. Plot a graph of :math:`V_2` peak against :math:`I` peak, and find the
    gradient.
 
-2. Use the gradient and equation 2 to find the value of :math:`Z`.
+2. Use the gradient and :math:`\ref{eqn2}` to find the value of :math:`Z`.
 
-3. Use equation 1 to find the inductance of the coil, :math:`L`.
+3. Use :math:`\ref{eqn1}` to find the inductance of the coil, :math:`L`.
 
 4. Use this value of :math:`L`, together with the other measured values,
-   and equation 3, to find the relative permeability of this type of
+   and :math:`\ref{eqn3}`, to find the relative permeability of this type of
    iron, :math:`\mu_r`.
 
 5. Look up values of :math:`\mu_r` for different types of iron in a reference
@@ -107,7 +117,7 @@ Questions
    calculate the current :math:`I` peak when :math:`V_1 = 8`\ V peak and
    :math:`f = 1`\ kHz.
 
-2. Use equation 3 to estimate :math:`L` if the iron core is removed.
+2. Use :math:`\ref{eqn3}` to estimate :math:`L` if the iron core is removed.
    Show that in this case :math:`Z \approx r`. Repeat Q1 using :math:`L`
    for the coil without an iron core.
 
@@ -129,7 +139,7 @@ Questions
 
    .. math::
       \qquad \frac {V_2 \text{ rms}}{I \text{ rms}} =
-      \frac{V_2 \text{ peak}}{I \text{ peak}} \qquad \qquad \text{(from equation 2)}
+      \frac{V_2 \text{ peak}}{I \text{ peak}} \tag{from equation 2}
 
    Why in the experiment is :math:`V` peak measured rather than :math:`V` rms?
 

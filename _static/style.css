@@ -47,4 +47,5 @@ a.reference:hover {
 
 /* Fix sidebar position */
 div.sphinxsidebarwrapper { position: fixed; width: 200px; }
+div.localtocwrapper { min-height: 200px; }
 

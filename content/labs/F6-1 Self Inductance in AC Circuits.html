@@ -104,15 +104,20 @@ the coil is:</p>
 <p>The impedance of this combination of <span class="math">\(r\)</span> and <span class="math">\(L\)</span> is given
 by:</p>
 <div class="math">
-\[\begin{split}Z &amp;= \sqrt{r^2 + \omega ^2 L^2}  \qquad \qquad \textbf{---- equation 1}\\
-\text{where: } \qquad Z &amp;= \frac{V_2 \text{ rms}}{I \text{ rms}} = \frac{V_2 \text{ peak}}{I \text{ peak}} \qquad \qquad \textbf{---- equation 2}\\
-\text{and: } \qquad \omega &amp;= 2 \pi f\end{split}\]</div>
+\[Z = \sqrt{r^2 + \omega ^2 L^2} \label{eqn1} \tag{equation 1}\]</div>
+<p>where:</p>
+<div class="math">
+\[\qquad Z = \frac{V_2 \text{ rms}}{I \text{ rms}} = \frac{V_2 \text{ peak}}{I \text{ peak}} \label{eqn2} \tag{equation 2}\]</div>
+<p>and:</p>
+<div class="math">
+\[\qquad \omega = 2 \pi f\]</div>
 <p>It is also possible to calculate <span class="math">\(L\)</span> using data about the coil and
 its core:</p>
 <div class="math">
-\[\begin{split}L &amp;= \frac{ \mu_0 \mu_r N^2 A}{l}  \qquad \qquad \textbf{---- equation 3}\\\end{split}\]</div>
+\[L = \frac{ \mu_0 \mu_r N^2 A}{l}  \label{eqn3} \tag{equation 3}\]</div>
+<p>where:</p>
 <div class="math">
-\[\begin{split}\text{where: } \qquad \mu_0 &amp;= 4 \pi \times 10^{-7} \text{Hm} ^{-1} \\
+\[\begin{split}\mu_0 &amp;= 4 \pi \times 10^{-7} \text{Hm} ^{-1} \\
 \mu_r &amp;= \text{relative permeability of the iron} \\
 N &amp;= \text{number of coil turns} \\
 A &amp;= \text{core cross-sectional area} \\
@@ -123,10 +128,10 @@ l &amp;= \text{distance around core}\end{split}\]</div>
 <ol class="arabic simple">
 <li>Plot a graph of <span class="math">\(V_2\)</span> peak against <span class="math">\(I\)</span> peak, and find the
 gradient.</li>
-<li>Use the gradient and equation 2 to find the value of <span class="math">\(Z\)</span>.</li>
-<li>Use equation 1 to find the inductance of the coil, <span class="math">\(L\)</span>.</li>
+<li>Use the gradient and <span class="math">\(\ref{eqn2}\)</span> to find the value of <span class="math">\(Z\)</span>.</li>
+<li>Use <span class="math">\(\ref{eqn1}\)</span> to find the inductance of the coil, <span class="math">\(L\)</span>.</li>
 <li>Use this value of <span class="math">\(L\)</span>, together with the other measured values,
-and equation 3, to find the relative permeability of this type of
+and <span class="math">\(\ref{eqn3}\)</span>, to find the relative permeability of this type of
 iron, <span class="math">\(\mu_r\)</span>.</li>
 <li>Look up values of <span class="math">\(\mu_r\)</span> for different types of iron in a reference
 table and try to deduce the type of iron alloy used in your iron cores.</li>
@@ -139,7 +144,7 @@ table and try to deduce the type of iron alloy used in your iron cores.</li>
 calculate the current <span class="math">\(I\)</span> peak when <span class="math">\(V_1 = 8\)</span>V peak and
 <span class="math">\(f = 1\)</span>kHz.</p>
 </li>
-<li><p class="first">Use equation 3 to estimate <span class="math">\(L\)</span> if the iron core is removed.
+<li><p class="first">Use <span class="math">\(\ref{eqn3}\)</span> to estimate <span class="math">\(L\)</span> if the iron core is removed.
 Show that in this case <span class="math">\(Z \approx r\)</span>. Repeat Q1 using <span class="math">\(L\)</span>
 for the coil without an iron core.</p>
 </li>
@@ -159,7 +164,7 @@ used in the tuning circuit of a radio receiver?</p>
 <li><p class="first">Prove that:</p>
 <div class="math">
 \[\qquad \frac {V_2 \text{ rms}}{I \text{ rms}} =
-\frac{V_2 \text{ peak}}{I \text{ peak}} \qquad \qquad \text{(from equation 2)}\]</div>
+\frac{V_2 \text{ peak}}{I \text{ peak}} \tag{from equation 2}\]</div>
 <p>Why in the experiment is <span class="math">\(V\)</span> peak measured rather than <span class="math">\(V\)</span> rms?</p>
 </li>
 <li><p class="first">Sketch on the same graph curves of <span class="math">\(V\)</span> and <span class="math">\(I\)</span> for an
@@ -182,7 +187,7 @@ supply.</p>
 <h3 id="homelink" ><a href="../../index.html">Home</a></h3>
 
 <h4>Section outline</h4>
-<div  style="min-height: 200px;">
+<div class="localtocwrapper">
 <ul>
 <li><a class="reference internal" href="#">F6-1: Self Inductance in AC Circuits</a><ul>
 <li><a class="reference internal" href="#apparatus">Apparatus</a></li>

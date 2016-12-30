@@ -60,20 +60,20 @@ Theory
    When the galvanometer reads zero:  
 
    .. math::
-      \frac{R_1}{R_2} = \frac{R_3}{R_4} \qquad \qquad \textbf{---- equation 1}
+      \frac{R_1}{R_2} = \frac{R_3}{R_4}  \label{eqn1} \tag{equation 1}
       
 
    And therefore in this experiment when the units of L are cm: 
 
    .. math::
-      R_{\theta} = 10 \left( \frac{L}{100-L} \right) \qquad \qquad \textbf{---- equation 2}
+      R_{\theta} = 10 \left( \frac{L}{100-L} \right) \label{eqn2} \tag{equation 2}
       
 
 Analysis
 --------
 
 1. For each value of :math:`L`, calculate a value of :math:`R_\theta`
-   using the above formula (equation 2).
+   using the above formula (:math:`\ref{eqn2}`).
 
 2. Plot a graph of :math:`R_\theta` vs. :math:`\theta`\ °C. Find the
    gradient and the y-intercept. NB: it is not necessary for the
@@ -86,7 +86,7 @@ Analysis
 Questions
 ---------
 
-1. Use equation 1 above to prove equation 2.
+1. Use :math:`\ref{eqn1}` above to prove :math:`\ref{eqn2}`.
 
 2. Calculate the expected resistance of the copper wire when its
    temperature is 300°C.

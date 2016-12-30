@@ -8,12 +8,12 @@
     :license: BSD, see LICENSE for details.
 #}
 {%- if prev %}
-  <h4>{{ _('Previous section') }}</h4>
+  <h4>{{ _('Previous section:') }}</h4>
   <p class="topless"><a href="{{ prev.link|e }}"
                         title="{{ _('previous chapter') }}">{{ prev.title|truncate(25, True) }}</a></p>
 {%- endif %}
 {%- if next %}
-  <h4>{{ _('Next section') }}</h4>
+  <h4>{{ _('Next section:') }}</h4>
   <p class="topless"><a href="{{ next.link|e }}"
                         title="{{ _('next chapter') }}">{{ next.title|truncate(25, True) }}</a></p>
 {%- endif %}

@@ -162,7 +162,10 @@ html_extra_path = ['content/webfiles']
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
-html_sidebars = {'**' : ['homelink.html', 'localtoc.html', 'relations.html', 'searchbox.html']}
+html_sidebars = {'**' : ['homelink.html', 'localtoc.html', 'relations.html', 'searchbox.html'],
+'**index**' : ['homelink.html', 'localtoc.html', 'searchbox.html'],
+
+}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.

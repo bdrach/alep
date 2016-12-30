@@ -1,7 +1,5 @@
-:title: Relative Density of a Liquid
-:id: 85-Q1
-:description: In this experiment you are required to determine the density ofa liquid relative to that of another liquid, and find the massof the metre rule provided.
-:type: exam_question
+.. meta::
+  :description: In this experiment you are required to determine the density of a liquid relative to that of another liquid, and find the mass  of the metre rule provided.
 
 85-Q1: Relative Density of a Liquid
 ===================================

@@ -1,7 +1,5 @@
-:title: Finding the Wavelength of Sodium Light Using a Diffraction Grating and Spectrometer
-:id: E3-1
-:description: The spectrometer apparatus takes advantage of the knownrelationship between the size of the grating, the wavelength of light, andthe angle of diffraction of the light.  
-:type: lab
+.. meta::
+  :description: The spectrometer apparatus takes advantage of the known relationship between the size of the grating, the wavelength of light, and the angle of diffraction of the light.  
 
 E3-1: Finding the Wavelength of Sodium Light Using a Diffraction Grating and Spectrometer
 =========================================================================================

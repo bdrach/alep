@@ -1,7 +1,5 @@
-:title: Newton's Law of Cooling
-:id: 86-Q2
-:description: The aim of this experiment is to investigate the manner in which acalorimeter containing hot water cools down.
-:type: exam_question
+.. meta::
+  :description: The aim of this experiment is to investigate the manner in which a calorimeter containing hot water cools down.
 
 86-Q2: Newton's New of Cooling
 ==============================

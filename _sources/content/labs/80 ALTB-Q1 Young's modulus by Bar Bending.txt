@@ -1,7 +1,5 @@
-:title: Young's Modulus by Bar Bending
-:id: 80 ALT B-Q1
-:description: The aim of this experiment is to determine the Young's modulus of thematerial of the bar.
-:type: exam_question
+.. meta::
+  :description: The aim of this experiment is to determine the Young's modulus of the material of the bar.
 
 80 ALT B-Q1: Young's modulus by Bar Bending
 ===========================================

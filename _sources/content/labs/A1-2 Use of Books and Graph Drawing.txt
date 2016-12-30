@@ -1,7 +1,5 @@
-:title: Use of Books and Graph Drawing
-:id: A1-2
-:description: A-level students must have independent study skills to learn thetheory, acquire the mathematics techniques, make observations, and graphresults.  This exercise is foundational for the experiments that follow.
-:type: lab
+.. meta::
+  :description: A-level students must have independent study skills to learn the theory, acquire the mathematics techniques, make observations, and graphresults.  This exercise is foundational for the experiments that follow.
 
 A1-2: Use of Books and Graph Drawing
 ====================================

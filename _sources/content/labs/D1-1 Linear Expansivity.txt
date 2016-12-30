@@ -1,7 +1,5 @@
-:title: Linear Expansivity
-:id: D1-1
-:description: Solids expand and contract across their range of temperature --from near zero to the extreme of their melting points.  This experimentprovides practical experience with expansivity of one sample material.
-:type: lab
+.. meta::
+  :description: Solids expand and contract across their range of temperature -- from near zero to the extreme of their melting points.  This experiment provides practical experience with expansivity of one sample material.
 
 D1-1: Linear Expansivity
 ========================

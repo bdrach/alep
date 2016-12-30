@@ -1,7 +1,5 @@
-:title: The Temperature Coefficient of Resistance of Copper
-:id: F2-3
-:description: The Wheatstone Bridge, in this case using a 100 cm wire ofconsistant resistivity, is a good tool for measuring the changing resistancein a wire as its temperature increases.
-:type: lab
+.. meta::
+  :description: The Wheatstone Bridge, in this case using a 100 cm wire of consistant resistivity, is a good tool for measuring the changing resistance in a wire as its temperature increases.
 
 F2-3: The Temperature Coefficient of Resistance of Copper
 =========================================================

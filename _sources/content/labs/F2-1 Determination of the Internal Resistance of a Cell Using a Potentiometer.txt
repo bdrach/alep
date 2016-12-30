@@ -1,7 +1,5 @@
-:title: Determination of the Internal Resistance of a Cell Using a Potentiometer
-:id: F2-1
-:description: The LeClanché cell creates an electromotive force that drivescurrent through a circuit.  Internal to the cell there is a resistence tocurrent, which is measured by applying a special case of Ohm's law.
-:type: lab
+.. meta::
+  :description: The LeClanché cell creates an electromotive force that drives current through a circuit.  Internal to the cell there is a resistence to current, which is measured by applying a special case of Ohm's law.
 
 F2-1: Determination of the Internal Resistance of a Cell Using a Potentiometer
 ==============================================================================

@@ -1,10 +1,8 @@
-:title: The Viscosity of Water Using Flow Through a Capillary Tube
-:id: C2-1
-:description: Capillary action, surface tension, and viscosity are due tomolecular forces that can be observed and described systematically.  This labexplores how Poiseuille's formula describes the behavior of liquid in a tube.
-:type: lab
+.. meta::
+  :description: Capillary action, surface tension, and viscosity are due to molecular forces that can be observed and described systematically.  This labexplores how Poiseuille's formula describes the behavior of liquid in a tube.
 
-C2-1: The Viscosity of Water Using Flow Through a Capillary Tube.
-=================================================================
+C2-1: The Viscosity of Water Using Flow Through a Capillary Tube
+================================================================
 
 Apparatus
 ---------

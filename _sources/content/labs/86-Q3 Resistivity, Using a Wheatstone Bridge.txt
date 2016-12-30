@@ -1,7 +1,5 @@
-:title: Resistivity, Using a Wheatstone Bridge
-:id: 86-Q3
-:description: The aim of this experiment is to determine the electricalresistivity of the wire provided.
-:type: exam_question
+.. meta::
+  :description: The aim of this experiment is to determine the electrical resistivity of the wire provided.
 
 86-Q3: Resistivity, Using a Wheatstone Bridge
 =============================================

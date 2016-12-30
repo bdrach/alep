@@ -1,7 +1,5 @@
-:title: The Moment of Inertia of a Cylinder
-:id: B3-1
-:description: A cylinder rolling down and incline plane trades potentialenergy for a combination of linear and rotational kinetic energy.  Thisconservation of energy creates a basis for testing principles of rotationaldynamics.
-:type: lab
+.. meta::
+  :description: A cylinder rolling down and incline plane trades potential energy for a combination of linear and rotational kinetic energy.  Thisconservation of energy creates a basis for testing principles of rotational dynamics.
 
 B3-1: The Moment of Inertia of a Cylinder
 =========================================

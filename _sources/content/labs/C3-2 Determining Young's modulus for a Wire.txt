@@ -1,7 +1,5 @@
-:title: Determining Young's Modulus for a Wire
-:id: C3-2
-:description: The change in length of a wire when a known load is added, theratio of stress / strain, is easily observed and can be compared to a standardreference value.  This lab provides great experience in charting and graphingskills.
-:type: lab
+.. meta::
+  :description: The change in length of a wire when a known load is added, theratio of stress / strain, is easily observed and can be compared to a standard reference value.  This lab provides great experience in charting and graphing skills.
 
 C3-2: Determining Young's Modulus for a Wire
 ============================================

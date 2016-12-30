@@ -1,7 +1,5 @@
-:title: Determining the Young's Modulus of Wood Along the Grain Using a Cantilever
-:id: C3-1
-:description: Elastic materials under stress experience a measurabledeformation (strain).  The ratio of stress to strain is a consistent physicalproperty of the material -- the elastic modulus (or Young's modulus).
-:type: lab
+.. meta::
+  :description: Elastic materials under stress experience a measurable deformation (strain).  The ratio of stress to strain is a consistent physical property of the material -- the elastic modulus (or Young's modulus).
 
 C3-1: Determining the Young's Modulus of Wood Along the Grain Using a Cantilever
 ================================================================================

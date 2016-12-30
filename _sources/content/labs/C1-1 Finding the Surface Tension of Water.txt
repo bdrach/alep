@@ -1,7 +1,5 @@
-:title: Finding the Surface Tension of Water
-:id: C1-1
-:description: While the initial challenge here is to observe the force ofsurface tension, student is challenged to create hypotheses about differentmaterials, temperatures, and dynamics at the molecular level.
-:type: lab
+.. meta::
+  :description: While the initial challenge here is to observe the force of surface tension, student is challenged to create hypotheses about different materials, temperatures, and dynamics at the molecular level.
 
 C1-1: Finding the Surface Tension of Water
 ==========================================

@@ -1,7 +1,5 @@
-:title: Specific Heat Capacity of Water: Electrical Method
-:id: D2-1
-:description: Students apply energy to a system including a mass of water, thendetermine its property of heat capacity by measuring temperature changes,applying conservation of energy and a concept from Newton's law of cooling.
-:type: lab
+.. meta::
+  :description: Students apply energy to a system including a mass of water, then determine its property of heat capacity by measuring temperature changes, applying conservation of energy and a concept from Newton's law of cooling.
 
 D2-1: Specific Heat Capacity of Water: Electrical Method
 ========================================================

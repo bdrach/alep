@@ -1,7 +1,5 @@
-:title: Experiments Using a Spiral Spring
-:id: B5-2
-:description: Hooke's Law forms the basis for this set of observations onelastic deformation, the transfer of potential energy to kinetic energy,and vice versa.
-:type: lab
+.. meta::
+  :description: Hooke's Law forms the basis for this set of observations on elastic deformation, the transfer of potential energy to kinetic energy, and vice versa.
 
 B5-2: Experiments Using a Spiral Spring
 =======================================

@@ -1,7 +1,5 @@
-:title: Determination of the Resistivity of the Material of a Wire
-:id: F2-4
-:description: The Wheatstone Bridge uses a know resistor and the ratio ofresistance wire segment lengths to determine the resistance in a wire ofunknown material.  It's resistivity will reveal the material's identity.
-:type: lab
+.. meta::
+  :description: The Wheatstone Bridge uses a know resistor and the ratio of resistance wire segment lengths to determine the resistance in a wire of unknown material.  It's resistivity will reveal the material's identity.
 
 F2-4: Determination of the Resistivity of the Material of a Wire
 ================================================================

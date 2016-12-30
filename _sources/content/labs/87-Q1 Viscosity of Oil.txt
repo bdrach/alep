@@ -1,7 +1,5 @@
-:title: Viscosity of Oil
-:id: 87-Q1
-:description: The aim of this experiment is to determine the viscosity of anunknown liquid.
-:type: exam_question
+.. meta::
+  :description: The aim of this experiment is to determine the viscosity of an unknown liquid.
 
 87-Q1: Viscosity of Oil
 =======================

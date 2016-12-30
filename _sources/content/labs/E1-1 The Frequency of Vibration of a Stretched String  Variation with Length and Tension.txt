@@ -1,7 +1,5 @@
-:title: The Frequency of Vibration of a Stretched String: Variation with Length and Tension
-:id: E1-1
-:description: Here you combine your understanding of materials to explorethe relationship between harmonic motion and waves, especially how frequencycan change with both the length and the tension in a wire.
-:type: lab
+.. meta::
+  :description: Here you combine your understanding of materials to explore the relationship between harmonic motion and waves, especially how frequency can change with both the length and the tension in a wire.
 
 E1-1: The Frequency of Vibration of a Stretched String: Variation with Length and Tension
 ===========================================================================================

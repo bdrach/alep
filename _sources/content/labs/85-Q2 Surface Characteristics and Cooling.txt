@@ -1,10 +1,8 @@
-:title: Surface Characteristics and Cooling
-:id: 85-Q2
-:description: The aim of this experiment is to investigate how the nature of thesurface of a calorimeter affects the rate of loss of heat.
-:type: exam_question
+.. meta::
+  :description: The aim of this experiment is to investigate how the nature of the surface of a calorimeter affects the rate of loss of heat.
 
-85-Q2: Surface Characteristics and Cooling.
-===========================================
+85-Q2: Surface Characteristics and Cooling
+==========================================
 
 Time :math:`1 \frac{1}{2}` hr.
 

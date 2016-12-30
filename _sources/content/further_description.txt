@@ -1,7 +1,5 @@
-------
-:title: "Further Description of Apparatus"
-:type: preamble
-------
+.. meta::
+  :description: Further description of experimental apparatus
 
 Further Description of Apparatus for Teachers and Technicians
 =============================================================

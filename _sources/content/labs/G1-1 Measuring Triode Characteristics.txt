@@ -1,7 +1,5 @@
-:title: Measuring Triode Characteristics
-:id: G1-1
-:description: A triode with a small potential difference (p.d.) between thegrid and cathode can amplify current flowing between the cathode and anode ata much higher p.d.  This discovery was the basis for radio and electronics.
-:type: lab
+.. meta::
+  :description: A triode with a small potential difference (p.d.) between the grid and cathode can amplify current flowing between the cathode and anode ata much higher p.d.  This discovery was the basis for radio and electronics.
 
 G1-1: Measuring Triode Characteristics
 ======================================

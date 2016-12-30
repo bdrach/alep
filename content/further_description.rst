@@ -9,7 +9,7 @@ Further Description of Apparatus for Teachers and Technicians
 **Practical Exercises:**
 
 **A1-1** A large model of a vernier scale can help students.  For the 
-Archimede's bridge, use any mechanism such that the student can suspend 
+Archimedes' bridge, use any mechanism such that the student can suspend 
 the microscope slide in the beaker and take the apparent weight measurement
 using the beam balance.
 

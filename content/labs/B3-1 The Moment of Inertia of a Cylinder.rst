@@ -77,7 +77,7 @@ Therefore:
 Substitute :math:`v^2 = 2as` and :math:`\omega = \frac{v}{r_a}` :
 
 .. math::
-   a = \left(\frac{Mgr_a^2}{Mr_a^2 + I}\right) (\sin\theta) \qquad \qquad \text{(check this yourself!)} 
+   a = \left(\frac{Mgr_a^2}{Mr_a^2 + I}\right) (\sin\theta) \tag{check this yourself!} 
 
 Analysis
 --------

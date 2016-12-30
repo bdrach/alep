@@ -72,8 +72,10 @@ Theory
    following:  
 
    .. math::
-      E_p &= -N_p \frac{d \Phi_s}{dt} \qquad \qquad \textbf{---- equation A} \\
-      E_s &= -N_s \frac{d \Phi_p}{dt} \qquad \qquad \textbf{---- equation B}
+      E_p = -N_p \frac{d \Phi_s}{dt} \label{eqnA} \tag{equation A}
+
+   .. math::
+      E_s = -N_s \frac{d \Phi_p}{dt}  \label{eqnB} \tag{equation B}
 
    The unit of flux is the weber - Wb.  When :math:`\Phi_s` (the flux through the secondary coil)
    :math:`=\Phi_p` (the flux through the primary coil), then:
@@ -100,7 +102,7 @@ Theory
 
 2. The 10 turn coil is used to detect if the flux :math:`\Phi` in the
    iron core changes in the experiment. If
-   :math:`\Phi = \Phi_{peak} \sin \omega t`, then equation 1B can be
+   :math:`\Phi = \Phi_{peak} \sin \omega t`, then :math:`\ref{eqnB}` can be
    used to show that :math:`V_T` peak :math:`\propto \Phi_{peak}`,
    provided that :math:`\omega` is constant.
 

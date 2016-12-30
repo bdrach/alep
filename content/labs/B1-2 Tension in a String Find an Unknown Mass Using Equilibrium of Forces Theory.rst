@@ -61,7 +61,7 @@ And **vertically**:
 but :math:`\theta_1 = \theta_2` and  :math:`T_1 = T_2`, so:
 
 .. math::
-   2T_1\sin\theta_1 - W = 0 \qquad \qquad \textbf{---- equation 1}
+    2T_1\sin\theta_1 - W = 0 \label{eqn1} \tag{equation 1}
 
 but :math:`T_1 = m_1g` , :math:`\sin\theta_1 = \frac{h}{d}` , and :math:`W = m_2g`, hence:
 
@@ -86,7 +86,7 @@ Analysis
 
       Assuming that at this moment :math:`\theta_1 = \theta_2 = \text{the value from a.}`, find the initial upward acceleration of :math:`m_2`, as it heads towards a new equilibrium position. 
 
-      (Hint: find :math:`T_1` and use part of **equation 1** to find the net upward force on :math:`m_2` .)
+      (Hint: find :math:`T_1` and use part of :math:`\ref{eqn1}` above to find the net upward force on :math:`m_2` .)
 
 .. |B1-2.1| image:: /images/7.png
 .. |B1-2.2| image:: /images/8.png

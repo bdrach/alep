@@ -9,16 +9,16 @@ D2-1: Specific Heat Capacity of Water: Electrical Method
 Apparatus
 ---------
 
-Copper calorimeter (unlagged, with fitted lid and electrical heater); thermometer (0-100°C); voltmeter (0-5Vdc); ammeter (0-5Vdc); power supply (dc); stopclock; measuring cylinder (100ml with 100ml water); triple beam balance; 5 connecting leads; 1 sheet graph paper
+Copper calorimeter (unlagged, with fitted lid and electrical heater); thermometer (:math:`0-100\text{°C}`); voltmeter (:math:`0-5\text{Vdc}`); ammeter (:math:`0-5\text{Vac}`); power supply (dc); stopclock; measuring cylinder (:math:`100\text{ml}` with :math:`100\text{ml}` water); triple beam balance; 5 connecting leads; 1 sheet graph paper
 
 |D2-1.1|
 
 Procedure
 ---------
 
-1. Find the mass of the calorimeter. Pour in 100cm :math:`^3` water.  Record the calorimeter mass :math:`m_c` and the mass of water :math:`m_w`.
+1. Find the mass of the calorimeter. Pour in :math:`100\text{cm}^3` water.  Record the calorimeter mass :math:`m_c` and the mass of water :math:`m_w`.
 
-2. Assemble the apparatus as above. Switch on and quickly adjust the voltage so that A reads :math:`4` A. Switch off.
+2. Assemble the apparatus as above. Switch on and quickly adjust the voltage so that A reads :math:`4\text{A}`. Switch off.
 
 3. Shake the calorimeter gently to stir the water, then record the starting temperature :math:`\Theta_1` .
 
@@ -47,9 +47,8 @@ Then:
 Where: 
 
 .. math::
-   c_c &= \text{specific heat capacity of copper} \\   
-   &= 3.8 \times 10^2 \text{Jkg} ^{-1} \text{K} ^{-1} \\     
-   c_w &= \text{specific heat capacity of water} 
+   c_c &= \big(\text{specific heat capacity of copper}\big) = 3.8 \times 10^2 \text{Jkg} ^{-1} \text{K} ^{-1} \\     
+   c_w &= \big(\text{specific heat capacity of water}\big) 
 
 Questions
 ---------

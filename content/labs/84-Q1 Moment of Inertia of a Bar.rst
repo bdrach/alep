@@ -9,8 +9,8 @@ Time: :math:`1 \frac{1}{2}` hr.
 Apparatus
 ---------
 
-Bifilar pendulum (Wooden bar or metre rule with holes 0.5cm from ends);
-2 threads (:math:`\sim` 1.2m long); 2 :math:`\times` 100g masses (flat
+Bifilar pendulum (Wooden bar or metre rule with holes :math:`0.5\text{cm}` from ends);
+2 threads (:math:`\sim` :math:`1.2\text{m}` long); 2 :math:`\times` :math:`100\text{g}` masses (flat
 bottom to strap to bar); 2 elastic bands; metre rule; stopclock; 2
 clamps & stands; 2 G-clamps; piece of chalk; 1 sheet graph paper;
 (optional: spirit level).
@@ -34,14 +34,14 @@ follows:
 (d) Measure distance :math:`x = 5`\ cm from each side of :math:`G` to
     the variable positions :math:`P` and :math:`Q` as shown above.
 
-(e) Place the 100g masses at positions :math:`P` and :math:`Q`
+(e) Place the :math:`100\text{g}` masses at positions :math:`P` and :math:`Q`
     simultaneously. Set the wooden bar oscillating about a vertical axis
     through :math:`G`. Record the time :math:`t` for 10 complete
     oscillations and calculate the correspondinb periodic time
     :math:`T`. (2 marks)
 
-(f) Move the 100g masses along the wooden bar at increasing distance
-    :math:`x` in intervals of 5cm from each side of :math:`G`. At each
+(f) Move the :math:`100\text{g}` masses along the wooden bar at increasing distance
+    :math:`x` in intervals of :math:`5\text{cm}` from each side of :math:`G`. At each
     stage, measure the time :math:`t` for 10 complete oscillations and
     determine the corresponding periodic time :math:`T`. Tabulate your
     results. (10 marks)
@@ -55,7 +55,7 @@ follows:
        T^2 = \frac{16 \pi ^2 I L}{(M + m) g d^2} + \frac{16 \pi ^2 m L x^2}{(M + m) g d^2}
 
     Use your graph to determine :math:`I` and :math:`M`; where :math:`L` and
-    :math:`d` are expressed in SI units. :math:`g=9.81` ms\ :math:`^{-2}`.
+    :math:`d` are expressed in SI units. :math:`g=9.81` ms\ :math:`^{-2}`,
     :math:`m=0.2`\ kg. What does :math:`M` represent? (marks: use of graph
     5, :math:`I \text{ and } M` 10, :math:`M` represents? 2)
 

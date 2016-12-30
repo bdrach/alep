@@ -7,10 +7,10 @@ C1-1: Finding the Surface Tension of Water
 Apparatus
 ---------
 
-Beam balance with two boxes of masses; tweezers; 2 X 50g masses with
-hooks; microscope slide with copper wire to support it; wide 1 L beaker;
-1 L beaker of clean water; Vernier calipers;
-magnifying glass; thermometer (:math:`0-100^0`\ C)
+Beam balance with two boxes of masses; tweezers; 2 :math:`\times\ 50\text{g}` masses with
+hooks; microscope slide with copper wire to support it; wide :math:`1\text{L}`
+beaker; :math:`1\text{L}` beaker of clean water; Vernier calipers;
+magnifying glass; thermometer (:math:`0-100\text{°C}`)
 
 |C1-1.1| 
 
@@ -24,7 +24,7 @@ Procedure
    the slide by running liquid from the pipette over it into an empty
    beaker: first alkali, then acid, then distilled water.
 
-2. Assemble the apparatus as above using the empty, clean 1L beaker.
+2. Assemble the apparatus as above using the empty, clean :math:`1\text{L}` beaker.
 
 3. Raise the beam, using knob K, and carefully add masses m using the
    tweezers, until it is perfectly balanced. Note the total mass
@@ -51,22 +51,22 @@ Procedure
 Observations
 ------------
 
-| initial mass, :math:`m_1` : \_\_\_\_ g
+| initial mass, :math:`m_1` : ________ g
 |
-| 3 readings of :math:`m_2` :  \_\_\_\_ g,  \_\_\_\_ g,  \_\_\_\_ g
+| 3 readings of :math:`m_2` :  ________ g,  ________ g,  ________ g
 |
-| average :math:`m_2` :  \_\_\_\_ g
+|   average :math:`m_2` :  ________ g
 |
 
 **Slide**
 
-| *length* (:math:`l`): \_\_\_\_ m 
+| *length* (:math:`l`): ________ m 
 |
-| *thickness* (:math:`d`): \_\_\_\_ m 
+| *thickness* (:math:`d`): ________ m 
 
 **Water**
 
-|  *temperature*: \_\_\_\_ °C
+|  *temperature*: ________ °C
 
 Theory
 ------
@@ -79,17 +79,23 @@ the slide. Therefore:
 
 In the experiment, the surface tension force is in equilibruim with the mass added to the beam balance, hence: 
 
-:math:`\text{Surface tension force}=\text{the upward force exerted by the beam on the slide}`. 
+.. math::
+   \big(\text{Surface tension force}\big)=\big(\text{the upward force exerted by the beam on the slide}\big) 
 
 This is true at the point just before the slide leaves the water.
 
-Force exerted by the beam :math:`= (m_2 - m_1)g` 
+.. math::
+   \big(\text{Force exerted by the beam}\big) = (m_2 - m_1)g 
 
-Where: :math:`g=9.8` NKg :math:`^{-1}`  
+where :math:`g=9.8\text{NKg}^{-1}`  
 
-The slide perimeter :math:`= 2l + 2d`
+.. math::
+   \big(\text{The slide perimeter}\big) = 2l + 2d
 
-Thus: :math:`(m_2 - m_1)g = \gamma (2l + 2d)`
+Thus: 
+
+.. math::
+   (m_2 - m_1)g = \gamma (2l + 2d)
 
 :math:`\gamma` (Greek: gamma) is a constant called the surface tension
 of water. 
@@ -118,8 +124,8 @@ Analysis
    b) The downward force on the slide?
 
 6. Use your value of :math:`\gamma` to calculate the capillary rise up a
-   glass tube of internal diameter 0.2mm, if the angle of contact of the
-   water on the glass is assumed to be 0°.
+   glass tube of internal diameter :math:`0.2\text{mm}`, if the angle of contact of the
+   water on the glass is assumed to be :math:`0\text{°}`.
 
 .. |C1-1.1| image:: /images/17.png
 .. |C1-1.2| image:: /images/18.png

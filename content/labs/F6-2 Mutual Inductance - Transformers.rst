@@ -25,7 +25,7 @@ Procedure
    |F6-2.1| 
 
 a) Using :math:`N_p` = 150 turns, :math:`N_s` = 10 turns. Measure and
-   set :math:`V_{in} = V_p = 4`\ V peak. Measure :math:`V_s` peak.
+   set :math:`V_{in} = V_p = 4 \text{V}` peak. Measure :math:`V_s` peak.
    Calculate :math:`\frac{V_p}{V_s}` and :math:`\frac{N_p}{N_s}` and
    compare their values.  
 
@@ -34,13 +34,13 @@ b) Repeat a) with the following numbers of turns:  
    |F6-2.2| 
 
 c) Keeping :math:`N_p = 150` turns and :math:`N_s = 300` turns, reduce
-   :math:`V_{in} = V_p` to 2V peak. Measure :math:`V_s` peak, and
+   :math:`V_{in} = V_p` to :math:`2\text{V}` peak. Measure :math:`V_s` peak, and
    calculate and compare :math:`\frac{V_p}{V_s}` and
    :math:`\frac{N_p}{N_s}`.  
 
 d) Remove the clip from the iron cores, and remove one C-core. Place two coils, 
    one on each arm of a single C-core. Again use :math:`N_p = 150` turns and 
-   :math:`N_s = 300` turns. Set :math:`V_{in} = V_p = 4`\ V peak. 
+   :math:`N_s = 300` turns. Set :math:`V_{in} = V_p = 4\text{V}` peak. 
    Measure :math:`V_s`.
 
 2. Construct the following with :math:`N_p = 300` turns,
@@ -56,7 +56,7 @@ b) Measure :math:`V_R` peak, and thus calculate :math:`I_p` peak, the
 
 c) Measure :math:`V_T` peak, across the 10 turn test coil.  
 
-d) Connect a 5\ :math:`\Omega` resistor between **A** and **B**, across
+d) Connect a :math:`5\Omega` resistor between **A** and **B**, across
    the 150 turn secondary coil. Connect the CRO to measure :math:`V_p`
    and adjust :math:`V_{in}` so that :math:`V_p = 4`\ V peak.  
 
@@ -122,7 +122,7 @@ Analysis
    primary coil)?
 
 4. Give an explanation in terms of power flow for the change in
-   :math:`I_p` produced as a result of connecting the 5\ :math:`\Omega`
+   :math:`I_p` produced as a result of connecting the :math:`5\Omega`
    resistor to the secondary coil.
 
 5. 

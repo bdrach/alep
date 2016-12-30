@@ -32,7 +32,7 @@ Procedure
 
    h) What are the main types of experimental error? 
 
-   i) a = :math:`5 \pm 0.005m` and :math:`b = 3.5 \pm 0.01m`. What is the error
+   i) a = :math:`5 \pm 0.005\text{m}` and :math:`b = 3.5 \pm 0.01\text{m}`. What is the error
       in :math:`a+b` in metres and in %? What is the % error in :math:`ab`?
    
    j) Define the metre, the kilogram, the second, the newton, and the
@@ -48,19 +48,19 @@ Procedure
       ii)   :math:`5.322^4`
       iii)  :math:`\sqrt[3]{6.03}`
       iv)   :math:`\log{(0.002)}`   
-      v)    :math:`\sin{(26° 36')}`
+      v)    :math:`\sin{(26°\ 36')}`
       vi)   :math:`\cos^{-1}(0.391)`
       vii)  :math:`\tan (53.552°)`
       viii) :math:`\tan{(216°)}`
       ix)   :math:`\cos{(126°)}`
    
    c) i)  Convert to radians: :math:`\quad 90° \qquad 72° \qquad 200°`
-      ii) Convert to degrees: :math:`\quad 1.12 rad  \qquad 3 \pi rad \qquad 3\pi/2 rad`
+      ii) Convert to degrees: :math:`\quad 1.12\text{rad}  \qquad 3 \pi\text{rad} \qquad 3\pi/2\text{rad}`
    
-   d) i)   :math:`\ln{7.9}`
+   d) i)   :math:`\ln{(7.9)}`
       ii)  :math:`e^{1.5}`
-      iii) :math:`\ln{0.14}`
-      iv)  :math:`\ln{40}`
+      iii) :math:`\ln{(0.14)}`
+      iv)  :math:`\ln{(40)}`
       v)   :math:`e^{15}` 
       vi)  :math:`e^{0.02}`
    
@@ -81,7 +81,7 @@ Procedure
       is:
 
       .. math::
-         r=R \times \frac{E-V}{V}
+         r=R \left(\frac{E-V}{V}\right)
 
       Readings of R and V are obtained, and :math:`1/R` is plotted
       against :math:`1/V`. Explain how the gradient and y-intercept can

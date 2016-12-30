@@ -7,9 +7,9 @@ F5-2: Measurement of the Horizontal Component of Earth's Magnetic Field
 Apparatus
 ---------
 
-1.5V Cell; 15\ :math:`\Omega` rheostat (approximate); galvanometer with
-shunt for O.3-O-O.3 A; mounted coil; magnetic compass; 5 wires (3 long,
-2 short); 0.5m ruler.
+:math:`1.5\text{V}` Cell; :math:`15\Omega` rheostat (approximate); galvanometer with
+shunt for :math:`O.3-O-O.3\text{A}`; mounted coil; magnetic compass; 5 wires (3 long,
+2 short); :math:`0.5\text{m}` ruler.
 
 |F5-2.1| 
 
@@ -25,7 +25,7 @@ Procedure
    (magnetic).
 
 3. Connect the battery and adjust the rheostat until the compass needle
-   points NW or NE (at exactly 45° to North). Read the ammeter.
+   points NW or NE (at exactly :math:`45\text{°}` to North). Read the ammeter.
 
 4. Reverse the battery, and repeat step 3. Average the two readings of
    current.

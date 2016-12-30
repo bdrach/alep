@@ -9,7 +9,7 @@ Apparatus
 
 |B5-1.1| 
 
-Long uniform stick with holes at regular intervals; stiff 25cm long
+Long uniform stick with holes at regular intervals; stiff :math:`25\text{cm}` long
 wire; 2 razor edges mounted on blocks; 4 lab stools; stopwatch; graph
 paper; triple beam balance
 
@@ -19,7 +19,7 @@ Procedure
 1. Suspend the stick as shown starting with the wire in the hole nearest
    the end of the stick. Record the time required for 20 oscillations of
    small amplitude.  Find the periodic time, :math:`T`, where 
-   :math:`T = \frac{\text{time for 20 oscillations}}{20}`.  Record the 
+   :math:`T = \frac{(\text{time for 20 oscillations})}{20}`.  Record the 
    distance, :math:`d`, from each hole to the end of the stick you started 
    near.  Repeat for every hole from one end of the stick to the other. 
 
@@ -39,13 +39,13 @@ Procedure
 Observations
 ------------
 
-:math:`M=\text{mass of the stick}=` \_\_\_\_ kg 
+:math:`M=\big(\text{mass of the stick}\big)=` ________ kg 
 
 Tabulate:
 
 |B5-1.2| 
 
-Average value of :math:`\frac{L}{T^2}=` \_\_\_\_ :math:`\text{ms}{^-}{^2}`
+Average value of :math:`\frac{L}{T^2}=` ________ :math:`\text{ms}{^-}{^2}`
 
 Theory
 ------
@@ -57,10 +57,12 @@ stick executing simple harmonic motion is:
    \text{Torque} = I\alpha = -Mgh\theta \quad \text{or} \quad \alpha = - \frac{Mgh}{I}\theta 
    
 
-where :math:`M = \text{mass of the stick}`, :math:`h = \text{distance from the axis
-of rotation to the center of mass}`, :math:`\theta = \text{angular displacement
-in radians}`, :math:`I =` the moment of inertia of the stick about the
-axis of rotation, and :math:`\alpha = \text{angular acceleration} = \frac{d^2\theta}{dt^2}`.  
+.. math::
+   M &= \text{mass of the stick}\\
+   h &= \text{distance from the axis of rotation to the center of mass}\\
+   \theta &= \text{angular displacement in radians}\\
+   I &= \text{the moment of inertia of the stick about the axis of rotation}\\
+   \alpha &= \text{angular acceleration} = \frac{d^2\theta}{dt^2}\\
 
 From the theory of simple harmonic motion the angular frequency,
 :math:`\omega`, is:

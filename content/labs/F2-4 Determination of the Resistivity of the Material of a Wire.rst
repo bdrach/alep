@@ -8,8 +8,8 @@ Apparatus
 ---------
 
 Metre bridge board; resistance wire board (:math:`R_x` - may include
-wires of several materials); galvanometer with 100\ :math:`\Omega`
-protection resistor; resistor :math:`R_y` of 10\ :math:`\Omega`; 1.5V
+wires of several materials); galvanometer with :math:`100\Omega`
+protection resistor; resistor :math:`R_y` of 10\ :math:`\Omega`; :math:`1.5\text{V}`
 cell; switch; micrometer screw gauge; jockey (J); connecting leads (3
 long, 5 short).    
   
@@ -20,7 +20,7 @@ Procedure
 
 1. Set up the apparatus as above.
 
-2. Close **S**, and place **J** at the 50cm mark. Move **J** until the
+2. Close **S**, and place **J** at the :math:`50\text{cm}` mark. Move **J** until the
    galvanometer reads zero. Record the length :math:`\overline{AJ}`.
    Open **S**.
 
@@ -34,27 +34,26 @@ Observations
 ------------
 
 | **For each wire**  
-| Wire :description: \_\_\_\_\_  
-| :math:`\overline{AJ}=` \_\_\_\_\_ cm; 
-| :math:`\overline{JB}=`\_\_\_\_\_ cm; 
-| :math:`R_y =` \_\_\_\_\_ :math:`\Omega`;  
-| Length :math:`L` of wire **R**\ = \_\_\_\_\_ m  
+| Wire description: ________  
+| :math:`\overline{AJ}=` ________ cm; 
+| :math:`\overline{JB}=` ________ cm; 
+| :math:`R_y =` ________ :math:`\Omega`;  
+| Length :math:`L` of wire **R**\ = ________ m  
 | Diameter of wire **R**: 
-| :math:`d_1=` \_\_\_\_\_ mm; 
-| :math:`d_2=`\_\_\_\_\_ mm; 
-| :math:`d_3=` \_\_\_\_\_ mm; 
-| :math:`d_4=` \_\_\_\_\_ mm;
-| :math:`d_5=` \_\_\_\_\_ mm;
-| Average value of :math:`d =` \_\_\_\_\_ mm.
+| :math:`d_1=` ________ mm; 
+| :math:`d_2=` ________ mm; 
+| :math:`d_3=` ________ mm; 
+| :math:`d_4=` ________ mm;
+| :math:`d_5=` ________ mm;
+| Average value of :math:`d =` ________ mm.
 
 Theory
 ------
 
-This circuit is a Wheatstone Bridge.  Thus: :math:`\frac{\overline{AJ}}{\overline{JB}} = \frac{R_y}{R_x}`, or: :math:`R_x = R_y \frac{\overline{AJ}}{\overline{JB}}`. 
+This circuit is a Wheatstone Bridge. Thus :math:`\frac{\overline{AJ}}{\overline{JB}} = \frac{R_y}{R_x}` and :math:`R_x` can be found.
  
 Now :math:`\rho` is the resistivity of the material of the wire, and 
-:math:`\rho = \frac{R A}{L}`.  Where here :math:`R = R_x`, :math:`A =` 
-cross-sectional area of wire **R**, and :math:`L =` length of :math:`R_x`.
+:math:`\rho = \frac{R A}{L}`.  Where here :math:`R = R_x\ ` , :math:`A = \big( \text{cross-sectional area of wire } R_x\big)`, and :math:`L = \big(\text{length of } R_x\big)`.
 
 Analysis
 --------

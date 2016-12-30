@@ -7,15 +7,12 @@ F1-2: Charging Capacitors
 Apparatus
 ---------
 
-Capacitors (2 X 1000 :math:`\mu`\ F, electrolytic); voltmeter (high
-resistance, 0-5Vdc eg multimeter); ammeter (0.5mA fsd); resistor
-(10k :math:`\Omega`); 4.5V battery; 2 switches; stopclock; 9 connecting
+Capacitors (2 :math:`\times 1000\mu\text{F}`, electrolytic); voltmeter (high
+resistance, :math:`0-5\text{Vdc}` eg multimeter); ammeter (:math:`0.5\text{mA}` fsd); resistor
+(:math:`10\text{k}\Omega`); :math:`4.5\text{V}` battery; 2 switches; stopclock; 9 connecting
 leads; 2 blocks with crocodile clips; 2 sheets of graph paper.
 
-IMPORTANT:
-----------
-
-The battery must not be connected until your circuit has been checked by
+**IMPORTANT:** The battery must not be connected until your circuit has been checked by
 a teacher (an error could seriously damage the ammeter).
 
 |F1-2.1| 
@@ -30,15 +27,15 @@ Procedure
    and :math:`I` change as the capacitor charges. Open :math:`SW1`, then
    close :math:`SW2` briefly to discharge the capacitor again.
 
-3. Close :math:`SW1` and start the stopclock at the same moment. Note
-   readings of :math:`V` at :math:`t =` 0, 10, 20, ... up to 100s. Open
-   :math:`SW1`, then discharge the capacitor by closing :math:`SW2`
+3. Close :math:`SW1` and start the stopclock at the same moment. Note readings
+   of :math:`V` at :math:`t = 0, 10, 20, ...` up to :math:`100\text{s}` .
+   Open :math:`SW1`, then discharge the capacitor by closing :math:`SW2`
    briefly.
 
 4. Close both :math:`SW1` & :math:`SW2`, and note the value of :math:`I`
-   at :math:`t =` 0. Open :math:`SW2` (to allow charging to start),
+   at :math:`t = 0`. Open :math:`SW2` (to allow charging to start),
    starting the stopclock at the same moment. Note readings of :math:`I`
-   at time :math:`t =` 10, 20, 30, ... up to 100s.
+   at time :math:`t = 10, 20, 30 ...` up to :math:`100\text{s}`.
 
 5. Tabulate your readings of :math:`V`, :math:`I`, and :math:`t`.
 
@@ -74,7 +71,7 @@ Analysis
 5.  Calculate the capacitance using:
 
     .. math::
-       C = \frac{Q}{V} \quad = \quad \frac{\text{Total charge stored}}{V_{MAX}}
+       C = \frac{Q}{V} \quad = \quad \frac{\big(\text{Total charge stored}\big)}{V_{MAX}}
 
 6.  Repeat analysis steps 3, 4, and 5 for the capacitors in series and in parallel.
 

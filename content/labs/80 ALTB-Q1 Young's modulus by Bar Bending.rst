@@ -9,9 +9,9 @@ Time: :math:`1 \frac{1}{2}` hr.
 Apparatus
 ---------
 
-Wooden bar (thin metre rule is suitable); supporting blocks; 0.5m rule
+Wooden bar (thin metre rule is suitable); supporting blocks; :math:`0.5\text{m}` rule
 held by clamp & stand; needle & plasticene; scale pan with loop; 3
-:math:`\times` 100g and 1 :math:`\times` 50g masses; 1 sheet graph
+:math:`\times` :math:`100\text{g}` and 1 :math:`\times` :math:`50\text{g}` masses; 1 sheet graph
 paper.
 
 |80ALTB-1.1| 
@@ -20,7 +20,7 @@ The aim of this experiment is to determine the Young's modulus of the
 material of the bar. Proceed as follows:
 
 (a) Place the wooden bar symmetrically on the supports **A** and **B**.
-    Keep the distance :math:`L` between the blocks about 90cm. Record
+    Keep the distance :math:`L` between the blocks about :math:`90\text{cm}`. Record
     the distance :math:`L`, and this should not be changed during the
     experiment; also ensure that the protruding lengths of the bar are
     equal. The vertical metre rule should be placed in line with the
@@ -28,7 +28,7 @@ material of the bar. Proceed as follows:
     center. Record the pointer reading on the vertical metre rule when
     the bar is unloaded, and call this reading :math:`X_0`. (2 marks)
 
-    With mass :math:`m`, say 50g, on the scale pan, record the resulting
+    With mass :math:`m`, say :math:`50\text{g}`  on the scale pan, record the resulting
     pointer reading :math:`X` on the vertical metre rule, and hence 
     determine the sag, :math:`s = X - X_0`. Repeat this procedure for 5 
     other readings of :math:`m` (see diagram). (10 marks)
@@ -36,7 +36,7 @@ material of the bar. Proceed as follows:
 (b) Measure the breadth :math:`b` and thickness :math:`d` of the bar. (8
     marks)
 
-(0) Plot a graph of :math:`m` vs. :math:`s`. (10 marks)
+(c) Plot a graph of :math:`m` vs. :math:`s`. (10 marks)
 
 (d) Calculate the Young's modulus, :math:`E`, of the bar given that:
 

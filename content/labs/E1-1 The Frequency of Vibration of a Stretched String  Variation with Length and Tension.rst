@@ -7,8 +7,8 @@ E1-1: The Frequency of Vibration of a Stretched String: Variation with Length an
 Apparatus
 ---------
 
-Sonometer with two bridges; set of tuning forks (frequencies 256 to 512
-Hz); 5m sample of sonometer wire; tuning fork hammer; sounding box; beam
+Sonometer with two bridges; set of tuning forks (frequencies :math:`256` to
+:math:`512\text{Hz}`); :math:`5\text{m}` sample of sonometer wire; tuning fork hammer; sounding box; beam
 balance with masses; 2 sheets graph paper
 
 |E1-1.1|
@@ -22,10 +22,10 @@ Experiment 1: Procedure
 To study how frequency varies with length and thus calculate the mass
 per unit length of the sonometer wire.
 
-1. Set the tension to 20 N; throughout this experiment ensure that this
+1. Set the tension to :math:`20\text{N}`; throughout this experiment ensure that this
    remains constant. Record this value of tension.
 
-2. Strike the 256 Hz tuning fork with the hammer, and press the tip hard
+2. Strike the :math:`256\text{Hz}` tuning fork with the hammer, and press the tip hard
    against the sounding box (do not touch the arms of the fork). Listen
    carefully to the note produced.
 
@@ -35,7 +35,8 @@ per unit length of the sonometer wire.
 
 4. Record the frequency and the length :math:`AB`.
 
-5. Repeat steps 2, 3 and 4, using all the other forks in turn, up to 512Hz.
+5. Repeat steps 2, 3 and 4, using all the other forks in turn, up to
+   :math:`512\text{Hz}`.
 
 Experiment 1: Theory
 ---------------------
@@ -71,11 +72,10 @@ Experiment 2: Procedure
 To study how frequency varies with tension, and thus calculate the mass per 
 unit length of the wire.  
 
-1. Place bridge :math:`B` so that length :math:`AB` is 20cm. Record this
+1. Place bridge :math:`B` so that length :math:`AB` is :math:`20\text{cm}`. Record this
    length.
 
-2. Adjust the tension so that the string frequency is 256Hz (use the
-   tuning fork as described in experiment 1 procedure step 2.).
+2. Adjust the tension so that the string frequency is :math:`256\text{Hz}` (use the tuning fork as described in experiment 1 procedure step 2.).
 
 3. Record the values of tension and frequency.
 
@@ -106,7 +106,7 @@ Experiment 2: Analysis
 Conclusion
 ----------
 
-Use the beam balance to measure the mass of the 5m length of sonometer
+Use the beam balance to measure the mass of the :math:`5\text{m}` length of sonometer
 wire supplied. From this value calculate the mass per unit length of the
 wire. Assuming that this value is very accurate, calculate the % error
 in the values obtained from experiments 1 and 2.

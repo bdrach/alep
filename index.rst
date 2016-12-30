@@ -10,7 +10,7 @@
 Welcome to ALEP
 ===============
 
-This website is based off of *Advanced Level Experimental Physics*, a textbook
+This website is based off of **Advanced Level Experimental Physics**, a textbook
 written by Bob Drach and Norman Price during their time teaching together at the
 Ruvuma Boys' Secondary School in Songea, Tanzania.   
 

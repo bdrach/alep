@@ -7,13 +7,13 @@ F2-1: Determination of the Internal Resistance of a Cell Using a Potentiometer
 Apparatus
 ---------
 
-Leclanché Cell (filled to bottom of paint line with
-saturated Ammonium Chloride solution); metre bridge board; 3V battery
-(fresh cells); jockey; switch; galvanometer with 100\ :math:`\Omega`
-series resistor; rheostat (:math:`\sim` 15\ :math:`\Omega` resistance);
-resistors values: 5\ :math:`\Omega`, 10\ :math:`\Omega`, and
-20\ :math:`\Omega`; block with crocodile clips (for resistor);
-connecting leads (3 long, 7 short); 1 sheet graph paper.
+Leclanché Cell (filled to bottom of paint line with saturated Ammonium
+Chloride solution); metre bridge board; :math:`3\text{V}` battery (fresh
+cells); jockey; switch; galvanometer with :math:`100\Omega` series
+resistor; rheostat (:math:`\sim 15 \Omega` resistance); resistors values:
+:math:`5\Omega`, :math:`10\Omega`, and :math:`20\Omega`; block with
+crocodile clips (for resistor); connecting leads (3 long, 7 short); 1 sheet
+graph paper.
 
 |F2-1.1| 
 
@@ -21,17 +21,17 @@ Procedure
 ---------
 
 1. Construct the above circuit, with :math:`R =\infty\Omega`. Close the
-   switch **S**. After placing **J** 5cm from **B**, adjust the rheostat
+   switch **S**. After placing **J** :math:`5\text{cm}` from **B**, adjust the rheostat
    until the galvanometer reads zero (balance point). Note the length
    :math:`l_{\infty} = \overline{AJ}`. Open **S**.
 
 2. Connect :math:`R = 30\Omega`, Close **S**, and find the balance
-   point. Read :math:`l = \overline{AJ}`. Repeat with :math:`R =` 25,
-   20, 15, 10, and 5\ :math:`\Omega`. Tabulate :math:`R` and :math:`l`.
+   point. Read :math:`l = \overline{AJ}`. Repeat with :math:`R = 25,
+   20, 15, 10, \text{and } 5\Omega`. Tabulate :math:`R` and :math:`l`.
    Open **S**.
 
-NOTE: After the experiment, empty the Ammonium Sulphate solution out of
-the Cell again, to ensure a maximum lifetime for the solution.
+*NOTE: After the experiment, empty the Ammonium Sulphate solution out of
+the cell again, to ensure a maximum lifetime for the solution.*
 
 Theory
 ------
@@ -65,7 +65,7 @@ Therefore:
 And therefore:
 
 .. math::
-   \frac{1}{R} = \frac{l_{\infty}}{r} \times \frac{1}{l} - \frac{1}{r}
+   \frac{1}{R} = \frac{l_{\infty}}{r} \left(\frac{1}{l} - \frac{1}{r}\right)
 
 Analysis
 --------
@@ -85,8 +85,8 @@ Questions
    a) In the theory why can we say that the lower branch is 'effectively 
       disconnected' from the top branch of the circuit? 
 
-   b) If the resistance of wire **AB** is 2\ :math:`\Omega` and its length
-      is 100cm, find an expression for :math:`k` in terms of :math:`V_{AB}`
+   b) If the resistance of wire **AB** is :math:`2\Omega` and its length
+      is :math:`100\text{cm}`, find an expression for :math:`k` in terms of :math:`V_{AB}`
       only.
 
 2. Compare the Leclancé Cell and the modern Dry Cell.  List

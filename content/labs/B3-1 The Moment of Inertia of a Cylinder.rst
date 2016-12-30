@@ -16,7 +16,7 @@ triple beam balance; graph paper
 Procedure
 ---------
 
-1. Set up the apparatus as shown above with :math:`PR` less than 4 cm. Measure
+1. Set up the apparatus as shown above with :math:`PR` less than :math:`4\text{cm}`. Measure
    :math:`s=AB` and measure :math:`PQ`. Record :math:`s` and :math:`PQ`.
 
 2. Measure and record :math:`PR`. Calculate
@@ -43,11 +43,11 @@ Observations
 
 For each cylinder:
 
-:math:`M` =________kg 
+:math:`M` = ________kg 
 
-:math:`r_a` =________m 
+:math:`r_a` = ________m 
 
-:math:`r` =________m 
+:math:`r` = ________m 
       
 Tabulate:
 
@@ -61,13 +61,13 @@ energy (:math:`KE`) as it moves from A to B. Conservation of energy
 requires:
 
 .. math::
-  \text{PE lost} &= \text{KE gained} \\ 
+  \big(\text{PE lost}\big) &= \big(\text{KE gained}\big) \\ 
    Mgh &= Mgs\ (\sin\theta) \\ 
 
 Ignoring friction this becomes the :math:`KE` of the cylinder where the total :math:`KE` is: 
 
 .. math::
-   KE = \text{KE (linear) }+\text{ KE (rotational)} \\ 
+   KE = \big(\text{linear KE }\big)+\big(\text{rotational KE}\big) 
 
 Therefore:
 
@@ -77,7 +77,7 @@ Therefore:
 Substitute :math:`v^2 = 2as` and :math:`\omega = \frac{v}{r_a}` :
 
 .. math::
-   a = \left(\frac{Mgr_a^2}{Mr_a^2 + I}\right) (\sin\theta) \tag{check this yourself!} 
+   a = \left(\frac{Mgr_a^2}{Mr_a^2 + I}\right) \sin\theta \tag{check this yourself!} 
 
 Analysis
 --------
@@ -86,7 +86,7 @@ Analysis
    cylinder on the same sheet of graph paper. Find the gradient of each
    line.
 
-2. Given that :math:`a=(\frac{Mgr_a^2}{Mr_a^2 + I})\sin\theta` find
+2. Given that :math:`a=(\frac{Mgr_a^2}{Mr_a^2 + I})\sin\theta`, find
    :math:`I` for each cylinder.
 
 3. From theory :math:`I = \frac{1}{2}Mr^2` where
@@ -98,7 +98,8 @@ Analysis
    cylinder.
 
 5. Calculate the torque necessary to steadily accelerate each cylinder
-   from rest to an angular velocity of 30 radians/s in 2s.
+   from rest to an angular velocity of :math:`30\text{rad/s}` in
+   :math:`2\text{s}`.
 
 .. |B3-1.1| image:: /images/9.png
 .. |B3-1.2| image:: /images/10.png

@@ -9,7 +9,7 @@ Time 1\ :math:`\frac{1}{2}` hr.
 Apparatus
 ---------
 
-Thermometer (0-100°C); calorimeter (very small capacity), with lid &
+Thermometer (:math:`0-100\text{°C}`); calorimeter (very small capacity), with lid &
 stirrer; cardboard base; stopclock; supply of boiling water; 2 sheets
 graph paper; clamp & stand.
 
@@ -21,10 +21,10 @@ Procedure
 
 Pour the boiling water into the calorimeter until it is about
 three-quarters full, and then set up the calorimeter as illustrated
-below. Carefully observe and record the temperature :math:`\theta`\ °C
+below. Carefully observe and record the temperature :math:`\theta\text{°C}`
 of the water inside the calorimeter after every two minutes. Continue
 the process while stirring the calorimeter until the temperature of the
-water drops to about 50°C.
+water drops to about :math:`50\text{°C}`.
 
 |86-Q2.1| 
 

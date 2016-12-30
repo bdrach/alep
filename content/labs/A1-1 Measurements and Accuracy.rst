@@ -8,7 +8,7 @@ Apparatus
 ---------
 
 Microscope slide; vernier calipers; magnifying glass; micrometer; beam
-balance with masses; Archimedes' bridge; beaker of water (250ml); metre
+balance with masses; Archimedes' bridge; beaker of water (:math:`250\text{ml}`); metre
 ruler.
 
 Procedure
@@ -16,7 +16,7 @@ Procedure
 
 For each of the following, record the observations together with the
 possible error (i.e.: ½ the smallest scale division), e.g.:
-:math:`46 \pm 0.5` mm. Calculate the mean value of repeated readings
+:math:`46 \pm 0.5\text{mm}`. Calculate the mean value of repeated readings
 together with the error. Calculate the % error.
 
 1. Measure the slide thickness in a number of places using the metre
@@ -36,7 +36,7 @@ Then:
 
 .. math::
    \text{upthrust} &= \text{weight of liquid displaced}   \\
-   mg - m_a g &= \rho_w g \ [\text{slide volume}]
+   mg - m_a g &= \rho_w g \ \big(\text{slide volume}\big)
 
 where:
 

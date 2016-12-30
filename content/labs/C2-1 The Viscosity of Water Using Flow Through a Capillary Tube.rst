@@ -7,14 +7,14 @@ C2-1: The Viscosity of Water Using Flow Through a Capillary Tube
 Apparatus
 ---------
 
-Funnel with connecting tube to capillary tube (internal diameter approx. 1mm,
-length approx. 30cm); stopclock; 0.5m ruler; 25ml & 50ml measuring
+Funnel with connecting tube to capillary tube (internal diameter approx. :math:`1\text{mm}`,
+length approx. :math:`30\text{cm}`; stopclock; :math:`0.5\text{m}` ruler; :math:`25\text{ml}` & :math:`50\text{ml}` measuring
 cylinders; thermometer; :math:`\frac{1}{2}`\ L water in beaker; bowl;
 spirit level; 1 sheet of graph paper; stand & 2 clamps.  
 
 |C2-1.1| 
 
-To measure the tube diameter: use an additional 20cm of the same
+To measure the tube diameter: use an additional :math:`20\text{cm}` of the same
 capillary tubing; beam balance & masses. 
 
 Procedure
@@ -23,8 +23,7 @@ Procedure
 1. Set up the apparatus as above. Throughout the experiment, keep the
    funnel topped up to the level of the mark. Check that the capillary
    tube is horizontal (use the spirit level), and that drops fall from
-   the tip (if necessary, lower the tip a little). Set :math:`h` to 5
-   cm. Measure :math:`L`.
+   the tip (if necessary, lower the tip a little). Set :math:`h` to :math:`5\text{cm}`. Measure :math:`L`.
 
 2. Collect water drops for :math:`t = 120`\ s, measuring the volume
    :math:`V` collected. Repeat with :math:`h = 7`\ cm, :math:`9`\ cm,
@@ -44,13 +43,13 @@ Procedure
    c) Then:
  
       .. math::
-          \text{mass of water} &= \text{volume } \times \text{ density of water} \\   
+          \text{mass of water} &= \big(\text{volume}\big) \big(\text{density of water}\big) \\   
           &= (m_1 - m_2)  
  
       Thus:
  
       .. math::
-          (m_1 - m_2) = \pi r^2 l \times \text{density of water} 
+          (m_1 - m_2) = \pi r^2 l \big(\text{density of water} \big)
  
       Solve this to find the radius of the capillary tube.
 
@@ -84,7 +83,7 @@ The constant of proportionality depends on the radius and length of the
 tube, and the viscosity of the liquid:
 
 .. math::
-   \text{Flow rate} = \frac{\pi r^4}{8 \eta L} \times \text{pressure difference}
+   \text{Flow rate} = \frac{\pi r^4}{8 \eta L} \big( \text{pressure difference} \big)
 
 In the experiment, the flow rate is :math:`\frac{V}{t}`, and the
 pressure difference is :math:`h \rho g`.

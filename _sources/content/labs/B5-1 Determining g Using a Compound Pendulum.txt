@@ -19,7 +19,7 @@ Procedure
 1. Suspend the stick as shown starting with the wire in the hole nearest
    the end of the stick. Record the time required for 20 oscillations of
    small amplitude.  Find the periodic time, :math:`T`, where 
-   :math:`T = \frac{\text{time for 20 oscillations}}{20}`.  Record the 
+   :math:`T = \frac{(\text{time for 20 oscillations})}{20}`.  Record the 
    distance, :math:`d`, from each hole to the end of the stick you started 
    near.  Repeat for every hole from one end of the stick to the other. 
 

@@ -7,7 +7,7 @@ C1-1: Finding the Surface Tension of Water
 Apparatus
 ---------
 
-Beam balance with two boxes of masses; tweezers; 2 X :math:`50\text{g}` masses with
+Beam balance with two boxes of masses; tweezers; 2 :math:`\times\ 50\text{g}` masses with
 hooks; microscope slide with copper wire to support it; wide :math:`1\text{L}`
 beaker; :math:`1\text{L}` beaker of clean water; Vernier calipers;
 magnifying glass; thermometer (:math:`0-100\text{°C}`)

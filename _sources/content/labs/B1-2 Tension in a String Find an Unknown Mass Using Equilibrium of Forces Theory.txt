@@ -81,7 +81,7 @@ Analysis
 3. Measure the mass of :math:`m_2`: on the beam balance, and assuming this
    is accurate, calculate the % error in the value obtained in 2. above.
 
-4. a) Use the value of :math:`\frac{h}{d}` when :math:`m_1 = :math:`400\text{g}`., to calculate :math:`\theta_1` at this point. Calculate :math:`W = m_2 g`. 
+4. a) Use the value of :math:`\frac{h}{d}` when :math:`m_1 = 400\text{g}`., to calculate :math:`\theta_1` at this point. Calculate :math:`W = m_2 g`. 
    b) :math:`m_1` is suddenly increased to :math:`500\text{g}`.. 
 
       Assuming that at this moment :math:`\theta_1 = \theta_2 = \text{the value from a.}`, find the initial upward acceleration of :math:`m_2`, as it heads towards a new equilibrium position. 

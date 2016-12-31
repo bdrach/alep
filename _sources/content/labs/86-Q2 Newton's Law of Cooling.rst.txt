@@ -1,7 +1,7 @@
 .. meta::
   :description: The aim of this experiment is to investigate the manner in which a calorimeter containing hot water cools down.
 
-86-Q2: Newton's New of Cooling
+86-Q2: Newton's Law of Cooling
 ==============================
 
 Time 1\ :math:`\frac{1}{2}` hr.

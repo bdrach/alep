@@ -37,7 +37,7 @@ Starting with conservation of energy:
 .. math::
     \text{Electrical energy supplied} = \text{Heat gained by water and calorimeter}
 
-The 'cooling correction' to allow for :math:`\text{heat loss} = x\text{°C}.
+The 'cooling correction' to allow for :math:`\text{heat loss} = x\text{°C}`.
 
 Then:
 

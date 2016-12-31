@@ -61,7 +61,7 @@ equilibrium the restoring force is:
 
 .. math::
     
-   F=-\frac{b d^3 E s}{4 L^3}=-ks \text{ where: } k=\frac{b d^3 E}{4 L^3} 
+   F=-\frac{b d^3 E s}{4 L^3}=-ks \quad \text{ where } \quad k=\frac{b d^3 E}{4 L^3} 
    
 
 This force acts on the mass at the end of the rule. Ignoring the mass of

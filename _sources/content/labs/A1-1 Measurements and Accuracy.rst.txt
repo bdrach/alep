@@ -15,7 +15,7 @@ Procedure
 ---------
 
 For each of the following, record the observations together with the
-possible error (i.e.: ½ the smallest scale division), e.g.:
+possible error (i.e. ½ the smallest scale division), e.g.:
 :math:`46 \pm 0.5\text{mm}`. Calculate the mean value of repeated readings
 together with the error. Calculate the % error.
 
@@ -29,7 +29,7 @@ together with the error. Calculate the % error.
    readings correctly.
 
 4. Measure the length :math:`l` and the width :math:`w` using the metre
-   ruler. Find the mass of the slide in air :math:`m`\ , and then its 
+   ruler. Find the mass of the slide in air :math:`m` , and then its 
    apparent mass when suspended in water :math:`m_a`.
 
 Then:

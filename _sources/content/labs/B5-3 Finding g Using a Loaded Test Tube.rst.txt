@@ -25,13 +25,13 @@ Procedure
    vertically and record the new mass of the tube and lead shot. Record
    the initial scale reading of the liquid relative to the tube as
    measured on the scale inside the tube. At this point the total
-   additional load is 0.
+   additional load is :math:`0`.
 
 3. One at a time add the additional loads of :math:`2\text{g}` and :math:`5\text{g}` to the tube.
    After adding each mass record the liquid level on the scale inside
    the tube and record the total additional load.
 
-4. Take out the :math:`2\text{g}` and :math:`5\text{g}` masses. Lift the tube 1.5\text{cm}` above its
+4. Take out the :math:`2\text{g}` and :math:`5\text{g}` masses. Lift the tube :math:`1.5\text{cm}` above its
    equilibrium position then drop it to start it oscillating. Measure
    the time for 5 oscillations. This is easiest if you start the
    stopwatch at the top of the oscillation and count "zero" when you
@@ -71,7 +71,7 @@ acceleration due to gravity. When the loaded test tube of total mass
 From the general equation for simple harmonic motion:
 
 .. math::
-   a = -\omega^2 x  \quad \text{ hence: } \quad \omega^2 = \frac{g}{Mn} 
+   a = -\omega^2 x  \quad \text{ hence, } \quad \omega^2 = \frac{g}{Mn} 
    
 and the period of motion is: 
 

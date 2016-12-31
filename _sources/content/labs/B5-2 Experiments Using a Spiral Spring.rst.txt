@@ -77,7 +77,7 @@ Using calculus, :math:`-\frac{a}{x}` can be expressed in terms of the angular
 frequency :math:`\omega` such that:
 
 .. math::
-   \omega^2 = \frac{g}{Mn} \mbox{ and, } T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{Mn}{g}} 
+   \omega^2 = \frac{g}{Mn} \qquad \text{ and } \qquad T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{Mn}{g}} 
 
 The above assumes that the spring is weightless. In reality the spring
 has an effective mass, :math:`m`, which changes the equation for T:
@@ -93,7 +93,7 @@ From a graph (you will draw) of :math:`T^2` vs. :math:`\text{load}`,
    \frac{T^2}{\text{load}}=\frac{4\pi^2 n}{g}=\big(\text{slope of the second graph} \big)
 
 .. math::
-   g = 4\pi^2 n \frac{1}{\big( \text{slope of the second graph} \big)} 
+   \Rightarrow g = 4\pi^2 n \frac{1}{\big( \text{slope of the second graph} \big)} 
 
 The :math:`x`-intercept of the :math:`T^2` vs. load graph gives the
 effective mass, :math:`m`, of the spring.

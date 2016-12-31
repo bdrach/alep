@@ -18,7 +18,7 @@ is a list of points to look for when marking students’ work:
 
 -  **Readings**: Properly tabulated; units in headings; heading names;
    appropriate accuracy; repeated & averaged where necessary; accurate
-   calculation and labeling of new quantities (e.g. sin x etc.).
+   calculation and labeling of new quantities (e.g. :math:`\sin x` etc.).
 
 -  **Graph**: Title; scales chosen to spread points diagonally right
    across the paper if possible; axes labels (quantity, unit, scale
@@ -35,12 +35,12 @@ is a list of points to look for when marking students’ work:
 -  **Working**: Algebra clearly laid out showing steps logically;
    correct substitution; (arithmetic details need not be shown); answer
    to sensible number of signigicant figures (3 normally suitable); number in
-   scientific notation (:math:`1.3 \times 10^{-6} A`, or
-   :math:`1.3\mu A`, not :math:`0.0000013 A`).
+   scientific notation (:math:`1.3 \times 10^{-6} \text{A}`, or
+   :math:`1.3\mu\text{A}`, not :math:`0.0000013\text{A}`).
 
 Generally if an answer to a question is not of a sensible size, the
 student should be aware of it and comment accordingly (e.g. if unknown
-mass = :math:`3 \times 10^{18} kg`!). The student could then be given
+mass = :math:`3 \times 10^{18}\text{kg}`!). The student could then be given
 full credit for correct working based on inaccurate data.
 
 In the exam practicals, the marks shown for each question are for

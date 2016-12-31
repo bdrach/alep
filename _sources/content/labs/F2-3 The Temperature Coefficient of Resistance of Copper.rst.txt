@@ -42,11 +42,15 @@ Theory
    This is given by:
 
    .. math::
-      
-      R_{\Theta} &= R_0 (1+ \alpha \Theta + \beta \Theta^2) \\ 
-      \\  
-      \text{Where: } R_{\Theta} &= R \text{ at } \Theta \text{°C} \\  
-      R_0 &= R \text{ at } 0 \text{°C} \\ 
+
+      R_{\Theta} = R_0 (1+ \alpha \Theta + \beta \Theta^2)
+
+   where:
+
+   .. math::
+
+      R_{\Theta} &= R \quad \text{ at } \Theta \text{°C} \\  
+      R_0 &= R \quad \text{ at } 0 \text{°C} \\ 
       \alpha \text{ } & \text{and } \beta \text{ are constants}
       
 
@@ -73,7 +77,7 @@ Analysis
 --------
 
 1. For each value of :math:`L`, calculate a value of :math:`R_\Theta`
-   using the above formula (:math:`\ref{eqn2}`).
+   using the above formula :math:`(\ref{eqn2})`.
 
 2. Plot a graph of :math:`R_\Theta` vs. :math:`\Theta`\ °C. Find the
    gradient and the y-intercept. 

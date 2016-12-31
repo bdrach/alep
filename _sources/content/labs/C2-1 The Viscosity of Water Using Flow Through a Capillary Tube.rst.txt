@@ -9,7 +9,7 @@ Apparatus
 
 Funnel with connecting tube to capillary tube (internal diameter approx. :math:`1\text{mm}`,
 length approx. :math:`30\text{cm}`; stopclock; :math:`0.5\text{m}` ruler; :math:`25\text{ml}` & :math:`50\text{ml}` measuring
-cylinders; thermometer; :math:`\frac{1}{2}`\ L water in beaker; bowl;
+cylinders; thermometer; ½L water in beaker; bowl;
 spirit level; 1 sheet of graph paper; stand & 2 clamps.  
 
 |C2-1.1| 
@@ -63,7 +63,7 @@ Procedure
    the viscosity of water :math:`\eta` (unit :math:`\text{Nsm}^-`:math:`^2` ) using:
 
    .. math::
-      \eta &= \frac{ \pi r^4 \rho g}{8 L} \times \frac{h}{\frac{V}{t}} \\ 
+      \eta &= \frac{ \pi r^4 \rho g}{8 L} \left( \frac{h}{\frac{V}{t}} \right)\\ 
 
    Where :math:`\rho = \text{density of water}`
 

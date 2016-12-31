@@ -29,7 +29,7 @@ Decay Model 1
    &\widehat{\text{in the tray}} \qquad \qquad \quad \widehat{\text{discarded}}
 
 1. Count the cubes. This is :math:`N_0`, the number of parent
-   atoms of :math:`{^{12}_{5}B}` at time t=0.
+   atoms of :math:`{^{12}_{5}B}` at time :math:`t=0`.
 
 2. Place all the cubes in a beaker and empty the beaker into a tray.
    Shake the tray until all the cubes lie flat (do not touch any cubes).
@@ -99,8 +99,8 @@ atoms decay again and are discarded.
    THEN: Count and record :math:`N` for trays #1 and #2 at
    :math:`t=10` days.
 
-4. Continue repeating step 3, letting :math:`t =` 15, 20, 25, ... up to
-   200 days. (Each time you perform step 3, :math:`t` advances by 5
+4. Continue repeating step 3, letting :math:`t = 15, 20, 25, ... \text{up to }
+   200` days. (Each time you perform step 3, :math:`t` advances by :math:`5`
    days).
 
 5. Tabulate your readings as follows:
@@ -131,17 +131,17 @@ Questions
    series of decays, ending with a stable atom, as follows:  
 
    .. math::
-      {^{A2}_{Z2}Y} & \longrightarrow \text{?}+ \alpha & T_{\frac{1}{2}}&= 3.92 \text{s}\\    
-      \text{?} & \longrightarrow \text{?}+ \alpha & T_{\frac{1}{2}} &= 1.8 \times 10^{-3} \text{s}\\ 
-      \text{?} & \longrightarrow \text{?}+ \beta^{-} & T_{\frac{1}{2}}&= 36.1 \text{min}\\ 
-      \text{?} & \longrightarrow \text{?}+ \alpha & T_{\frac{1}{2}}&= 2.15 \text{min}\\ 
-      \text{?} & \longrightarrow \text{?}+ \beta^{-} & T_{\frac{1}{2}}&= 4.8 \text{min}
+      {^{A2}_{Z2}Y} & \longrightarrow \text{?}+ \alpha & \quad T_{\frac{1}{2}}&= 3.92 \text{s}\\    
+      \text{?} & \longrightarrow \text{?}+ \alpha & \quad T_{\frac{1}{2}} &= 1.8 \times 10^{-3} \text{s}\\ 
+      \text{?} & \longrightarrow \text{?}+ \beta^{-} & \quad T_{\frac{1}{2}}&= 36.1 \text{min}\\ 
+      \text{?} & \longrightarrow \text{?}+ \alpha & \quad T_{\frac{1}{2}}&= 2.15 \text{min}\\ 
+      \text{?} & \longrightarrow \text{?}+ \beta^{-} & \quad T_{\frac{1}{2}}&= 4.8 \text{min}
 
    Write down the above set of reactions, deducing each of the ?s,
    giving atomic mass, atomic number, and symbol in each case.
 
-2. A sample of :math:`\ {^{227}_{90}Th}`, when left for 30 days, is found
-   to contain a lot of :math:`{^{227}_{90}Th}`, :math:`{^{A1}_{Z1}X}`,
+2. A sample of :math:`\ {^{227}_{90}Th},` when left for 30 days, is found
+   to contain a lot of :math:`{^{227}_{90}Th},` :math:`{^{A1}_{Z1}X},`
    and the final stable isotope.  There is very little of
    :math:`{^{A2}_{Z2}Y}` and the four intermediate isotopes. Why?
 

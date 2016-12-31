@@ -9,8 +9,8 @@ Time 1\ :math:`\frac{1}{2}` hr.
 Apparatus
 ---------
 
-Tall burette (:math:`250\text{ml}` or :math:`500\text{ml}` measuring cylinder; 4 steel ball bearings
-of different diameters (between :math:`0.2 \text{ and } 0.65\text{cm}`; micrometer screw gauge;
+Tall burette :math:`(250\text{ml})` or :math:`500\text{ml}` measuring cylinder; 4 steel ball bearings
+of different diameters (between :math:`0.2 \text{ and } 0.65\text{cm})`; micrometer screw gauge;
 liquid **L**; ruler; stopwatch; strong magnet; forceps; thermometer
 (:math:`0-100\text{°C}`); clamp and stand (if burette is used only); 2 small dishes;
 note giving values of :math:`\rho_1 \text{ and } \rho_2`; graph paper.
@@ -54,8 +54,8 @@ The aim of this experiment is to determine the viscosity of liquid
        
 
     where :math:`\rho_1` is the density of the steel balls,
-    :math:`\rho_2` is the density of liquid **L**, and **g** (=
-    :math:`9.8\text{ms}^{-2}`) is the acceleration due to gravity. (6 marks)
+    :math:`\rho_2` is the density of liquid **L**, and **g** 
+    :math:`(=9.8\text{ms}^{-2}`) is the acceleration due to gravity. (6 marks)
 
 (f) Give the SI units of :math:`\eta` and state any sources of errors in
     your experiment. (marks 2, 5)

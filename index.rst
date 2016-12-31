@@ -14,9 +14,9 @@ This website is based off of **Advanced Level Experimental Physics**, a textbook
 written by Bob Drach and Norman Price during their time teaching together at the
 Ruvuma Boys' Secondary School in Songea, Tanzania.   
 
-The first edition was published in 1987.  With the help of Max Drach,
-we published the current edition as a `Github project
-<https://github.com/bdrach/alep>`_ under a `Creative Commons Attribution License
+The `first edition <_static/alep_original.pdf>`_ was published in 1987.  With the help of Max Drach, we published
+the current edition as a `Github project <https://github.com/bdrach/alep>`_
+under a `Creative Commons Attribution License
 <http://creativecommons.org/licenses/by/4.0/>`_.  Enjoy! 
 
 

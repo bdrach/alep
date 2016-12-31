@@ -145,7 +145,7 @@ html_favicon = 'images/favicon.ico'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ['_static',]
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -163,7 +163,8 @@ html_extra_path = ['content/webfiles']
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {'**' : ['homelink.html', 'localtoc.html', 'relations.html', 'searchbox.html'],
-'**index**' : ['homelink.html', 'localtoc.html', 'searchbox.html'],
+    '**/index' : ['homelink.html', 'localtoc.html', 'searchbox.html'],
+    'index' : ['homelink.html', 'localtoc.html', 'searchbox.html'],
 
 }
 

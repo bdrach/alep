@@ -8,7 +8,7 @@ Apparatus
 ---------
 
 :math:`1.5\text{V}` Cell; :math:`15\Omega` rheostat (approximate); galvanometer with
-shunt for :math:`O.3-O-O.3\text{A}`; mounted coil; magnetic compass; 5 wires (3 long,
+shunt for :math:`0.3\text{-}0\text{-}0.3\text{A}`; mounted coil; magnetic compass; 5 wires (3 long,
 2 short); :math:`0.5\text{m}` ruler.
 
 |F5-2.1| 

@@ -9,7 +9,7 @@ Apparatus
 
 Metre bridge board; resistance wire board (:math:`R_x` - may include
 wires of several materials); galvanometer with :math:`100\Omega`
-protection resistor; resistor :math:`R_y` of 10\ :math:`\Omega`; :math:`1.5\text{V}`
+protection resistor; resistor :math:`R_y` of :math:`10\Omega`; :math:`1.5\text{V}`
 cell; switch; micrometer screw gauge; jockey (J); connecting leads (3
 long, 5 short).    
   

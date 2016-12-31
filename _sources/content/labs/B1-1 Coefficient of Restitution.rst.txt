@@ -1,5 +1,5 @@
 .. meta::
-  :description: Kinetic energy is transferred when one material collides into another.  The efficiency of kinetic energy transfer is a property of the material and can be measured with this experimental technique.  
+  :description: Kinetic energy is transferred when one material collides into another.  The efficiency of kinetic energy transfer is a property of the material and can be measured with this experimental technique.
 
 B1-1: Coefficient of Restitution
 ================================
@@ -57,25 +57,25 @@ It can be shown that a pendulum, length :math:`L`, moving through an
 angle :math:`\theta` has a velocity change of:
 
 .. math::
-   v = \sqrt{2\text{g}`.(1-\cos\theta)} \label{eqn1} \tag{equation 1}
+   v = \sqrt{2gL(1-\cos\theta)} \label{eqn1} \tag{equation 1}
 
 1. In the experiment there is a collision, and momentum is conserved:
 
    .. math::
-     \sum\big(\text{momentum before collision}\big) &= \sum\big(\text{momentum after collision}\big)\\ 
-     m_A v_A + m_B v_B &= m_A v_A' + m_B v_B' 
+     \sum\big(\text{momentum before collision}\big) &= \sum\big(\text{momentum after collision}\big)\\
+     m_A v_A + m_B v_B &= m_A v_A' + m_B v_B'
 
    where :math:`v_A`, :math:`v_B`, :math:`v_{A^{'}}`, :math:`v_{B^{'}}` are
    the velocities of bobs A and B before and after the collision
    respectively. However in the experiment :math:`v_B = 0`. Thus:
 
    .. math::
-     \frac{m_A}{m_B} = \frac{v_{B^{'}}}{v_A - v_{A^{'}}} 
+     \frac{m_A}{m_B} = \frac{v_{B^{'}}}{v_A - v_{A^{'}}}
 
    Calculating velocities using :math:`\ref{eqn1}`, and substituting:
 
    .. math::
-     \frac{m_A}{m_B} = \frac{\sqrt{2\text{g}`.(1-\cos\theta_{B^{'}})}}{\sqrt{2\text{g}`.(1-\cos\theta_A)}-\sqrt{2\text{g}`.(1-\cos\theta_{A^{'}})}} 
+     \frac{m_A}{m_B} = \frac{\sqrt{2gL(1-\cos\theta_{B^{'}})}}{\sqrt{2gL(1-\cos\theta_A)}-\sqrt{2gL(1-\cos\theta_{A^{'}})}}
 
    Thus:
 
@@ -89,14 +89,14 @@ angle :math:`\theta` has a velocity change of:
   By definition:
 
    .. math::
-     \qquad e = - \frac{\big(\text{relative velocity after the collision}\big)}{\big(\text{relative velocity before the collision}\big)} 
-     
+     \qquad e = - \frac{\big(\text{relative velocity after the collision}\big)}{\big(\text{relative velocity before the collision}\big)}
+
 
   Using :math:`\ref{eqn1}` for these velocities:
 
    .. math::
-     e = \frac{\sqrt{1-\cos\theta_{B'}}-\sqrt{1-\cos\theta_{A'}}}{\sqrt{1-\cos\theta_{A}}} \label{eqn3} \tag{equation 3} 
-     
+     e = \frac{\sqrt{1-\cos\theta_{B'}}-\sqrt{1-\cos\theta_{A'}}}{\sqrt{1-\cos\theta_{A}}} \label{eqn3} \tag{equation 3}
+
 
 Analysis
 --------
@@ -121,13 +121,13 @@ Analysis
 
    .. math::
      e &= 1 \qquad \text{collision is perfectly elastic} \\
-     e &= 0 \qquad \text{collision is completely inelastic} 
-    
-   Give simple examples to illustrate the energy changes that occur in collisions where: 
+     e &= 0 \qquad \text{collision is completely inelastic}
 
-    i)   :math:`e = 1` 
+   Give simple examples to illustrate the energy changes that occur in collisions where:
 
-    ii)  :math:`e = 0` 
+    i)   :math:`e = 1`
+
+    ii)  :math:`e = 0`
 
     iii) :math:`e = \big(\text{the value in your experiment}\big)`
 

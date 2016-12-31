@@ -9,7 +9,7 @@ D2-1: Specific Heat Capacity of Water: Electrical Method
 Apparatus
 ---------
 
-Copper calorimeter (unlagged, with fitted lid and electrical heater); thermometer (:math:`0-100\text{°C}`); voltmeter (:math:`0-5\text{Vdc}`); ammeter (:math:`0-5\text{Vac}`); power supply (dc); stopclock; measuring cylinder (:math:`100\text{ml}` with :math:`100\text{ml}` water); triple beam balance; 5 connecting leads; 1 sheet graph paper
+Copper calorimeter (unlagged, with fitted lid and electrical heater); thermometer :math:`(0-100\text{°C})`; voltmeter :math:`(0-5\text{Vdc})`; ammeter :math:`(0-5\text{Vac})`; power supply (dc); stopclock; measuring cylinder :math:`(100\text{ml}` with :math:`100\text{ml}` water); triple beam balance; 5 connecting leads; 1 sheet graph paper
 
 |D2-1.1|
 
@@ -24,38 +24,38 @@ Procedure
 
 4. Switch on and start the stopclock. Record readings of current and voltage. After 30s, read the temperature and continue reading the time and temperature every 30s.  Occasionally shake the calorimeter gently.
 
-5. When the temperature has risen about 15°C, note the stopclock time :math:`t` and switch off the heater. CONTINUE TIMING, BUT DO NOT TURN ON THE HEATER AGAIN. Continue recording temperature and time every 30s for a further time of :math:`t` seconds. 
+5. When the temperature has risen about :math:`15\text{°C}`, note the stopclock time :math:`t` and switch off the heater. CONTINUE TIMING, BUT DO NOT TURN ON THE HEATER AGAIN. Continue recording temperature and time every 30s for a further time of :math:`t` seconds.
 
-6. Plot a graph of temperature :math:`\Theta` against time. From the graph read: initial temperature :math:`\Theta_1`, highest temperature :math:`\Theta_2`, the time :math:`t'` taken to reach :math:`\Theta_2` ; (may not equal t), and the temperature fall :math:`x` during a period :math:`\frac{1}{2} t'` after time t’.
+6. Plot a graph of temperature :math:`\Theta` against time. From the graph read: initial temperature :math:`\Theta_1`, highest temperature :math:`\Theta_2`, the time :math:`t'` taken to reach :math:`\Theta_2` ; (may not equal t), and the temperature fall :math:`x` during a period :math:`\frac{1}{2} t'` after time :math:`t’`.
 
 
 Theory
 ------
 
-Starting with conservation of energy: 
+Starting with conservation of energy:
 
 .. math::
     \text{Electrical energy supplied} = \text{Heat gained by water and calorimeter}
 
-The 'cooling correction' to allow for :math:`\text{heat loss} = x` °C.  
+The 'cooling correction' to allow for :math:`\text{heat loss} = x\text{°C}.
 
-Then: 
+Then:
 
 .. math::
    V I t &= (m_c c_c + m_w c_w)((\Theta_2 + x) - \Theta_1)\\
-   
-Where: 
+
+Where:
 
 .. math::
-   c_c &= \big(\text{specific heat capacity of copper}\big) = 3.8 \times 10^2 \text{Jkg} ^{-1} \text{K} ^{-1} \\     
-   c_w &= \big(\text{specific heat capacity of water}\big) 
+   c_c &= \big(\text{specific heat capacity of copper}\big) = 3.8 \times 10^2 \text{Jkg} ^{-1} \text{K} ^{-1} \\
+   c_w &= \big(\text{specific heat capacity of water}\big)
 
 Questions
 ---------
 
 1. Use the above equation and the readings from your graph to determine the specific heat capacity of water.
 
-2. If an accurate value of :math:`c_w = 4190` Jkg :math:`^{-1}` K :math:`^{-1}`, calculate the % error in your value.
+2. If an accurate value of :math:`c_w = 4190\text{Jkg}^{-1}\text{K}^{-1}`, calculate the % error in your value.
 
 3. Explain the most likely sources of error in your experiment and for each source give a suitable precaution to reduce its effect.
 

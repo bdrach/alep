@@ -80,7 +80,7 @@ Past Exam Papers
    content/labs/84-Q1 Moment of Inertia of a Bar
    content/labs/85-Q1 Relative Density of a Liquid
    content/labs/85-Q2 Surface Characteristics and Cooling
-   content/labs/86-Q2 Newton's New of Cooling
+   content/labs/86-Q2 Newton's Law of Cooling
    content/labs/86-Q3 Resistivity, Using a Wheatstone Bridge
    content/labs/87-Q1 Viscosity of Oil
 

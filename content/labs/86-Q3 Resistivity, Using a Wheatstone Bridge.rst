@@ -21,11 +21,11 @@ the wire provided. Proceed as follows:
 (a) Set up a slide-wire metre bridge as illustrated below where **E** is
     a cell, **G** is a Galvanometer, length :math:`l` of the resistance
     wire is connected across the right-hand gap of the bridge, and the
-    jockey or slider **J** is placed at the 50\text{cm}` mark.
+    jockey or slider **J** is placed at the :math:`50\text{cm}` mark.
 
 (b) With **R** :math:`= 20 \Omega`, find the value of length :math:`l` for
     which the galvanometer gives zero deflection when the slider is
-    tapped onto the 50\text{cm}` mark as shown below. (2 marks)
+    tapped onto the :math:`50\text{cm}` mark as shown below. (2 marks)
 
 (c) Repeat the procedure in (b) for values of **R** equal to
     :math:`10\Omega, 5\Omega, 2\Omega, 1 \Omega, \text{ and } 0.5 \Omega`. (8 marks)

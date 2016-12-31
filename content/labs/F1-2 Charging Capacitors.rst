@@ -71,7 +71,7 @@ Analysis
 5.  Calculate the capacitance using:
 
     .. math::
-       C = \frac{Q}{V} \quad = \quad \frac{\big(\text{Total charge stored}\big)}{V_{MAX}}
+       C = \frac{Q}{V} = \frac{\big(\text{Total charge stored}\big)}{V_{MAX}}
 
 6.  Repeat analysis steps 3, 4, and 5 for the capacitors in series and in parallel.
 

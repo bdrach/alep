@@ -40,8 +40,10 @@ material of the bar. Proceed as follows:
 
 (d) Calculate the Young's modulus, :math:`E`, of the bar given that:
 
-.. math::
-   E =\frac{g L^3 m}{4 b d^3 s} \qquad \text{and} \qquad g = 9.8 \text{ms} ^{-2} \text{  (11 marks)}
+    .. math::
+       E =\frac{g L^3 m}{4 b d^3 s} \qquad \text{and} \qquad g = 9.8 \text{ms} ^{-2} 
+
+    (11 marks)
    
 
 (e) 

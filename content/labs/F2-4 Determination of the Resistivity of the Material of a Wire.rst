@@ -53,7 +53,7 @@ Theory
 This circuit is a Wheatstone Bridge. Thus :math:`\frac{\overline{AJ}}{\overline{JB}} = \frac{R_y}{R_x}` and :math:`R_x` can be found.
  
 Now :math:`\rho` is the resistivity of the material of the wire, and 
-:math:`\rho = \frac{R A}{L}`.  Where here :math:`R = R_x\ ` , :math:`A = \big( \text{cross-sectional area of wire } R_x\big)`, and :math:`L = \big(\text{length of } R_x\big)`.
+:math:`\rho = \frac{R A}{L}`.  Where here :math:`R = R_x,` :math:`A = \big( \text{cross-sectional area of wire } R_x\big),` and :math:`L = \big(\text{length of } R_x\big)`.
 
 Analysis
 --------

@@ -21,7 +21,7 @@ liquid A and :math:`\gamma_b` of liquid B. Proceed as follows:
 Set up the apparatus shown above. With the clip closed,
 fill the funnel with the liquid **A**. Adjust the gripping of the clip
 so that the rate of the drops at the lower open end is initially between
-20 and 30 drops per minute. When making the adjustments, the drops may
+:math:`20` and :math:`30` drops per minute. When making the adjustments, the drops may
 be collected in the measuring cylinder.
 
 Starting with a convenient reading :math:`V_0` of the volume of liquid
@@ -44,13 +44,13 @@ using Lord Rayleigh's formula:  
    
 
 where **g** is the acceleration due to gravity, which may be taken as
-9.8 ms\ :math:`^{-2}`, calculate :math:`\gamma_a`. You may assume that the
-density of the liquid A is :math:`1.0\text{g}` cm\ :math:`^{-3}`. (10 marks)
+:math:`9.8\text{ms}^{-2}`, calculate :math:`\gamma_a`. You may assume that the
+density of the liquid A is :math:`1.0\text{g cm}^{-3}`. (10 marks)
 
 Now empty the entire apparatus and refill it with the liquid **B**.
-Adjust the rate of flow as before. Collect 20 drops of the liquid **B**
+Adjust the rate of flow as before. Collect :math:`20` drops of the liquid **B**
 into the small beaker which you should first weigh empty. Reweigh the
-beaker and contents so as to obtain the mass of 20 drops of the liquid.
+beaker and contents so as to obtain the mass of :math:`20` drops of the liquid.
 From your observations, determine the mass m\ :math:`_b` of one drop. (6
 marks)
 

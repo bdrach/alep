@@ -22,7 +22,7 @@ In this experiment you are required to determine the density of liquid
 (a) Locate and mark the centre of gravity :math:`G` of the metre rule.
 
 (b) Set up the apparatus as illustrated below, where :math:`a = 5`\ cm,
-    and :math:`W_1` and :math:`W2` are masses of :math:`50\text{g}` and 20g
+    and :math:`W_1` and :math:`W2` are masses of :math:`50\text{g}` and :math:`20\text{g}`
     respectively.
 
 |85-Q1.1| 
@@ -37,7 +37,7 @@ In this experiment you are required to determine the density of liquid
     procedure outlined in (c) above. (7 marks)
 
 (e) Plot a graph of :math:`y` vs. :math:`x` using the table obtained in
-    (c): (8 marks)
+    (c). (8 marks)
 
 (f) Read and record :math:`I`, the value of :math:`y` when
     :math:`x = 0`. Calculate :math:`10 \times I`, which is equal to the

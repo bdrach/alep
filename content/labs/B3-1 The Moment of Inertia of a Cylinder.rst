@@ -86,7 +86,7 @@ Analysis
    cylinder on the same sheet of graph paper. Find the gradient of each
    line.
 
-2. Given that :math:`a=(\frac{Mgr_a^2}{Mr_a^2 + I})\sin\theta`, find
+2. Given that :math:`a=\left(\frac{Mgr_a^2}{Mr_a^2 + I}\right)\sin\theta`, find
    :math:`I` for each cylinder.
 
 3. From theory :math:`I = \frac{1}{2}Mr^2` where

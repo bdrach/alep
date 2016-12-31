@@ -16,8 +16,11 @@ balance with masses; 2 sheets graph paper
 Precaution: do not exceed the maximum tension (see label beside force
 meter). Place bridge A near the left hand end. Do not move it again.
 
-Experiment 1: Procedure
-------------------------
+Experiment 1:
+-------------
+
+1: Procedure
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 To study how frequency varies with length and thus calculate the mass
 per unit length of the sonometer wire.
@@ -38,15 +41,15 @@ per unit length of the sonometer wire.
 5. Repeat steps 2, 3 and 4, using all the other forks in turn, up to
    :math:`512\text{Hz}`.
 
-Experiment 1: Theory
----------------------
+1: Theory
+~~~~~~~~~~~~~~~~~~~~~
 
 For a string under tension, secured at both ends:
 
 .. math::
    f = \frac{1}{2 l} \sqrt{\frac{T}{m}} \\  
 
-Where:
+where:
 
 .. math:: 
    f &= \text{frequency} \text{ (Hz)} \\  
@@ -58,16 +61,19 @@ If :math:`T` and :math:`m` are constant, then
 :math:`f = k \left( \frac{1}{l} \right)`, where the constant :math:`k` is
 :math:`\frac{1}{2} \sqrt{\frac{T}{m}}`.
 
-Experiment 1: Analysis
------------------------
+1: Analysis
+~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Plot a graph of :math:`f` against :math:`\frac{1}{l}` and find the gradient.
 
 2. Use the gradient, the value of tension and the theory to find the
    value of :math:`m` -- the mass per unit length of the wire.
 
-Experiment 2: Procedure
------------------------
+Experiment 2
+------------
+
+2: Procedure
+~~~~~~~~~~~~~~~~~~~~~~~
 
 To study how frequency varies with tension, and thus calculate the mass per 
 unit length of the wire.  
@@ -86,16 +92,16 @@ unit length of the wire.  
 
    *NB: DO NOT EXCEED THE MAXIMUM TENSION ALLOWED*
 
-Experiment 2: Theory
----------------------
+2: Theory
+~~~~~~~~~~~~~~~~~~~~~
 
 In this experiment, :math:`l` and :math:`m` are constant, therefore:
 
 .. math::
    f = k \sqrt{T} \qquad \text{ where the constant } k = \frac{1}{2 l \sqrt{m}}
 
-Experiment 2: Analysis
-----------------------
+2: Analysis
+~~~~~~~~~~~~~~~~~~~~~~
 
 1. Plot a graph of :math:`f` against :math:`\sqrt{T}`, and find the
    gradient.

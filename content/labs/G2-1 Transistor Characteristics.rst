@@ -8,7 +8,7 @@ Apparatus
 ---------
 
 :math:`3\text{V}` battery; :math:`9\text{V}` battery; 2 rheostats (high resistance); resistor :math:`\text{R}_2`
-(approx. 50 k\ :math:`\Omega`); voltmeter (:math:`0-5\text{Vdc}`); ammeter
+(approx. :math:`50\text{k}\Omega`); voltmeter (:math:`0-5\text{Vdc}`); ammeter
 (:math:`\approx 50 \mu\text{A}` *fsd*); ammeter (:math:`\approx 3 \text{mA}` *fsd*);
 transistor (pnp); connecting leads (12 short); 2 sheets graph paper.
 
@@ -22,7 +22,7 @@ teacher has checked the circuit (to avoid damaging the ammeters or
 transistor). In the experiment, when not taking readings, leave the
 batteries disconnected.
 
-EXPERIMENT 1
+Experiment 1
 ------------
 
 **To investigate the 'transfer characteristics' of the transistor.**  
@@ -32,7 +32,7 @@ current :math:`I_C` depends on the size of the small current
 circuit.
 
 1: Procedure
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Set :math:`V_{CE}` to :math:`4\text{V}` using rheostat :math:`\text{R}_3`. Ensure that this
    remains constant (adjust :math:`\text{R}_3` again later as necessary).
@@ -48,7 +48,7 @@ circuit.
    :math:`V_{CE}`.
 
 1: Analysis
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 1. Plot a graph of :math:`I_C` against :math:`I_B`, labelling the curve
    with the value of :math:`V_{CE}` used.
@@ -58,7 +58,7 @@ circuit.
    .. math::
       \text{Current gain } \beta = \frac{\Delta I_C}{\Delta I_B} = \text{gradient}
 
-EXPERIMENT 2
+Experiment 2
 ------------
 
 **To study how** :math:`I_C` **varies when** :math:`V_{CE}` **is changed, for certain
@@ -66,7 +66,7 @@ fixed values of** :math:`I_B`.  The graph obtained is called the ’output
 characteristic' of the transistor.
 
 2: Procedure
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Set :math:`I_B = 0` using :math:`\text{R}_1`. Starting with
    :math:`V_{CE} = 0`, and little by little increasing :math:`V_{CE}` up
@@ -82,7 +82,7 @@ characteristic' of the transistor.
    noting the value of :math:`I_B` for each set.
 
 2: Analysis
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 1. Plot a graph of :math:`I_C` vs. :math:`V_{CE}` to obtain four curves.
    Label each curve with the appropriate value of :math:`I_B` used.

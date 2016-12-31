@@ -7,8 +7,8 @@ F6-1: Self Inductance in AC Circuits
 Apparatus
 ---------
 
-300 turn coil; 2 iron C-cores; C-core clip; ammeter (:math:`0 - 1\text{Adc}`);
-voltmeter (:math:`0 - 5\text{Vdc}`); 3 batteries (:math:`3\text{V}`.; 2 :math:`\times 100\Omega`
+300 turn coil; 2 iron C-cores; C-core clip; ammeter :math:`(0 - 1\text{Adc})`;
+voltmeter :math:`(0 - 5\text{Vdc})`; 3 batteries :math:`(3\text{V})`; 2 :math:`\times 100\Omega`
 resistors; CRO (oscilloscope); AC power supply; :math:`0.5\text{m}` ruler; connecting
 leads (5 short); 1 sheet graph paper.
 
@@ -43,7 +43,7 @@ Procedure
    c. Use the CRO to measure :math:`V_2` peak.  
 
    d. Repeat a), b), and c), but using :math:`V_1` of :math:`3.5, 3, 2.5,
-      2, 1.5, 1, 0.5, \text{ and } 0` volt peak each time.  
+      2, 1.5, 1, 0.5, \text{ and } 0\text{V}` peak each time.  
 
    e) Tabulate the values of :math:`V_R` peak, :math:`V_2` peak, and
       :math:`I` peak.  

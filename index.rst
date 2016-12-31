@@ -5,7 +5,7 @@
 
 .. meta::
   :description: This book contains experiments for learning concepts of Advanced Level Experimental Physics
-  :keywords: Bob Drach, Norman Price, Ruvma Boys' Secondary School, Songea, Tanzania, Advanced Level Experimental Physics, Experimental Physics, Physics, A-Level, Peace Corps
+  :keywords: Bob Drach, Norman Price, Ruvma Boys' Secondary School, Songea, Tanzania, Advanced Level Experimental Physics, Experimental Physics, Physics, A-Level, Peace Corps, Physics Labs, Physics Experiments
 
 Welcome to ALEP
 ===============

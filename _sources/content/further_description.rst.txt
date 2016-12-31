@@ -142,9 +142,13 @@ deflection (*fsd*)).  Rheostats 1k\ :math:`\Omega` to :math:`10\text{k}\Omega` a
 preferred.  A :math:`15\Omega` rheostat is useable but it will run down
 batteries quickly.
 
-| Some common pnp transistors (view of underside): |G2-1.a|
-|  Testing old transistors:  
-| Using: |G2-1.b|
+Some common pnp transistors (view of underside): 
+
+|G2-1.a|
+
+Testing old transistors using the following setup: 
+
+|G2-1.b|
 
 1) Find two wires of the transistor with no conduction in either
 direction.  The base wire is the other wire.  (Failure to find this:
@@ -171,7 +175,7 @@ are clean and even and mark the symbols :math:`\odot` and
 
 **77ALTA-Q2** A heavy weight must be placed on the base of the stand or it
 will topple over. Both liquid **A** and liquid **B** are water. Add
-some Potassium Permanganate (:math:`KMnO_4`) to liqiud **B** to raise an
+some Potassium Permanganate (:math:`\text{KMnO}_4`) to liqiud **B** to raise an
 element of doubt for the students.
 
 **80ALTB-Q1** Prisms may be placed on **A** and **B**. Expected value of the
@@ -192,7 +196,7 @@ measureable change in the rate of cooling.
 **87-Q1** The burette or cylinder must have a diameter of :math:`\ge
 3\text{cm}` to avoid surface effects and must :math:`\ge 30\text{cm}` deep.
 Liquid **L** is engine oil, SAE 40. Typical values for :math:`\rho_1` and
-:math:`\rho_2` are :math:`8800\text{kg}`.\ :math:`^{-3}` and :math:`900\text{kg}^{-3}`.
+:math:`\rho_2` are :math:`8800\text{kg}^{-3}` and :math:`900\text{kg}^{-3}`.
 
 **General:**
 

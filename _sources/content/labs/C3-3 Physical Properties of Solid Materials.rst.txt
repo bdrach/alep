@@ -13,8 +13,7 @@ triple beam balance; overflow can; :math:`1\text{L}` and :math:`100\text{ml}` me
 filled with water; small beaker; optical pin; :math:`0.5\text{m}` ruler; Physics
 reference books; eye protection glasses.
 
-PRECAUTIONS
------------
+**PRECAUTIONS**
 
 1. Some materials shatter if stressed. Take care to protect your eyes!
 

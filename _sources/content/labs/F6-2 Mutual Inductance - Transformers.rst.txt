@@ -11,7 +11,7 @@ Apparatus
 ---------
 
 Coils 300 turns & 150 turns; wire for 20 turn & 10 turn coils; 2 iron
-C-cores; C-core clip; 10\ :math:`\Omega` and 5\ :math:`\Omega`
+C-cores; C-core clip; :math:`10\Omega` and :math:`5\Omega`
 resistors; CRO (oscilloscope); AC power supply; connecting leads (5
 short).
 

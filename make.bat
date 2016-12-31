@@ -284,7 +284,13 @@ if "%1" == "upload" (
 	if errorlevel 1 exit /b 1
 	echo.
 	echo.Build finished. The HTML pages are in %BUILDDIR%/html.
-	echo.Upload command not yet implemented.
+	rm -rf alep-temp
+	git clone -b gh-pages --single-branch https://github.com/bdrach/alep alep-temp
+	rm -rf alep-temp/*
+	cp -r _build/html/* ./alep-temp/
+	cd alep-temp/ && git add * && git commit -a -m "Site Update" && git push
+	rm -rf alep-temp && echo && echo "Updated website successfully"
+
 	goto end
 )
 

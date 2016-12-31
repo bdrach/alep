@@ -14,7 +14,7 @@ magnifying glass; thermometer (:math:`0-100\text{°C}`)
 
 |C1-1.1| 
 
-For cleaning slide: teat pipette; small beaker; dilute alkali; dilute acid; 
+For cleaning slide: teat pipette; small beaker; dilute alkali; dilute acid;
 distilled water.
 
 Procedure
@@ -77,22 +77,22 @@ the slide. Therefore:
 
 :math:`\text{Surface tension force}=\gamma \times \text{perimeter of the slide}` 
 
-In the experiment, the surface tension force is in equilibruim with the mass added to the beam balance, hence: 
+In the experiment, the surface tension force is in equilibruim with the mass added to the beam balance, hence:
 
 .. math::
-   \big(\text{Surface tension force}\big)=\big(\text{the upward force exerted by the beam on the slide}\big) 
+   \big(\text{Surface tension force}\big)=\big(\text{the upward force exerted by the beam on the slide}\big)
 
 This is true at the point just before the slide leaves the water.
 
 .. math::
-   \big(\text{Force exerted by the beam}\big) = (m_2 - m_1)g 
+   \big(\text{Force exerted by the beam}\big) = (m_2 - m_1)g
 
 where :math:`g=9.8\text{NKg}^{-1}`  
 
 .. math::
    \big(\text{The slide perimeter}\big) = 2l + 2d
 
-Thus: 
+Thus:
 
 .. math::
    (m_2 - m_1)g = \gamma (2l + 2d)
@@ -108,19 +108,19 @@ Analysis
 
 2. Use a method of dimensions to find the unit of :math:`\gamma`.
 
-3. Draw a diagram to show the molecular forces acting on: 
+3. Draw a diagram to show the molecular forces acting on:
 
    a) the slide
    b) the water
 
 4. What effect on :math:`\gamma` would the following have?
 
-   a) Raising the water temperature 
+   a) Raising the water temperature
    b) Mixing impurities into the water
 
 5. If the slide is greasy, how will this affect:
 
-   a) The angle of contact of the water? 
+   a) The angle of contact of the water?
    b) The downward force on the slide?
 
 6. Use your value of :math:`\gamma` to calculate the capillary rise up a

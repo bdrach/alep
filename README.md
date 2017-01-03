@@ -2,12 +2,12 @@
 
 This repository contains the markup, images, and website generation tools for [Advanced Level Experiemental Physics](http://alevelexperimentalphysics.info/index.html).
 
-# Making Changes
+# Making Changes 
 ## Modifying the Markup
 
 You need Python and Sphinx installed to generate the website.  If you have Python, run `python -m pip install Sphinx` to install Sphinx.
 
-To modify content, make changes to the files in the **content/** directory.  Generate the website by running `make html` (`./make.bat html` on Windows) on your command lin e from the root directory of the project, **alep/**.  View your changed content by viewing **_build/html/index.html** in your browser.
+To modify content, make changes to the files in the **content/** directory.  Generate the website by running `make html` (`.\make.bat html` on Windows) on your command line from the root directory of the project, **alep/**.  View your changed content by viewing **_build/html/index.html** in your browser.
 
 One you have made your changes, commit them.  `git commit -a`
 
@@ -15,7 +15,7 @@ One you have made your changes, commit them.  `git commit -a`
 
 Push your changes to the repository `git push`.  If you have "merge conflicts", `git pull` before you git push.
 
-Then, make your changes live.  Run `make upload` (`./make.bat upload` on Windows) and enter your Github credentials when prompted to submit your changes to the **gh-pages** branch. Once this command finishes successfully, your changes will be visible on the [website](http://alevelexperimentalphysics.info/index.html).
+Then, make your changes live.  Run `make upload` (`.\make.bat upload` on Windows) and enter your Github credentials when prompted to submit your changes to the **gh-pages** branch. Once this command finishes successfully, your changes will be visible on the [website](http://alevelexperimentalphysics.info/index.html).
 
 ### If you do not have write access
 

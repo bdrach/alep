@@ -1,5 +1,5 @@
 .. meta::
-  :description: When forces are in equilibrium, the sum of force vectors acting on an object will net to zero.  In this case of two forces, one force can be calculated using the magnitude and direction of the opposing force. 
+  :description: When forces are in equilibrium, the sum of force vectors acting on an object will net to zero.  In this case of two forces, one force can be calculated using the magnitude and direction of the opposing force.
 
 B1-2: Tension in a String: Find an Unknown Mass Using Equilibrium of Forces Theory
 ==================================================================================
@@ -40,18 +40,18 @@ Theory
 Since point P is in equilibrium (Newton's 1st law):
 
 .. math::
-   \text{Resultant} \ \tilde{R} = \tilde{T}_1 + \tilde{T}_2 + \tilde{W} = \tilde{0} 
-   
+   \text{Resultant} \ \tilde{R} = \tilde{T}_1 + \tilde{T}_2 + \tilde{W} = \tilde{0}
+
 
 Therefore **horizontally**:
 
 .. math::
    \sum{F_x} = 0 \ \ \therefore \ \ T_2(\cos\theta_2) - T_1(\cos\theta_1) = 0
-   
+
 However, :math:`\theta_1 = \theta_2` (observation), therefore:
 
 .. math::
-   T_1 = T_2 
+   T_1 = T_2
 
 And **vertically**:
 
@@ -67,7 +67,7 @@ but :math:`T_1 = m_1g`, :math:`\sin\theta_1 = \frac{h}{d}` , and :math:`W = m_2g
 
 .. math::
    \frac{h}{d} = \frac{m_2}{2m_1}
-   
+
 
 Analysis
 --------
@@ -81,12 +81,12 @@ Analysis
 3. Measure the mass of :math:`m_2`: on the beam balance, and assuming this
    is accurate, calculate the % error in the value obtained in 2. above.
 
-4. a) Use the value of :math:`\frac{h}{d}` when :math:`m_1 = 400\text{g}`, to calculate :math:`\theta_1` at this point. Calculate :math:`W = m_2 g`. 
+4. a) Use the value of :math:`\frac{h}{d}` when :math:`m_1 = 400\text{g}`, to calculate :math:`\theta_1` at this point. Calculate :math:`W = m_2 g`.
    b) :math:`m_1` is suddenly increased to :math:`500\text{g}`...
 
       Assuming that at this moment :math:`\theta_1 = \theta_2 = \text{the value from a.}`, find the initial upward acceleration of :math:`m_2`, as it heads towards a new equilibrium position. 
 
-      (Hint: find :math:`T_1` and use part of :math:`\ref{eqn1}` above to find the net upward force on :math:`m_2` .)
+      (Hint: find :math:`T_1` and use part of :math:`\ref{eqn1}` above to find the net upward force on :math:`m_2.)`
 
 .. |B1-2.1| image:: /images/7.png
 .. |B1-2.2| image:: /images/8.png

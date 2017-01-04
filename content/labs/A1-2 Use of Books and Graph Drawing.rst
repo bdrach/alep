@@ -19,8 +19,9 @@ Procedure
 
    b) Name 3 ferromagnetic materials (is there a 4th?).
 
-   c) What are the unit prefixes (letter and name) for: :math:`10^{12},\ 10^9,\ 10^6,\ 10^3,\ 10^2,\ 10^{-2},`
-      :math:`10^{-3},\ 10^{-6},\ 10^{-9},\ 10^{-12}`
+   c) What are the unit prefixes (letter and name) for:
+
+      :math:`10^{12},\ 10^9,\ 10^6,\ 10^3,\ 10^2,\ 10^{-2}, 10^{-3},\ 10^{-6},\ 10^{-9},\ 10^{-12}`
 
    d) What are the letters of the Greek alphabet? Give their names.
 
@@ -47,20 +48,20 @@ Procedure
    b) i)    :math:`73500 \div 0.6885`
       ii)   :math:`5.322^4`
       iii)  :math:`\sqrt[3]{6.03}`
-      iv)   :math:`\log{(0.002)}`
-      v)    :math:`\sin{(26°\ 36')}`
+      iv)   :math:`\log (0.002)`
+      v)    :math:`\sin (26°\ 36')`
       vi)   :math:`\cos^{-1}(0.391)`
       vii)  :math:`\tan (53.552°)`
-      viii) :math:`\tan{(216°)}`
-      ix)   :math:`\cos{(126°)}`
+      viii) :math:`\tan (216°)`
+      ix)   :math:`\cos (126°)`
 
    c) i)  Convert to radians: :math:`\quad 90° \qquad 72° \qquad 200°`
       ii) Convert to degrees: :math:`\quad 1.12\text{rad}  \qquad 3 \pi\text{rad} \qquad 3\pi/2\text{rad}`
 
    d) i)   :math:`\ln{(7.9)}`
       ii)  :math:`e^{1.5}`
-      iii) :math:`\ln{(0.14)}`
-      iv)  :math:`\ln{(40)}`
+      iii) :math:`\ln (0.14)`
+      iv)  :math:`\ln (40)`
       v)   :math:`e^{15}`
       vi)  :math:`e^{0.02}`
 

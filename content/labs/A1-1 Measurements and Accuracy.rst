@@ -24,12 +24,12 @@ together with the error. Calculate the % error.
 
 2. Repeat using the vernier calipers instead.
 
-3. Measure the slide thickness in several places using the micrometer. 
-   For a mechanical micrometer, record the 'zero reading' and adjust the other 
+3. Measure the slide thickness in several places using the micrometer.
+   For a mechanical micrometer, record the 'zero reading' and adjust the other
    readings correctly.
 
 4. Measure the length :math:`l` and the width :math:`w` using the metre
-   ruler. Find the mass of the slide in air :math:`m` , and then its 
+   ruler. Find the mass of the slide in air :math:`m` , and then its
    apparent mass when suspended in water :math:`m_a`.
 
 Then:
@@ -44,7 +44,7 @@ where:
    \text{slide volume} = \frac{m - m_a}{\rho_w} \\
     \rho_w = \text{density of water}
 
-.. %ALTERNATIVE NOTATION SAMPLE FOR ABOVE LINE mg - m_a g &= \rho_w g (\text{slide volume}) \\ 
+.. %ALTERNATIVE NOTATION SAMPLE FOR ABOVE LINE mg - m_a g &= \rho_w g (\text{slide volume}) \\
 
 Then calculate the slide thickness :math:`d` since:
 

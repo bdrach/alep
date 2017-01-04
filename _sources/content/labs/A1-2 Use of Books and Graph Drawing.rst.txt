@@ -27,19 +27,19 @@ Procedure
 
    e) What does 'Non-Ohmic conductor' mean? Give four examples.
 
-   f) What is the velocity of sound in air at 0°C?
+   f) What is the velocity of sound in air at :math:`0 \text{°C}`?
 
-   g) 0°C equals how many K, exactly?
+   g) :math:`0 \text{°C}` equals how many K, exactly?
 
    h) What are the main types of experimental error?
 
-   i) a = :math:`5 \pm 0.005\text{m}` and :math:`b = 3.5 \pm 0.01\text{m}`. What is the error
+   i) :math:`a = 5 \pm 0.005\text{m}` and :math:`b = 3.5 \pm 0.01\text{m}`. What is the error
       in :math:`a+b` in metres and in %? What is the % error in :math:`ab`?
 
    j) Define the metre, the kilogram, the second, the newton, and the
       joule. Which are base units and why?
 
-2. Use of 4 or 5 figure log tables. Calculate the following:
+2. Use 4- or 5-figure log tables to calculate the following:
 
    a) i)   :math:`28.5 \times 137`
       ii)  :math:`0.056 \times 55.62`
@@ -70,12 +70,12 @@ Procedure
 
 3. Graphs.
 
-   a) In an Ohm's Law experiment, where V = IR, the following
+   a) In an Ohm's Law experiment, where :math:`V = IR`, the following
       readings were obtained: 
 
       |A1-2.1|  
 
-      Draw a graph of V against I, and hence find R.
+      Draw a graph of :math:`V` against :math:`I`, and hence find :math:`R`.
 
    b) A cell of internal resistance :math:`r` and emf :math:`E` supplies
       current through a resistor :math:`R`. The equation which applies
@@ -84,8 +84,6 @@ Procedure
       .. math::
          r=R \left(\frac{E-V}{V}\right)
 
-      Readings of R and V are obtained, and :math:`1/R` is plotted
-      against :math:`1/V`. Explain how the gradient and y-intercept can
-      be used to find :math:`E` and :math:`r`.
+      Readings of :math:`R` and :math:`V` are obtained, and :math:`1/R` is plotted against :math:`1/V`. Explain how the gradient and :math:`y`-intercept can be used to find :math:`E` and :math:`r`.
 
 .. |A1-2.1| image:: /images/3.png

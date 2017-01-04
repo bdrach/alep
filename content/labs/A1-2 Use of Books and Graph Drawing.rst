@@ -26,9 +26,9 @@ Procedure
 
    e) What does 'Non-Ohmic conductor' mean? Give four examples.
 
-   f) What is the velocity of sound in air at 0°C?
+   f) What is the velocity of sound in air at :math:`0 \text{°C}`?
 
-   g) 0°C equals how many K, exactly?
+   g) :math:`0 \text{°C}` equals how many K, exactly?
 
    h) What are the main types of experimental error?
 

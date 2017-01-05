@@ -36,8 +36,7 @@ Procedure
 
 6. Repeat 4 and 5 to get five readings of :math:`a_3` to average.
 
-7. Repeat 4, then release bob A, and note the furthest position that
-   *bob B* reaches to the right after the collision (this is
+7. Repeat 4, then release bob A, and note the furthest position that bob B reaches to the right after the collision (this is
    :math:`b_2`).
 
 8. Repeat 7 to get five readings of :math:`b_2` to average.
@@ -89,8 +88,7 @@ angle :math:`\theta` has a velocity change of:
   By definition:
 
    .. math::
-     \qquad e = - \frac{\big(\text{relative velocity after the collision}\big)}{\big(\text{relative velocity before the collision}\big)}
-
+     e = - \frac{\big(\text{relative velocity after the collision}\big)}{\big(\text{relative velocity before the collision}\big)}
 
   Using :math:`\ref{eqn1}` for these velocities:
 
@@ -108,15 +106,10 @@ Analysis
 
 2. Substitute the values of :math:`\theta_A`, :math:`\theta_{A}'`,
    :math:`\theta_{B}'` calculated in the above table into
-   :math:`\ref{eqn2}` to calculate the ratio of the masses of the two
-   pendulum bobs. Check the accuracy of the method using the readings of
-   mass obtained directly using the beam balance. Comment on the
-   differences in these ways of measuring mass, using either the ballistic
-   balance (collision method), or the beam balance.
+   :math:`\ref{eqn2}` to calculate the ratio of the masses of the two pendulum bobs. Check the accuracy of the method using the readings of mass obtained directly using the beam balance. Comment on the differences in these ways of measuring mass, using either the ballistic balance (collision method), or the beam balance.
 
 3. Substitute the values of :math:`\theta_A`, :math:`\theta_{A}'`,
-   :math:`\theta_{B}'` from the above table into :math:`\ref{eqn3}` to calculate
-   the coefficient of restitution for these pendulum bobs. Comment on
+   :math:`\theta_{B}'` from the above table into :math:`\ref{eqn3}` to calculate the coefficient of restitution for these pendulum bobs. Comment on
    the elasticity of the collision in your experiment if:
 
    .. math::

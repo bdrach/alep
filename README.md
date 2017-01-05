@@ -2,7 +2,7 @@
 
 This repository contains the markup, images, and website generation tools for [Advanced Level Experiemental Physics](http://alevelexperimentalphysics.info/index.html).
 
-# Making Changes
+# Making Changes 
 ## Modifying the Markup
 
 You need Python and Sphinx installed to generate the website.  If you have Python, run `python -m pip install Sphinx` to install Sphinx.

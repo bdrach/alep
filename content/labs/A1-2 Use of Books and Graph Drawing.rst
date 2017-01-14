@@ -41,19 +41,20 @@ Procedure
 
 2. Use 4- or 5-figure log tables to calculate the following:
 
-   a) i)   :math:`28.5 \times 137`
-      ii)  :math:`0.056 \times 55.62`
-      iii) :math:`0.0335 \div 0.48`
+   a) i)    :math:`28.5 \times 137`
+      ii)   :math:`0.056 \times 55.62`
+      iii)  :math:`0.0335 \div 0.48`
+      iv)   :math:`73500 \div 0.6885`
+      v)    :math:`5.322^4`
+      vi)   :math:`\sqrt[3]{6.03}`
+      vii)  :math:`\log (0.002)`
+      viii) :math:`10^{1.3}`
 
-   b) i)    :math:`73500 \div 0.6885`
-      ii)   :math:`5.322^4`
-      iii)  :math:`\sqrt[3]{6.03}`
-      iv)   :math:`\log (0.002)`
-      v)    :math:`\sin (26°\ 36')`
-      vi)   :math:`\cos^{-1}(0.391)`
-      vii)  :math:`\tan (53.552°)`
-      viii) :math:`\tan (216°)`
-      ix)   :math:`\cos (126°)`
+   b) i)    :math:`\sin (26°\ 36')`
+      ii)   :math:`\cos^{-1}(0.391)`
+      iii)  :math:`\tan (53.552°)`
+      iv)   :math:`\tan (216°)`
+      v)    :math:`\cos (126°)`
 
    c) i)  Convert to radians: :math:`\quad 90° \qquad 72° \qquad 200°`
       ii) Convert to degrees: :math:`\quad 1.12\text{rad}  \qquad 3 \pi\text{rad} \qquad 3\pi/2\text{rad}`

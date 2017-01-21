@@ -87,6 +87,7 @@ Past Exam Papers
 
 
 .. |Header-Image| image:: /images/7.png
+                  :class: header-image
 
 .. Indices and tables
 .. ==================

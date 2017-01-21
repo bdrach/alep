@@ -1,5 +1,6 @@
 /* Images */
-img {max-width: 100%; max-height: 400px; display: block; margin: 20px auto 20px auto; }
+img { max-width: 100%; max-height: 400px; display: block; margin: 20px auto 20px auto; }
+.header-image { padding-right: 45px; }
 
 /* Lists */
 div.body ul { list-style: none; }
